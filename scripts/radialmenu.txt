@@ -115,18 +115,18 @@
 		}
 		"NorthEast"
 		{
-			"command"	"vocalize RevivedByDefibrillator"
-			"text"		"Defib"
+			"command"	"vocalize PlayerFollowMe"
+			"text"		"Follow"
 		}
 		"East"
 		{
-			"command"	"vocalize RelaxedSigh"
-			"text"		"Sigh"
+			"command"	"vocalize PlayerBackUp"
+			"text"		"Back up"
 		}
 		"SouthEast"
 		{
-			"command"	"vocalize UseAdrenaline"
-			"text"		"Adrenaline"
+			"command"	"vocalize PlayerWatchOutBehind"
+			"text"		"Behind"
 		}
 		"South"
 		{
@@ -135,13 +135,13 @@
 		}
 		"SouthWest"
 		{
-			"command"	"vocalize PlayerFollowMe"
-			"text"		"Follow"
+			"command"	"vocalize PlayerIncoming"
+			"text"		"Incoming"
 		}
 		"West"
 		{
-			"command"	"vocalize PlayerBackUp"
-			"text"		"Back up"
+			"command"	"vocalize PlayerYouAreWelcome"
+			"text"		"Welcome"
 		}
 		"NorthWest"
 		{
@@ -185,18 +185,18 @@
 		}
 		"SouthWest"
 		{
-			"command"	"vocalize PlayerIncoming"
-			"text"		"Incoming"
+			"command"	"vocalize RevivedByDefibrillator"
+			"text"		"Defib"
 		}
 		"West"
 		{
-			"command"	"vocalize PlayerYouAreWelcome"
-			"text"		"Welcome"
+			"command"	"vocalize RelaxedSigh"
+			"text"		"Sigh"
 		}
 		"NorthWest"
 		{
-			"command"	"vocalize PlayerWatchOutBehind"
-			"text"		"Behind"
+			"command"	"vocalize UseAdrenaline"
+			"text"		"Adrenaline"
 		}
 	}
 	
@@ -205,8 +205,8 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize PlayerLostCall"
-			"text"		"Anyone?"
+			"command"	"vocalize ScreamWhilePounced"
+			"text"		"Pounced"
 		}
 		"North"
 		{
@@ -220,8 +220,8 @@
 		}
 		"East"
 		{
-			"command"	"vocalize PlayerDeath"
-			"text"		"Scream"
+			"command"	"vocalize PlayerChoke"
+			"text"		"Choked"
 		}
 		"SouthEast"
 		{
@@ -230,13 +230,13 @@
 		}
 		"South"
 		{
-			"command"	"vocalize PlayerChoke"
-			"text"		"Choked"
+			"command"	"vocalize PlayerDeath"
+			"text"		"Scream"
 		}
 		"SouthWest"
 		{
-			"command"	"vocalize ScreamWhilePounced"
-			"text"		"Pounced"
+			"command"	"vocalize PlayerGroundPoundedByTank"
+			"text"		"Crushed"
 		}
 		"West"
 		{
@@ -245,8 +245,8 @@
 		}
 		"NorthWest"
 		{
-			"command"	"vocalize PlayerGroundPoundedByTank"
-			"text"		"Crushed"
+			"command"	"vocalize PlayerLostCall"
+			"text"		"Anyone?"
 		}
 	}
 
