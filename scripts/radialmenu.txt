@@ -1645,8 +1645,8 @@
 		}
 		"NorthWest"
 		{
-			"command"	"vocalize C6M1Intro_21d"
-			"text"		"Vampires"
+			"command"	"vocalize WorldC6M2_InSewer202a"
+			"text"		"Jesus"
 		}
 	}
 	
@@ -1655,8 +1655,8 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize WorldC6M2_InSewer202a"
-			"text"		"Jesus"
+			"command"	"vocalize DLC1_C6M2_SafeRoomConvo18c"
+			"text"		"What doing?"
 		}
 		"North"
 		{
@@ -1925,8 +1925,8 @@
 		}
 		"SouthEast"
 		{
-			"command"	"vocalize DLC1_C6M2_SafeRoomConvo21b"
-			"text"		"Movies"
+			"command"	"vocalize DLC1_C6M3_SafeRoomConvo03c"
+			"text"		"Turd"
 		}
 		"South"
 		{
