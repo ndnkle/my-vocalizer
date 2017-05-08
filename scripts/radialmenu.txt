@@ -1271,7 +1271,7 @@
 		"East"
 		{
 			"command"	"vocalize WorldC6M2_Tattoo02a"
-			"text"		"Where? (Coach)"
+			"text"		"Where, Coach?"
 		}
 		"SouthEast"
 		{
@@ -1290,8 +1290,8 @@
 		}
 		"West"
 		{
-			"command"	"vocalize WorldC6M2_InSewer202a"
-			"text"		"Carl"
+			"command"	"vocalize WorldC6M2_OnTourWalk102b"
+			"text"		"Shut up, Nick"
 		}
 		"NorthWest"
 		{
@@ -1335,8 +1335,8 @@
 		}
 		"SouthWest"
 		{
-			"command"	"vocalize WorldC6M2_OnTourWalk102b"
-			"text"		"Shut up, Nick"
+			"command"	"vocalize WorldC6M2_InSewer202a"
+			"text"		"Carl"
 		}
 		"West"
 		{
