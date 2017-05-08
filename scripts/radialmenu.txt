@@ -1186,7 +1186,7 @@
 		"SouthWest"
 		{
 			"command"	"vocalize C6M1Intro_10d"
-			"text"		"Being nice"
+			"text"		"Nick be nice"
 		}
 		"West"
 		{
@@ -1196,7 +1196,7 @@
 		"NorthWest"
 		{
 			"command"	"vocalize C6M1Intro_14d"
-			"text"		"Con man"
+			"text"		"Con man Nick"
 		}
 	}
 
@@ -1256,7 +1256,7 @@
 		"Center"
 		{
 			"command"	"vocalize C6M1Intro_17d"
-			"text"		"Shit"
+			"text"		"Well, shit"
 		}
 		"North"
 		{
@@ -1270,8 +1270,8 @@
 		}
 		"East"
 		{
-			"command"	"vocalize C1M2SafeRoomd2"
-			"text"		"Agree"
+			"command"	"vocalize WorldC6M2_Tattoo02a"
+			"text"		"Where? (Coach)"
 		}
 		"SouthEast"
 		{
@@ -1310,8 +1310,8 @@
 		}
 		"North"
 		{
-			"command"	"vocalize C1M2SafeRoomd2a"
-			"text"		"Gun store"
+			"command"	"vocalize _c1m4startelevator3c"
+			"text"		"Sup Ellis"
 		}
 		"NorthEast"
 		{
@@ -1326,7 +1326,7 @@
 		"SouthEast"
 		{
 			"command"	"vocalize DLC1_C6M2_SafeRoomConvo03c"
-			"text"		"Calm down"
+			"text"		"Calm down, Ellis"
 		}
 		"South"
 		{
@@ -1335,8 +1335,8 @@
 		}
 		"SouthWest"
 		{
-			"command"	"vocalize C1M4SafeRoom2b2"
-			"text"		"Jimmy Gibbs"
+			"command"	"vocalize WorldC6M2_OnTourWalk102b"
+			"text"		"Shut up, Nick"
 		}
 		"West"
 		{
@@ -1360,8 +1360,8 @@
 		}
 		"North"
 		{
-			"command"	"vocalize C5M3OnBridge"
-			"text"		"Bridge"
+			"command"	"vocalize DLC1_C6M3_SafeRoomConvo05d"
+			"text"		"Handsome man"
 		}
 		"NorthEast"
 		{
@@ -1421,7 +1421,7 @@
 		"East"
 		{
 			"command"	"vocalize C5M2Horse001"
-			"text"		"Nice Ellis"
+			"text"		"Observaton Ellis"
 		}
 		"SouthEast"
 		{
@@ -1535,8 +1535,8 @@
 		}
 		"SouthWest"
 		{
-			"command"	"vocalize WorldIntroC31b1"
-			"text"		"Friendly"
+			"command"	"vocalize c2m5_intro011"
+			"text"		"Coach Stupid Idea"
 		}
 		"West"
 		{
@@ -1586,7 +1586,7 @@
 		"SouthWest"
 		{
 			"command"	"vocalize c4m1_InBurgerTank01"
-			"text"		"Burger"
+			"text"		"Bacon Burger"
 		}
 		"West"
 		{
@@ -1646,7 +1646,7 @@
 		"NorthWest"
 		{
 			"command"	"vocalize WorldC6M2_InSewer202a"
-			"text"		"Jesus"
+			"text"		"Jesus, Ellis"
 		}
 	}
 	
@@ -1671,7 +1671,7 @@
 		"East"
 		{
 			"command"	"vocalize WorldC6M2_OnTourWalk103a"
-			"text"		"Shut up"
+			"text"		"Shut up, Nick"
 		}
 		"SouthEast"
 		{
@@ -1686,12 +1686,12 @@
 		"SouthWest"
 		{
 			"command"	"vocalize DLC1_C6M2_SafeRoomConvo01a"
-			"text"		"Priority"
+			"text"		"Bigger problems"
 		}
 		"West"
 		{
 			"command"	"vocalize WorldC6M1_WeddingWarn03a"
-			"text"		"Not now"
+			"text"		"Not now, Nick"
 		}
 		"NorthWest"
 		{
@@ -1715,8 +1715,8 @@
 		}
 		"NorthEast"
 		{
-			"command"	"vocalize WorldC502Smell2"
-			"text"		"Smell"
+			"command"	"vocalize _C1M1_ElevatorHello01a"
+			"text"		"Call me Coach"
 		}
 		"East"
 		{
@@ -1876,7 +1876,7 @@
 		"SouthEast"
 		{
 			"command"	"vocalize WorldC6M1_WeddingWarn03a"
-			"text"		"Shut up"
+			"text"		"Shut up, Nick"
 		}
 		"South"
 		{
@@ -1935,8 +1935,8 @@
 		}
 		"SouthWest"
 		{
-			"command"	"vocalize DLC1_C6M2_SafeRoomConvo19e"
-			"text"		"Jogging"
+			"command"	"vocalize C3M4Button1"
+			"text"		"Call Virgil"
 		}
 		"West"
 		{
@@ -1945,8 +1945,8 @@
 		}
 		"NorthWest"
 		{
-			"command"	"vocalize C6M1Intro_23b"
-			"text"		"Password"
+			"command"	"vocalize C2M3SafeIntro006"
+			"text"		"Make out"
 		}
 	}
 
