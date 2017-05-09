@@ -1271,7 +1271,7 @@
 		"East"
 		{
 			"command"	"vocalize WorldC6M2_Tattoo02a"
-			"text"		"Where, Coach?"
+			"text"		"Where Coach"
 		}
 		"SouthEast"
 		{
