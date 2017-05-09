@@ -276,7 +276,7 @@
 		"SouthEast"
 		{
 			"command"	"vocalize PlayerFriendlyFire"
-			"text"		"Stop it"
+			"text"		"Friendly Fire"
 		}
 		"South"
 		{
@@ -305,13 +305,13 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize ReviveFriendDown"
-			"text"		"Hurt"
+			"command"	"vocalize PlayerReviveFriend"
+			"text"		"Revive"
 		}
 		"North"
 		{
-			"command"	"vocalize PlayerLedgeHangMiddle"
-			"text"		"Hanging"
+			"command"	"vocalize C3M4Button1"
+			"text"		"Virgil Spam"
 		}
 		"NorthEast"
 		{
@@ -335,8 +335,8 @@
 		}
 		"SouthWest"
 		{
-			"command"	"vocalize PlayerIncapacitated"
-			"text"		"I'm down"
+			"command"	"Vocalize PlayerLedgeSave"
+			"text"		"Ledge Save"
 		}
 		"West"
 		{
@@ -1935,8 +1935,8 @@
 		}
 		"SouthWest"
 		{
-			"command"	"vocalize C3M4Button1"
-			"text"		"Call Virgil"
+			"command"	"vocalize DLC1_C6M2_SafeRoomConvo19e"
+			"text"		"Jogging"
 		}
 		"West"
 		{
