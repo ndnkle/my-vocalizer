@@ -1155,8 +1155,8 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize C6M1Intro_22a"
-			"text"		"Woman"
+			"command"	"vocalize C6M1Intro_18b"
+			"text"		"Asshole"
 		}
 		"North"
 		{
@@ -1190,8 +1190,8 @@
 		}
 		"West"
 		{
-			"command"	"vocalize C6M1Intro_18b"
-			"text"		"Asshole"
+			"command"	"vocalize C6M1Intro_22a"
+			"text"		"Woman"
 		}
 		"NorthWest"
 		{
@@ -1220,8 +1220,8 @@
 		}
 		"East"
 		{
-			"command"	"vocalize WorldSignReportSick3"
-			"text"		"Sick"
+			"command"	"vocalize _C4M5_Intro04"
+			"text"		"Plan"
 		}
 		"SouthEast"
 		{
@@ -1270,8 +1270,8 @@
 		}
 		"East"
 		{
-			"command"	"vocalize WorldC6M2_Tattoo02a"
-			"text"		"Where Coach"
+			"command"	"vocalize WorldC6M2_Tattoo02d"
+			"text"		"Ugh"
 		}
 		"SouthEast"
 		{
@@ -1305,8 +1305,8 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize WorldIntroC31a4"
-			"text"		"Where?"
+			"command"	"vocalize DLC1_C6M2_SafeRoomConvo03c"
+			"text"		"Calm, Ellis"
 		}
 		"North"
 		{
@@ -1320,13 +1320,13 @@
 		}
 		"East"
 		{
-			"command"	"vocalize _C4M5_Intro04"
-			"text"		"Plan"
+			"command"	"vocalize WorldSignReportSick3"
+			"text"		"Sick"
 		}
 		"SouthEast"
 		{
-			"command"	"vocalize DLC1_C6M2_SafeRoomConvo03c"
-			"text"		"Calm down, Ellis"
+			"command"	"vocalize WorldIntroC31a4"
+			"text"		"Where?"
 		}
 		"South"
 		{
@@ -1660,8 +1660,8 @@
 		}
 		"North"
 		{
-			"command"	"vocalize C5M1_intro008"
-			"text"		"Other side"
+			"command"	"vocalize _C2M2_SeeSafehouse01"
+			"text"		"Oh yeah"
 		}
 		"NorthEast"
 		{
