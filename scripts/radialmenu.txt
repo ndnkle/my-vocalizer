@@ -780,8 +780,8 @@
 		}
 		"South"
 		{
-			"command"	"vocalize airport04_08b"
-			"text"		"Joking"
+			"command"	"vocalize hospital05_path01b"
+			"text"		"Works for me"
 		}
 		"SouthWest"
 		{
@@ -905,8 +905,8 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize C7M3_saferoom009a"
-			"text"		"Sound"
+			"command"	"vocalize airport04_08b"
+			"text"		"Joking"
 		}
 		"North"
 		{
