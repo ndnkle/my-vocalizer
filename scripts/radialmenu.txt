@@ -1656,7 +1656,7 @@
 		"Center"
 		{
 			"command"	"vocalize DLC1_C6M2_SafeRoomConvo18c"
-			"text"		"What doing?"
+			"text"		"Girl, what"
 		}
 		"North"
 		{
