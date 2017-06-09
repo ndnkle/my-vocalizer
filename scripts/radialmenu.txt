@@ -385,8 +385,8 @@
 		}
 		"SouthWest"
 		{
-			"command"	"vocalize ConceptBlock037"
-			"text"		"Dick"
+			"command"	"vocalize C7M3_saferoom004b"
+			"text"		"Boo"
 		}
 		"West"
 		{
@@ -405,8 +405,8 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize C7M3_saferoom004b"
-			"text"		"Boo"
+			"command"	"vocalize ConceptBlock037"
+			"text"		"Dick"
 		}
 		"North"
 		{
