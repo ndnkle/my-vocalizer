@@ -349,6 +349,56 @@
 			"text"		"Chopper"
 		}
 	}
+	
+	//--------------------------------------------------------------
+	"Misc3,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"vocalize What"
+			"text"		"What? [2]"
+		}
+		"North"
+		{
+			"command"	"vocalize conversation"
+			"text"		"Conversation"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize BattleCry"
+			"text"		"BattleCry"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/ReviveFriendA16.vcd"
+			"text"		"R Crying"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/DLC1_C6M2_InWaterFindLadder01.vcd"
+			"text"		"R Turd"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Mechanic/DLC1_C6M2_Tattoo01.vcd"
+			"text"		"E Tattoo"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/DLC1_C6M3_FinaleL4D1Items06.vcd"
+			"text"		"N Thanks, babe!"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/NegativeNoise03.vcd"
+			"text"		"L Plprrr"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/DLC2M2FinaleButtonPressGen102.vcd"
+			"text"		"L Start Baby"
+		}
+	}
 
 	//--------------------------------------------------------------
 	"Z1,Survivor,Alive"
