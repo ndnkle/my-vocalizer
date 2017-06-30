@@ -399,6 +399,56 @@
 			"text"		"L Start Baby"
 		}
 	}
+	
+	//--------------------------------------------------------------
+	"Misc4,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/c6dlc3communitylines02.vcd"
+			"text"		"B Hat"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/C6DLC3OPENINGDOOR06.vcd"
+			"text"		"Z Chickenshits"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/DLC1_C6M3_L4D1FinaleCinematic15.vcd"
+			"text"		"Z Proclaim"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/DLC1_C6M3_L4D1FinaleCinematic16.vcd"
+			"text"		"Z You maniacs!"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/C6DLC3BILLDIES06.vcd"
+			"text"		"F TY Old Bastard"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/C6DLC3INTANKTRAINCAR03.vcd"
+			"text"		"F Bill beard smell"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/C6DLC3JUMPINGOFFBRIDGE04.vcd"
+			"text"		"F Save everybody"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/GenericResponses18.vcd"
+			"text"		"L It's Louis"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/totherescuethanks03.vcd"
+			"text"		"B Lonely"
+		}
+	}
 
 	//--------------------------------------------------------------
 	"Z1,Survivor,Alive"
