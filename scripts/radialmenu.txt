@@ -380,8 +380,8 @@
 		}
 		"South"
 		{
-			"command"	"sm_vocalize @me scenes/Producer/WorldC2M2B22.vcd"
-			"text"		"R Unhappy"
+			"command"	"sm_vocalize @me scenes/Gambler/NickOcd04.vcd"
+			"text"		"N Smell"
 		}
 		"SouthWest"
 		{
@@ -1680,8 +1680,8 @@
 		}
 		"South"
 		{
-			"command"	"sm_vocalize @me scenes/Producer/DLC1_C6M2_StartingJukeBox03.vcd"
-			"text"		"AYYYYYEEEE!"
+			"command"	"sm_vocalize @me scenes/Producer/WorldC2M2B22.vcd"
+			"text"		"Unhappy"
 		}
 		"SouthWest"
 		{
