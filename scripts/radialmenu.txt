@@ -355,7 +355,7 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize What"
+			"command"	"vocalize _what"
 			"text"		"What? [2]"
 		}
 		"North"
@@ -370,33 +370,33 @@
 		}
 		"East"
 		{
-			"command"	"sm_vocalize @me scenes/Producer/ReviveFriendA16.vcd"
-			"text"		"R Crying"
+			"command"	"sm_vocalize @me scenes/Gambler/Taunt04.vcd"
+			"text"		"N Stick"
 		}
 		"SouthEast"
 		{
-			"command"	"sm_vocalize @me scenes/Producer/DLC1_C6M2_InWaterFindLadder01.vcd"
-			"text"		"R Turd"
+			"command"	"sm_vocalize @me scenes/Gambler/Taunt01.vcd"
+			"text"		"N Suck"
 		}
 		"South"
 		{
-			"command"	"sm_vocalize @me scenes/Mechanic/DLC1_C6M2_Tattoo01.vcd"
-			"text"		"E Tattoo"
+			"command"	"sm_vocalize @me scenes/Producer/WorldC2M2B22.vcd"
+			"text"		"R Unhappy"
 		}
 		"SouthWest"
 		{
-			"command"	"sm_vocalize @me scenes/Gambler/DLC1_C6M3_FinaleL4D1Items06.vcd"
-			"text"		"N Thanks, babe!"
+			"command"	""
+			"text"		""
 		}
 		"West"
 		{
-			"command"	"sm_vocalize @me scenes/Manager/NegativeNoise03.vcd"
-			"text"		"L Plprrr"
+			"command"	""
+			"text"		""
 		}
 		"NorthWest"
 		{
-			"command"	"sm_vocalize @me scenes/Manager/DLC2M2FinaleButtonPressGen102.vcd"
-			"text"		"L Start Baby"
+			"command"	""
+			"text"		""
 		}
 	}
 	
@@ -405,48 +405,48 @@
 	{
 		"Center"
 		{
-			"command"	"sm_vocalize @me scenes/NamVet/c6dlc3communitylines02.vcd"
-			"text"		"B Hat"
+			"command"	""
+			"text"		""
 		}
 		"North"
 		{
-			"command"	"sm_vocalize @me scenes/TeenGirl/C6DLC3OPENINGDOOR06.vcd"
-			"text"		"Z Chickenshits"
+			"command"	""
+			"text"		""
 		}
 		"NorthEast"
 		{
-			"command"	"sm_vocalize @me scenes/TeenGirl/DLC1_C6M3_L4D1FinaleCinematic15.vcd"
-			"text"		"Z Proclaim"
+			"command"	""
+			"text"		""
 		}
 		"East"
 		{
-			"command"	"sm_vocalize @me scenes/TeenGirl/DLC1_C6M3_L4D1FinaleCinematic16.vcd"
-			"text"		"Z You maniacs!"
+			"command"	""
+			"text"		""
 		}
 		"SouthEast"
 		{
-			"command"	"sm_vocalize @me scenes/Biker/C6DLC3BILLDIES06.vcd"
-			"text"		"F TY Old Bastard"
+			"command"	""
+			"text"		""
 		}
 		"South"
 		{
-			"command"	"sm_vocalize @me scenes/Biker/C6DLC3INTANKTRAINCAR03.vcd"
-			"text"		"F Bill beard smell"
+			"command"	""
+			"text"		""
 		}
 		"SouthWest"
 		{
-			"command"	"sm_vocalize @me scenes/Biker/C6DLC3JUMPINGOFFBRIDGE04.vcd"
-			"text"		"F Save everybody"
+			"command"	""
+			"text"		""
 		}
 		"West"
 		{
-			"command"	"sm_vocalize @me scenes/Manager/GenericResponses18.vcd"
-			"text"		"L It's Louis"
+			"command"	""
+			"text"		""
 		}
 		"NorthWest"
 		{
-			"command"	"sm_vocalize @me scenes/NamVet/totherescuethanks03.vcd"
-			"text"		"B Lonely"
+			"command"	""
+			"text"		""
 		}
 	}
 
@@ -649,6 +649,56 @@
 			"text"		"Shoot you"
 		}
 	}
+	
+	//--------------------------------------------------------------
+	"Z5,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/GenericResponses21.vcd"
+			"text"		"It's Zoey"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/DLC1_C6M3_L4D1FinaleCinematic15.vcd"
+			"text"		"Proclaim"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/DLC1_C6M3_L4D1FinaleCinematic16.vcd"
+			"text"		"You maniacs!"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/DLC1_C6M3_L4D1FinaleCinematic17.vcd"
+			"text"		"Soylent green"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/DLC1_C6M3_L4D1FinaleCinematic19.vcd"
+			"text"		"Y'all come back"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/C6DLC3JUMPINGOFFBRIDGE07.vcd"
+			"text"		"These.. Guns"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/C6DLC3TANKINTRAINYARD10.vcd"
+			"text"		"Girl deathtrap"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/WorldAirport0404.vcd"
+			"text"		"Killed god"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/C6DLC3OPENINGDOOR06.vcd"
+			"text"		"Chickenshits"
+		}
+	}
 
 	//--------------------------------------------------------------
 	"F1,Survivor,Alive"
@@ -847,6 +897,56 @@
 		{
 			"command"	"vocalize c6m3_outroL4D108a"
 			"text"		"Not heard"
+		}
+	}
+	
+	//--------------------------------------------------------------
+	"F5,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/GenericResponses18.vcd"
+			"text"		"It's Francis!"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/C6DLC3INTANKTRAINCAR03.vcd"
+			"text"		"Bill beard smell"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/C6DLC3JUMPINGOFFBRIDGE04.vcd"
+			"text"		"Save everybody"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/dlc1_c6m3_finalechat33.vcd"
+			"text"		"Slow"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/dlc1_c6m3_finalechat32.vcd"
+			"text"		"Woman of taste"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/dlc1_c6m3_finalechat25.vcd"
+			"text"		"Witch??"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/C6DLC3OTHERBOATS13.vcd"
+			"text"		"Boat with wheels"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/C6DLC3JUMPINGOFFBRIDGE01.vcd"
+			"text"		"Brave"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/WorldAirport05NPC10.vcd"
+			"text"		"A hero"
 		}
 	}
 
@@ -1049,6 +1149,56 @@
 			"text"		"Scenery"
 		}
 	}
+	
+	//--------------------------------------------------------------
+	"L5,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/GenericResponses18.vcd"
+			"text"		"It's Louis"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/DLC2M2FinaleButtonPressGen102.vcd"
+			"text"		"Start Baby"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/NegativeNoise03.vcd"
+			"text"		"Plprrr"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/C6DLC3JUMPINGOFFBRIDGE17.vcd"
+			"text"		"Don't save"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/C6DLC3INTANKTRAINCAR07.vcd"
+			"text"		"Gross shit"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/dlc2swearcoupdegrace17.vcd"
+			"text"		"Bitch apocalypse"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/DLC1_L4D1Tank01.vcd"
+			"text"		"Lead those puppies"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/Manager_FriendlyFireBill02.vcd"
+			"text"		"Whoah, whoah!"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/Generic14.vcd"
+			"text"		"Belche"
+		}
+	}
 
 	//--------------------------------------------------------------
 	"B1,Survivor,Alive"
@@ -1247,6 +1397,56 @@
 		{
 			"command"	"vocalize C7M1_saferoom04b"
 			"text"		"Idiots"
+		}
+	}
+	
+	//--------------------------------------------------------------
+	"B5,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/c6dlc3communitylines02.vcd"
+			"text"		"Hat"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/totherescuethanks03.vcd"
+			"text"		"Lonely"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/ReviveFriendB13.vcd"
+			"text"		"Big mouth"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/c6dlc3communitylines04.vcd"
+			"text"		"10 miles"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/TeamKillAccident02.vcd"
+			"text"		"Lost mind?"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/c6dlc3movieline15.vcd"
+			"text"		"Good enough"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/C6DLC3INTRO26.vcd"
+			"text"		"Zoey mad?"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/C6DLC3INTANKTRAINCAR03.vcd"
+			"text"		"Stinks like shit"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/GettingRevived11.vcd"
+			"text"		"Who are you?"
 		}
 	}
 
@@ -1449,6 +1649,56 @@
 			"text"		"Memories"
 		}
 	}
+	
+	//--------------------------------------------------------------
+	"R5,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/ReviveFriendA16.vcd"
+			"text"		"Crying"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/DLC1_C6M2_InWaterFindLadder01.vcd"
+			"text"		"Turd"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/WorldC1M2B50.vcd"
+			"text"		"New favorite"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/DLC1_CommunityR13.vcd"
+			"text"		"All aboard"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/DLC1_C6M3_SafeRoomConvo11.vcd"
+			"text"		"Nick leave him alone"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/DLC1_C6M2_StartingJukeBox03.vcd"
+			"text"		"AYYYYYEEEE!"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/DLC1_C6M1_WeddingWitch11.vcd"
+			"text"		"Ellis, angel"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/DLC1_C6M2_Phase2InWater08.vcd"
+			"text"		"Ellis, not laughing"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/DLC1_C6M3_SafeRoomConvo14.vcd"
+			"text"		"Woman for Nick"
+		}
+	}
 
 	//--------------------------------------------------------------
 	"N1,Survivor,Alive"
@@ -1647,6 +1897,56 @@
 		{
 			"command"	"vocalize WorldC6M1_PostWedding02a"
 			"text"		"Marrying"
+		}
+	}
+	
+	//--------------------------------------------------------------
+	"N5,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/DLC1_C6M2_MidnightRiders04.vcd"
+			"text"		"Dreaming"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/ReactionNegative30.vcd"
+			"text"		"Bitch"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/DLC1_C6M2_Tattoo02.vcd"
+			"text"		"Ellis tattoo"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/DLC1_C6M3_FinaleL4D1Items06.vcd"
+			"text"		"Thanks, babe!"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/DLC1_C6M1_WeddingWitchDead11.vcd"
+			"text"		"Honeymoon's over"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/DLC1_C6M1_WeddingWitchDead04.vcd"
+			"text"		"Too weird"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/DLC1_C6M1_WeddingWitchDead01.vcd"
+			"text"		"Fantasy"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/WorldC1M1B121.vcd"
+			"text"		"Call 911"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/DLC1_C6M2_Phase2InWater19.vcd"
+			"text"		"Bad advice"
 		}
 	}
 
@@ -1849,6 +2149,56 @@
 			"text"		"Dirt"
 		}
 	}
+	
+	//--------------------------------------------------------------
+	"C5,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/Coach/DLC1_C6M2_MidnightRiders02.vcd"
+			"text"		"Dreaming"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/Coach/dlc1_community04.vcd"
+			"text"		"Live or Die"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Coach/dlc1_community11.vcd"
+			"text"		"Night"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Coach/dlc1_community13.vcd"
+			"text"		"Health class"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Coach/DLC1_C6M1_WeddingWitchChasing02.vcd"
+			"text"		"Ugly bride"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Coach/DLC1_C6M3_FinaleChat08.vcd"
+			"text"		"Live up here"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Coach/DLC1_C6M3_FinaleCinematic03.vcd"
+			"text"		"Ride"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/Coach/DLC1_C6M3_SafeRoomConvo01.vcd"
+			"text"		"Faith Nick"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Coach/DLC1_C6M2_Phase2InWater03.vcd"
+			"text"		"Don't trip Nick"
+		}
+	}
 
 	//--------------------------------------------------------------
 	"E1,Survivor,Alive"
@@ -2049,6 +2399,56 @@
 			"text"		"Make out"
 		}
 	}
+	
+	//--------------------------------------------------------------
+	"E5,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/Mechanic/World121.vcd"
+			"text"		"Sick man"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/Mechanic/SeeDeadSpitter06.vcd"
+			"text"		"Nick's GF"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Mechanic/DLC1_C6M2_Phase2InWater02.vcd"
+			"text"		"Candy bar"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Mechanic/DLC1_C6M2_Tattoo01.vcd"
+			"text"		"Tattoos"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Mechanic/World304.vcd"
+			"text"		"Ro hustle"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Mechanic/WorldC1M1B74.vcd"
+			"text"		"Breaking"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Mechanic/WorldC2M123.vcd"
+			"text"		"Coach breathe"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/Mechanic/WorldC5M2B01.vcd"
+			"text"		"Horse"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Mechanic/DLC1_CommunityE16.vcd"
+			"text"		"All aboard"
+		}
+	}
 
 	//--------------------------------------------------------------
 	"Characters,Survivor,Alive"
@@ -2060,42 +2460,42 @@
 		}
 		"North"
 		{
-			"command"	"alias +char1 +mouse_menu Z1; alias +char2 +mouse_menu Z2; alias +char3 +mouse_menu Z3; alias +char4 +mouse_menu Z4; alias -char1 -mouse_menu; alias -char2 -mouse_menu; alias -char3 -mouse_menu; alias -char4 -mouse_menu"
+			"command"	"alias +c1 +mouse_menu Z1; alias +c2 +mouse_menu Z2; alias +c3 +mouse_menu Z3; alias +c4 +mouse_menu Z4; alias +c5 +mouse_menu Z5; alias -c1 -mouse_menu; alias -c2 -mouse_menu; alias -c3 -mouse_menu; alias -c4 -mouse_menu; alias -c5 -mouse_menu"
 			"text"		"Zoey"
 		}
 		"NorthEast"
 		{
-			"command"	"alias +char1 +mouse_menu E1; alias +char2 +mouse_menu E2; alias +char3 +mouse_menu E3; alias +char4 +mouse_menu E4; alias -char1 -mouse_menu; alias -char2 -mouse_menu; alias -char3 -mouse_menu; alias -char4 -mouse_menu"
+			"command"	"alias +c1 +mouse_menu E1; alias +c2 +mouse_menu E2; alias +c3 +mouse_menu E3; alias +c4 +mouse_menu E4; alias +c5 +mouse_menu E5; alias -c1 -mouse_menu; alias -c2 -mouse_menu; alias -c3 -mouse_menu; alias -c4 -mouse_menu; alias -c5 -mouse_menu"
 			"text"		"Ellis"
 		}
 		"East"
 		{
-			"command"	"alias +char1 +mouse_menu C1; alias +char2 +mouse_menu C2; alias +char3 +mouse_menu C3; alias +char4 +mouse_menu C4; alias -char1 -mouse_menu; alias -char2 -mouse_menu; alias -char3 -mouse_menu; alias -char4 -mouse_menu"
+			"command"	"alias +c1 +mouse_menu C1; alias +c2 +mouse_menu C2; alias +c3 +mouse_menu C3; alias +c4 +mouse_menu C4; alias +c5 +mouse_menu C5; alias -c1 -mouse_menu; alias -c2 -mouse_menu; alias -c3 -mouse_menu; alias -c4 -mouse_menu; alias -c5 -mouse_menu"
 			"text"		"Coach"
 		}
 		"SouthEast"
 		{
-			"command"	"alias +char1 +mouse_menu N1; alias +char2 +mouse_menu N2; alias +char3 +mouse_menu N3; alias +char4 +mouse_menu N4; alias -char1 -mouse_menu; alias -char2 -mouse_menu; alias -char3 -mouse_menu; alias -char4 -mouse_menu"
+			"command"	"alias +c1 +mouse_menu N1; alias +c2 +mouse_menu N2; alias +c3 +mouse_menu N3; alias +c4 +mouse_menu N4; alias +c5 +mouse_menu N5; alias -c1 -mouse_menu; alias -c2 -mouse_menu; alias -c3 -mouse_menu; alias -c4 -mouse_menu; alias -c5 -mouse_menu"
 			"text"		"Nick"
 		}
 		"South"
 		{
-			"command"	"alias +char1 +mouse_menu R1; alias +char2 +mouse_menu R2; alias +char3 +mouse_menu R3; alias +char4 +mouse_menu R4; alias -char1 -mouse_menu; alias -char2 -mouse_menu; alias -char3 -mouse_menu; alias -char4 -mouse_menu"
+			"command"	"alias +c1 +mouse_menu R1; alias +c2 +mouse_menu R2; alias +c3 +mouse_menu R3; alias +c4 +mouse_menu R4; alias +c5 +mouse_menu R5; alias -c1 -mouse_menu; alias -c2 -mouse_menu; alias -c3 -mouse_menu; alias -c4 -mouse_menu; alias -c5 -mouse_menu"
 			"text"		"Rochelle"
 		}
 		"SouthWest"
 		{
-			"command"	"alias +char1 +mouse_menu B1; alias +char2 +mouse_menu B2; alias +char3 +mouse_menu B3; alias +char4 +mouse_menu B4; alias -char1 -mouse_menu; alias -char2 -mouse_menu; alias -char3 -mouse_menu; alias -char4 -mouse_menu"
+			"command"	"alias +c1 +mouse_menu B1; alias +c2 +mouse_menu B2; alias +c3 +mouse_menu B3; alias +c4 +mouse_menu B4; alias +c5 +mouse_menu B5; alias -c1 -mouse_menu; alias -c2 -mouse_menu; alias -c3 -mouse_menu; alias -c4 -mouse_menu; alias -c5 -mouse_menu"
 			"text"		"Bill"
 		}
 		"West"
 		{
-			"command"	"alias +char1 +mouse_menu L1; alias +char2 +mouse_menu L2; alias +char3 +mouse_menu L3; alias +char4 +mouse_menu L4; alias -char1 -mouse_menu; alias -char2 -mouse_menu; alias -char3 -mouse_menu; alias -char4 -mouse_menu"
+			"command"	"alias +c1 +mouse_menu L1; alias +c2 +mouse_menu L2; alias +c3 +mouse_menu L3; alias +c4 +mouse_menu L4; alias +c5 +mouse_menu L5; alias -c1 -mouse_menu; alias -c2 -mouse_menu; alias -c3 -mouse_menu; alias -c4 -mouse_menu; alias -c5 -mouse_menu"
 			"text"		"Louis"
 		}
 		"NorthWest"
 		{
-			"command"	"alias +char1 +mouse_menu F1; alias +char2 +mouse_menu F2; alias +char3 +mouse_menu F3; alias +char4 +mouse_menu F4; alias -char1 -mouse_menu; alias -char2 -mouse_menu; alias -char3 -mouse_menu; alias -char4 -mouse_menu"
+			"command"	"alias +c1 +mouse_menu F1; alias +c2 +mouse_menu F2; alias +c3 +mouse_menu F3; alias +c4 +mouse_menu F4; alias +c5 +mouse_menu F5; alias -c1 -mouse_menu; alias -c2 -mouse_menu; alias -c3 -mouse_menu; alias -c4 -mouse_menu; alias -c5 -mouse_menu"
 			"text"		"Francis"
 		}
 	}
@@ -2110,42 +2510,42 @@
 		}
 		"North"
 		{
-			"command"	"alias +char1 +mouse_menu Z1; alias +char2 +mouse_menu Z2; alias +char3 +mouse_menu Z3; alias +char4 +mouse_menu Z4; alias -char1 -mouse_menu; alias -char2 -mouse_menu; alias -char3 -mouse_menu; alias -char4 -mouse_menu"
+			"command"	"alias +c1 +mouse_menu Z1; alias +c2 +mouse_menu Z2; alias +c3 +mouse_menu Z3; alias +c4 +mouse_menu Z4; alias +c5 +mouse_menu Z5; alias -c1 -mouse_menu; alias -c2 -mouse_menu; alias -c3 -mouse_menu; alias -c4 -mouse_menu; alias -c5 -mouse_menu"
 			"text"		"Zoey"
 		}
 		"NorthEast"
 		{
-			"command"	"alias +char1 +mouse_menu E1; alias +char2 +mouse_menu E2; alias +char3 +mouse_menu E3; alias +char4 +mouse_menu E4; alias -char1 -mouse_menu; alias -char2 -mouse_menu; alias -char3 -mouse_menu; alias -char4 -mouse_menu"
+			"command"	"alias +c1 +mouse_menu E1; alias +c2 +mouse_menu E2; alias +c3 +mouse_menu E3; alias +c4 +mouse_menu E4; alias +c5 +mouse_menu E5; alias -c1 -mouse_menu; alias -c2 -mouse_menu; alias -c3 -mouse_menu; alias -c4 -mouse_menu; alias -c5 -mouse_menu"
 			"text"		"Ellis"
 		}
 		"East"
 		{
-			"command"	"alias +char1 +mouse_menu C1; alias +char2 +mouse_menu C2; alias +char3 +mouse_menu C3; alias +char4 +mouse_menu C4; alias -char1 -mouse_menu; alias -char2 -mouse_menu; alias -char3 -mouse_menu; alias -char4 -mouse_menu"
+			"command"	"alias +c1 +mouse_menu C1; alias +c2 +mouse_menu C2; alias +c3 +mouse_menu C3; alias +c4 +mouse_menu C4; alias +c5 +mouse_menu C5; alias -c1 -mouse_menu; alias -c2 -mouse_menu; alias -c3 -mouse_menu; alias -c4 -mouse_menu; alias -c5 -mouse_menu"
 			"text"		"Coach"
 		}
 		"SouthEast"
 		{
-			"command"	"alias +char1 +mouse_menu N1; alias +char2 +mouse_menu N2; alias +char3 +mouse_menu N3; alias +char4 +mouse_menu N4; alias -char1 -mouse_menu; alias -char2 -mouse_menu; alias -char3 -mouse_menu; alias -char4 -mouse_menu"
+			"command"	"alias +c1 +mouse_menu N1; alias +c2 +mouse_menu N2; alias +c3 +mouse_menu N3; alias +c4 +mouse_menu N4; alias +c5 +mouse_menu N5; alias -c1 -mouse_menu; alias -c2 -mouse_menu; alias -c3 -mouse_menu; alias -c4 -mouse_menu; alias -c5 -mouse_menu"
 			"text"		"Nick"
 		}
 		"South"
 		{
-			"command"	"alias +char1 +mouse_menu R1; alias +char2 +mouse_menu R2; alias +char3 +mouse_menu R3; alias +char4 +mouse_menu R4; alias -char1 -mouse_menu; alias -char2 -mouse_menu; alias -char3 -mouse_menu; alias -char4 -mouse_menu"
+			"command"	"alias +c1 +mouse_menu R1; alias +c2 +mouse_menu R2; alias +c3 +mouse_menu R3; alias +c4 +mouse_menu R4; alias +c5 +mouse_menu R5; alias -c1 -mouse_menu; alias -c2 -mouse_menu; alias -c3 -mouse_menu; alias -c4 -mouse_menu; alias -c5 -mouse_menu"
 			"text"		"Rochelle"
 		}
 		"SouthWest"
 		{
-			"command"	"alias +char1 +mouse_menu B1; alias +char2 +mouse_menu B2; alias +char3 +mouse_menu B3; alias +char4 +mouse_menu B4; alias -char1 -mouse_menu; alias -char2 -mouse_menu; alias -char3 -mouse_menu; alias -char4 -mouse_menu"
+			"command"	"alias +c1 +mouse_menu B1; alias +c2 +mouse_menu B2; alias +c3 +mouse_menu B3; alias +c4 +mouse_menu B4; alias +c5 +mouse_menu B5; alias -c1 -mouse_menu; alias -c2 -mouse_menu; alias -c3 -mouse_menu; alias -c4 -mouse_menu; alias -c5 -mouse_menu"
 			"text"		"Bill"
 		}
 		"West"
 		{
-			"command"	"alias +char1 +mouse_menu L1; alias +char2 +mouse_menu L2; alias +char3 +mouse_menu L3; alias +char4 +mouse_menu L4; alias -char1 -mouse_menu; alias -char2 -mouse_menu; alias -char3 -mouse_menu; alias -char4 -mouse_menu"
+			"command"	"alias +c1 +mouse_menu L1; alias +c2 +mouse_menu L2; alias +c3 +mouse_menu L3; alias +c4 +mouse_menu L4; alias +c5 +mouse_menu L5; alias -c1 -mouse_menu; alias -c2 -mouse_menu; alias -c3 -mouse_menu; alias -c4 -mouse_menu; alias -c5 -mouse_menu"
 			"text"		"Louis"
 		}
 		"NorthWest"
 		{
-			"command"	"alias +char1 +mouse_menu F1; alias +char2 +mouse_menu F2; alias +char3 +mouse_menu F3; alias +char4 +mouse_menu F4; alias -char1 -mouse_menu; alias -char2 -mouse_menu; alias -char3 -mouse_menu; alias -char4 -mouse_menu"
+			"command"	"alias +c1 +mouse_menu F1; alias +c2 +mouse_menu F2; alias +c3 +mouse_menu F3; alias +c4 +mouse_menu F4; alias +c5 +mouse_menu F5; alias -c1 -mouse_menu; alias -c2 -mouse_menu; alias -c3 -mouse_menu; alias -c4 -mouse_menu; alias -c5 -mouse_menu"
 			"text"		"Francis"
 		}
 	}
@@ -2160,42 +2560,42 @@
 		}
 		"North"
 		{
-			"command"	"alias +char1 +mouse_menu Z1; alias +char2 +mouse_menu Z2; alias +char3 +mouse_menu Z3; alias +char4 +mouse_menu Z4; alias -char1 -mouse_menu; alias -char2 -mouse_menu; alias -char3 -mouse_menu; alias -char4 -mouse_menu; jointeam 2 zoey; radialmenu none"
+			"command"	"jointeam 2 zoey; radialmenu none"
 			"text"		"Zoey"
 		}
 		"NorthEast"
 		{
-			"command"	"alias +char1 +mouse_menu E1; alias +char2 +mouse_menu E2; alias +char3 +mouse_menu E3; alias +char4 +mouse_menu E4; alias -char1 -mouse_menu; alias -char2 -mouse_menu; alias -char3 -mouse_menu; alias -char4 -mouse_menu; jointeam 2 ellis; radialmenu none"
+			"command"	"jointeam 2 ellis; radialmenu none"
 			"text"		"Ellis"
 		}
 		"East"
 		{
-			"command"	"alias +char1 +mouse_menu C1; alias +char2 +mouse_menu C2; alias +char3 +mouse_menu C3; alias +char4 +mouse_menu C4; alias -char1 -mouse_menu; alias -char2 -mouse_menu; alias -char3 -mouse_menu; alias -char4 -mouse_menu; jointeam 2 coach; radialmenu none"
+			"command"	"jointeam 2 coach; radialmenu none"
 			"text"		"Coach"
 		}
 		"SouthEast"
 		{
-			"command"	"alias +char1 +mouse_menu N1; alias +char2 +mouse_menu N2; alias +char3 +mouse_menu N3; alias +char4 +mouse_menu N4; alias -char1 -mouse_menu; alias -char2 -mouse_menu; alias -char3 -mouse_menu; alias -char4 -mouse_menu; jointeam 2 nick; radialmenu none"
+			"command"	"jointeam 2 nick; radialmenu none"
 			"text"		"Nick"
 		}
 		"South"
 		{
-			"command"	"alias +char1 +mouse_menu R1; alias +char2 +mouse_menu R2; alias +char3 +mouse_menu R3; alias +char4 +mouse_menu R4; alias -char1 -mouse_menu; alias -char2 -mouse_menu; alias -char3 -mouse_menu; alias -char4 -mouse_menu; jointeam 2 rochelle; radialmenu none"
+			"command"	"jointeam 2 rochelle; radialmenu none"
 			"text"		"Rochelle"
 		}
 		"SouthWest"
 		{
-			"command"	"alias +char1 +mouse_menu B1; alias +char2 +mouse_menu B2; alias +char3 +mouse_menu B3; alias +char4 +mouse_menu B4; alias -char1 -mouse_menu; alias -char2 -mouse_menu; alias -char3 -mouse_menu; alias -char4 -mouse_menu; jointeam 2 bill; radialmenu none"
+			"command"	"jointeam 2 bill; radialmenu none"
 			"text"		"Bill"
 		}
 		"West"
 		{
-			"command"	"alias +char1 +mouse_menu L1; alias +char2 +mouse_menu L2; alias +char3 +mouse_menu L3; alias +char4 +mouse_menu L4; alias -char1 -mouse_menu; alias -char2 -mouse_menu; alias -char3 -mouse_menu; alias -char4 -mouse_menu; jointeam 2 louis; radialmenu none"
+			"command"	"jointeam 2 louis; radialmenu none"
 			"text"		"Louis"
 		}
 		"NorthWest"
 		{
-			"command"	"alias +char1 +mouse_menu F1; alias +char2 +mouse_menu F2; alias +char3 +mouse_menu F3; alias +char4 +mouse_menu F4; alias -char1 -mouse_menu; alias -char2 -mouse_menu; alias -char3 -mouse_menu; alias -char4 -mouse_menu; jointeam 2 francis; radialmenu none"
+			"command"	"jointeam 2 francis; radialmenu none"
 			"text"		"Francis"
 		}
 	}
