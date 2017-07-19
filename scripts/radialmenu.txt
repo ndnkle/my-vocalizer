@@ -1390,8 +1390,8 @@
 		}
 		"West"
 		{
-			"command"	"vocalize InfoRemc7m1_harborblocked01"
-			"text"		"Ocean"
+			"command"	"vocalize ConceptBlock653"
+			"text"		"Humming"
 		}
 		"NorthWest"
 		{
