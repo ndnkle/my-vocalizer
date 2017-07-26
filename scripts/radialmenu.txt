@@ -760,18 +760,18 @@
 		}
 		"North"
 		{
-			"command"	"vocalize CrashCourseR07"
-			"text"		"Hate Canada"
+			"command"	"vocalize C7M2_saferoom02c"
+			"text"		"Bill's an idiot"
 		}
 		"NorthEast"
 		{
-			"command"	"vocalize airport04_vana"
-			"text"		"Hate vans"
+			"command"	"vocalize C7M3_saferoom017e"
+			"text"		"Stupid island"
 		}
 		"East"
 		{
-			"command"	"vocalize C7M1_saferoom17"
-			"text"		"Hate islands"
+			"command"	"vocalize ConceptBlock023"
+			"text"		"We're cops, Open up"
 		}
 		"SouthEast"
 		{
@@ -841,7 +841,7 @@
 		"West"
 		{
 			"command"	"vocalize InfoRemc7m1_tankcar01"
-			"text"		"Tanks"
+			"text"		"Tanks?"
 		}
 		"NorthWest"
 		{
@@ -1270,8 +1270,8 @@
 		}
 		"East"
 		{
-			"command"	"vocalize InfoRemc7m2_seebarge01"
-			"text"		"Pilot"
+			"command"	"vocalize DontBeAnAss"
+			"text"		"Don't be an ass, Francis"
 		}
 		"SouthEast"
 		{
