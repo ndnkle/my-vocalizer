@@ -205,8 +205,8 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize ScreamWhilePounced"
-			"text"		"Pounced"
+			"command"	"vocalize PlayerDeath"
+			"text"		"Scream"
 		}
 		"North"
 		{
@@ -230,8 +230,8 @@
 		}
 		"South"
 		{
-			"command"	"vocalize PlayerDeath"
-			"text"		"Scream"
+			"command"	"vocalize ScreamWhilePounced"
+			"text"		"Pounced"
 		}
 		"SouthWest"
 		{
