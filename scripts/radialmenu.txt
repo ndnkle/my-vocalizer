@@ -1235,8 +1235,8 @@
 		}
 		"SouthWest"
 		{
-			"command"	"vocalize ConceptBlock611"
-			"text"		"War"
+			"command"	"vocalize C7M1_saferoom08b"
+			"text"		"Shut up both"
 		}
 		"West"
 		{
@@ -1255,8 +1255,8 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize ConceptBlock556"
-			"text"		"Hey"
+			"command"	"vocalize ConceptBlock608"
+			"text"		"Tease F"
 		}
 		"North"
 		{
@@ -1265,38 +1265,38 @@
 		}
 		"NorthEast"
 		{
-			"command"	"vocalize InfoReminfo_carnotboat"
-			"text"		"Car"
+			"command"	"vocalize InfoReminfo_trailerboatruck"
+			"text"		"Horseshit F"
 		}
 		"East"
 		{
 			"command"	"vocalize DontBeAnAss"
-			"text"		"Don't be an ass, Francis"
+			"text"		"Don't be an ass, F"
 		}
 		"SouthEast"
 		{
-			"command"	"vocalize C7M3_saferoom010b"
-			"text"		"Pro"
+			"command"	"vocalize C7M1_saferoom01a"
+			"text"		"Shut up F"
 		}
 		"South"
 		{
 			"command"	"vocalize C7M1_saferoom16a"
-			"text"		"Tired"
+			"text"		"Tired F"
 		}
 		"SouthWest"
 		{
 			"command"	"vocalize C7M1_saferoom13a"
-			"text"		"Cry"
+			"text"		"Cry F"
 		}
 		"West"
 		{
-			"command"	"vocalize ConceptBlock608"
-			"text"		"Tease"
+			"command"	"vocalize C7M1_saferoom21b"
+			"text"		"Plank F"
 		}
 		"NorthWest"
 		{
 			"command"	"vocalize ConceptBlock696"
-			"text"		"Zombies"
+			"text"		"Zombies F"
 		}
 	}
 	
@@ -1315,8 +1315,8 @@
 		}
 		"NorthEast"
 		{
-			"command"	"vocalize C7M1_saferoom21b"
-			"text"		"Plank"
+			"command"	"vocalize ConceptBlock556"
+			"text"		"Hey"
 		}
 		"East"
 		{
@@ -1325,8 +1325,8 @@
 		}
 		"SouthEast"
 		{
-			"command"	"vocalize C7M1_saferoom01a"
-			"text"		"Shut up"
+			"command"	"vocalize C7M3_saferoom010b"
+			"text"		"Fish Pro"
 		}
 		"South"
 		{
@@ -1335,8 +1335,8 @@
 		}
 		"SouthWest"
 		{
-			"command"	"vocalize InfoReminfo_trailerboatruck"
-			"text"		"Horseshit"
+			"command"	"vocalize InfoReminfo_carnotboat"
+			"text"		"Car"
 		}
 		"West"
 		{
@@ -1375,8 +1375,8 @@
 		}
 		"SouthEast"
 		{
-			"command"	"vocalize C7M1_saferoom08b"
-			"text"		"Shut up both"
+			"command"	"vocalize ConceptBlock611"
+			"text"		"War"
 		}
 		"South"
 		{
