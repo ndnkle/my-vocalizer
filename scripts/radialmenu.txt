@@ -1260,8 +1260,8 @@
 		}
 		"North"
 		{
-			"command"	"vocalize C7M1_saferoom06b"
-			"text"		"On fire"
+			"command"	"vocalize C7M1_saferoom24a"
+			"text"		"Health nut"
 		}
 		"NorthEast"
 		{
@@ -1271,7 +1271,7 @@
 		"East"
 		{
 			"command"	"vocalize DontBeAnAss"
-			"text"		"Don't be an ass, F"
+			"text"		"Ass F"
 		}
 		"SouthEast"
 		{
@@ -1330,8 +1330,8 @@
 		}
 		"South"
 		{
-			"command"	"vocalize C7M1_saferoom24a"
-			"text"		"Health nut"
+			"command"	"vocalize C7M1_saferoom06b"
+			"text"		"On fire"
 		}
 		"SouthWest"
 		{
@@ -1355,8 +1355,8 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize C7M3_saferoom012f"
-			"text"		"Noted"
+			"command"	"vocalize C7M1_saferoom20b"
+			"text"		"Zoey, I can't"
 		}
 		"North"
 		{
