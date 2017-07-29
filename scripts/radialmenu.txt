@@ -1256,7 +1256,7 @@
 		"Center"
 		{
 			"command"	"vocalize ConceptBlock608"
-			"text"		"Tease F"
+			"text"		"Tease"
 		}
 		"North"
 		{
@@ -1266,37 +1266,37 @@
 		"NorthEast"
 		{
 			"command"	"vocalize InfoReminfo_trailerboatruck"
-			"text"		"Horseshit F"
+			"text"		"Horseshit"
 		}
 		"East"
 		{
-			"command"	"vocalize DontBeAnAss"
-			"text"		"Ass F"
+			"command"	"vocalize C7M1_saferoom01a"
+			"text"		"Shut up"
 		}
 		"SouthEast"
 		{
-			"command"	"vocalize C7M1_saferoom01a"
-			"text"		"Shut up F"
+			"command"	"vocalize DontBeAnAss"
+			"text"		"Don't be an Ass"
 		}
 		"South"
 		{
 			"command"	"vocalize C7M1_saferoom16a"
-			"text"		"Tired F"
+			"text"		"Tired"
 		}
 		"SouthWest"
 		{
 			"command"	"vocalize C7M1_saferoom13a"
-			"text"		"Cry F"
+			"text"		"Cry"
 		}
 		"West"
 		{
 			"command"	"vocalize C7M1_saferoom21b"
-			"text"		"Plank F"
+			"text"		"Plank"
 		}
 		"NorthWest"
 		{
 			"command"	"vocalize ConceptBlock696"
-			"text"		"Zombies F"
+			"text"		"Zombies"
 		}
 	}
 	
@@ -1310,8 +1310,8 @@
 		}
 		"North"
 		{
-			"command"	"vocalize C7M1_saferoom25a"
-			"text"		"Out here"
+			"command"	"vocalize C7M1_saferoom12b"
+			"text"		"Move out"
 		}
 		"NorthEast"
 		{
@@ -1385,8 +1385,8 @@
 		}
 		"SouthWest"
 		{
-			"command"	"vocalize C7M1_saferoom12b"
-			"text"		"Move out"
+			"command"	"vocalize C7M1_saferoom25a"
+			"text"		"Out here"
 		}
 		"West"
 		{
