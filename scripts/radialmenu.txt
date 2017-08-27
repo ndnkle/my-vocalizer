@@ -3410,8 +3410,8 @@
 		}
 		"South"
 		{
-			"command"	"sm_vocalize @me scenes/NamVet/c6dlc3movieline15.vcd"
-			"text"		"Good enough"
+			"command"	"sm_vocalize @me scenes/NamVet/GenericResponses12.vcd"
+			"text"		"Idiot"
 		}
 		"SouthWest"
 		{
