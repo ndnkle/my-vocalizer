@@ -3385,18 +3385,18 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize _what"
-			"text"		"What? [2]"
+			"command"	""
+			"text"		"Empty"
 		}
 		"North"
 		{
-			"command"	"vocalize conversation"
-			"text"		"Conversation"
+			"command"	""
+			"text"		""
 		}
 		"NorthEast"
 		{
-			"command"	"vocalize BattleCry"
-			"text"		"BattleCry"
+			"command"	""
+			"text"		""
 		}
 		"East"
 		{
@@ -3485,18 +3485,18 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize _what"
-			"text"		"What? [2]"
+			"command"	""
+			"text"		"Empty"
 		}
 		"North"
 		{
-			"command"	"vocalize conversation"
-			"text"		"Conversation"
+			"command"	""
+			"text"		""
 		}
 		"NorthEast"
 		{
-			"command"	"vocalize BattleCry"
-			"text"		"BattleCry"
+			"command"	""
+			"text"		""
 		}
 		"East"
 		{
@@ -3585,18 +3585,18 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize _what"
-			"text"		"What? [2]"
+			"command"	""
+			"text"		"Empty"
 		}
 		"North"
 		{
-			"command"	"vocalize conversation"
-			"text"		"Conversation"
+			"command"	""
+			"text"		""
 		}
 		"NorthEast"
 		{
-			"command"	"vocalize BattleCry"
-			"text"		"BattleCry"
+			"command"	""
+			"text"		""
 		}
 		"East"
 		{
@@ -3686,17 +3686,17 @@
 		"Center"
 		{
 			"command"	"vocalize _what"
-			"text"		"What? [2]"
+			"text"		"What?"
 		}
 		"North"
 		{
-			"command"	"vocalize conversation"
-			"text"		"Conversation"
+			"command"	""
+			"text"		""
 		}
 		"NorthEast"
 		{
-			"command"	"vocalize BattleCry"
-			"text"		"BattleCry"
+			"command"	""
+			"text"		""
 		}
 		"East"
 		{
@@ -3790,13 +3790,13 @@
 		}
 		"North"
 		{
-			"command"	"vocalize conversation"
-			"text"		"Conversation"
+			"command"	"sm_vocalize @me scenes/Gambler/WitchGettingAngryEllis01.vcd"
+			"text"		"Ellis witch"
 		}
 		"NorthEast"
 		{
-			"command"	"vocalize BattleCry"
-			"text"		"BattleCry"
+			"command"	"sm_vocalize @me scenes/Gambler/DLC1_C6M1_WeddingWitch08.vcd"
+			"text"		"Kiss the bride"
 		}
 		"East"
 		{
@@ -3886,17 +3886,17 @@
 		"Center"
 		{
 			"command"	"vocalize _what"
-			"text"		"What? [2]"
+			"text"		"What?"
 		}
 		"North"
 		{
-			"command"	"vocalize conversation"
-			"text"		"Conversation"
+			"command"	""
+			"text"		""
 		}
 		"NorthEast"
 		{
-			"command"	"vocalize BattleCry"
-			"text"		"BattleCry"
+			"command"	""
+			"text"		""
 		}
 		"East"
 		{
@@ -3986,17 +3986,17 @@
 		"Center"
 		{
 			"command"	"vocalize _what"
-			"text"		"What? [2]"
+			"text"		"What?"
 		}
 		"North"
 		{
-			"command"	"vocalize conversation"
-			"text"		"Conversation"
+			"command"	""
+			"text"		""
 		}
 		"NorthEast"
 		{
-			"command"	"vocalize BattleCry"
-			"text"		"BattleCry"
+			"command"	""
+			"text"		""
 		}
 		"East"
 		{
