@@ -3231,7 +3231,7 @@
 	}
 	
 	//--------------------------------------------------------------
-	"ZMy,Survivor,Alive"
+	"ZMy1,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -3281,7 +3281,57 @@
 	}
 	
 	//--------------------------------------------------------------
-	"FMy,Survivor,Alive"
+	"ZMy2,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/ReactionDisgusted04.vcd"
+			"text"		"Eww"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/DLC1_C6M3_FinaleChat08.vcd"
+			"text"		"Throw Up"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/C6DLC3JUMPINGOFFBRIDGE17.vcd"
+			"text"		"I'll be back!"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/C6DLC3GRAVELHILL04.vcd"
+			"text"		"Shut. Up."
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/WorldAirport0407.vcd"
+			"text"		"Louis lost"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/DLC2GasTanks02.vcd"
+			"text"		"Farting"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/DLC2M2FinaleButtonPressGen201.vcd"
+			"text"		"Real brave"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/DLC2BulletinBoard01.vcd"
+			"text"		"Zombie killer"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/DLC2GasTanks01.vcd"
+			"text"		"Passing gas"
+		}
+	}
+	
+	//--------------------------------------------------------------
+	"FMy1,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -3331,7 +3381,57 @@
 	}
 	
 	//--------------------------------------------------------------
-	"LMy,Survivor,Alive"
+	"FMy2,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"vocalize _what"
+			"text"		"What? [2]"
+		}
+		"North"
+		{
+			"command"	"vocalize conversation"
+			"text"		"Conversation"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize BattleCry"
+			"text"		"BattleCry"
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+	
+	//--------------------------------------------------------------
+	"LMy1,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -3381,7 +3481,57 @@
 	}
 	
 	//--------------------------------------------------------------
-	"BMy,Survivor,Alive"
+	"LMy2,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"vocalize _what"
+			"text"		"What? [2]"
+		}
+		"North"
+		{
+			"command"	"vocalize conversation"
+			"text"		"Conversation"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize BattleCry"
+			"text"		"BattleCry"
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+	
+	//--------------------------------------------------------------
+	"BMy1,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -3431,7 +3581,57 @@
 	}
 	
 	//--------------------------------------------------------------
-	"RMy,Survivor,Alive"
+	"BMy2,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"vocalize _what"
+			"text"		"What? [2]"
+		}
+		"North"
+		{
+			"command"	"vocalize conversation"
+			"text"		"Conversation"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize BattleCry"
+			"text"		"BattleCry"
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+	
+	//--------------------------------------------------------------
+	"RMy1,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -3481,7 +3681,57 @@
 	}
 	
 	//--------------------------------------------------------------
-	"NMy,Survivor,Alive"
+	"RMy2,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"vocalize _what"
+			"text"		"What? [2]"
+		}
+		"North"
+		{
+			"command"	"vocalize conversation"
+			"text"		"Conversation"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize BattleCry"
+			"text"		"BattleCry"
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+	
+	//--------------------------------------------------------------
+	"NMy1,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -3531,7 +3781,57 @@
 	}
 	
 	//--------------------------------------------------------------
-	"CMy,Survivor,Alive"
+	"NMy2,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"vocalize _what"
+			"text"		"What?"
+		}
+		"North"
+		{
+			"command"	"vocalize conversation"
+			"text"		"Conversation"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize BattleCry"
+			"text"		"BattleCry"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/Taunt04.vcd"
+			"text"		"Stick"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/Taunt01.vcd"
+			"text"		"Suck"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/NickOcd04.vcd"
+			"text"		"Smell"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/DLC1_C6M2_Bridge2Up02.vcd"
+			"text"		"Ellis first"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/dlc1_c6m3_finalechat09.vcd"
+			"text"		"Leave you two"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/dlc1_c6m3_finalechat12.vcd"
+			"text"		"Get a room"
+		}
+	}
+	
+	//--------------------------------------------------------------
+	"CMy1,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -3581,7 +3881,57 @@
 	}
 	
 	//--------------------------------------------------------------
-	"EMy,Survivor,Alive"
+	"CMy2,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"vocalize _what"
+			"text"		"What? [2]"
+		}
+		"North"
+		{
+			"command"	"vocalize conversation"
+			"text"		"Conversation"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize BattleCry"
+			"text"		"BattleCry"
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+	
+	//--------------------------------------------------------------
+	"EMy1,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -3627,6 +3977,56 @@
 		{
 			"command"	"sm_vocalize @me scenes/Mechanic/DLC1_CommunityE16.vcd"
 			"text"		"All aboard"
+		}
+	}
+	
+	//--------------------------------------------------------------
+	"EMy2,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"vocalize _what"
+			"text"		"What? [2]"
+		}
+		"North"
+		{
+			"command"	"vocalize conversation"
+			"text"		"Conversation"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize BattleCry"
+			"text"		"BattleCry"
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
 		}
 	}
 }
