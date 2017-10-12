@@ -3690,43 +3690,43 @@
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Producer/WorldGenericProducer38.vcd"
+			"text"		"Size"
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Producer/WorldGenericProducer39.vcd"
+			"text"		"Big, beautiful"
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Producer/WorldC1M2B51.vcd"
+			"text"		"Okay, God"
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Producer/WorldC1M2B58.vcd"
+			"text"		"You want what?"
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Producer/WorldC1M3B10.vcd"
+			"text"		"Coach's stomach"
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Producer/WorldC1M4B11.vcd"
+			"text"		"I'll do it"
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Producer/WorldC3M151.vcd"
+			"text"		"Ellis bathtub"
 		}
 		"NorthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Producer/WorldC3M219.vcd"
+			"text"		"Always wanted"
 		}
 	}
 	
