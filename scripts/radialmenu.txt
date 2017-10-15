@@ -3585,13 +3585,13 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize PlayerUsingDefibrillator"
-			"text"		"Defibrillator"
+			"command"	"vocalize Player.WarnMegaMobc7m201"
+			"text"		"Chute"
 		}
 		"North"
 		{
-			"command"	"vocalize C7M1_saferoom09"
-			"text"		"Zoey trust"
+			"command"	"vocalize InfoRemc7m2_listingtug"
+			"text"		"No Francis"
 		}
 		"NorthEast"
 		{
@@ -3610,13 +3610,13 @@
 		}
 		"South"
 		{
-			"command"	"vocalize InfoRemc7m2_listingtug"
-			"text"		"No Francis"
+			"command"	"vocalize C7M1_saferoom20"
+			"text"		"Zoey stayed"
 		}
 		"SouthWest"
 		{
-			"command"	"vocalize Player.WarnMegaMobc7m201"
-			"text"		"Chute"
+			"command"	"vocalize C7M1_saferoom09"
+			"text"		"Zoey trust"
 		}
 		"West"
 		{
