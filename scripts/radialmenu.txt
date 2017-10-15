@@ -3585,38 +3585,38 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		"Empty"
+			"command"	"vocalize PlayerUsingDefibrillator"
+			"text"		"Defibrillator"
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M1_saferoom09"
+			"text"		"Zoey trust"
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M1_saferoom09a"
+			"text"		"Zoey together"
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M1_saferoom15"
+			"text"		"Come for our own"
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M2_saferoom01a"
+			"text"		"Four of us"
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize InfoRemc7m2_listingtug"
+			"text"		"No Francis"
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize Player.WarnMegaMobc7m201"
+			"text"		"Chute"
 		}
 		"West"
 		{
