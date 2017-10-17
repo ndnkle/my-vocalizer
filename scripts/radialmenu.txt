@@ -3670,13 +3670,13 @@
 		}
 		"West"
 		{
-			"command"	"sm_vocalize @me scenes/Producer/DLC1_C6M2_Phase2InWater08.vcd"
-			"text"		"Ellis, not laughing"
+			"command"	"vocalize WorldC6M2_Tattoo02d"
+			"text"		"Ughhh"
 		}
 		"NorthWest"
 		{
-			"command"	"sm_vocalize @me scenes/Producer/DLC1_C6M3_SafeRoomConvo14.vcd"
-			"text"		"Woman for Nick"
+			"command"	"vocalize C6M1Intro_24_alien"
+			"text"		"Aliens"
 		}
 	}
 	
@@ -3720,8 +3720,8 @@
 		}
 		"West"
 		{
-			"command"	"sm_vocalize @me scenes/Producer/WorldC3M151.vcd"
-			"text"		"Ellis bathtub"
+			"command"	"sm_vocalize @me scenes/Producer/DLC1_C6M3_SafeRoomConvo14.vcd"
+			"text"		"Woman for Nick"
 		}
 		"NorthWest"
 		{
