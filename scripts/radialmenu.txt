@@ -3620,8 +3620,8 @@
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/NamVet/WorldHospital0313.vcd"
+			"text"		"Already smell"
 		}
 		"NorthWest"
 		{
@@ -3700,8 +3700,8 @@
 		}
 		"East"
 		{
-			"command"	"sm_vocalize @me scenes/Producer/WorldC1M2B51.vcd"
-			"text"		"Okay, God"
+			"command"	"sm_vocalize @me scenes/Producer/WarnTankC103.vcd"
+			"text"		"Goddamn big"
 		}
 		"SouthEast"
 		{
