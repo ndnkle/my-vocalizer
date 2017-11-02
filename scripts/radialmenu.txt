@@ -3890,43 +3890,43 @@
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Coach/GettingRevived17.vcd"
+			"text"		"Looking at shoes"
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Coach/TeaserIntroMovie02.vcd"
+			"text"		"Neighborhood"
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Coach/DLC1_C6M2_Tattoo04.vcd"
+			"text"		"Coach secrets"
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Coach/WorldC1M1B108.vcd"
+			"text"		"Call me Coach"
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Coach/No12.vcd"
+			"text"		"You crazy?"
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Coach/BattleCry01.vcd"
+			"text"		"EAT THAT SHIT!"
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize _C2M1_Fall02"
+			"text"		"Crazy Ellis"
 		}
 		"NorthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Coach/World03.vcd"
+			"text"		"Sense in the head"
 		}
 	}
 	
