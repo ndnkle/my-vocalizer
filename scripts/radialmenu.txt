@@ -1075,7 +1075,7 @@
 		}
 		"NorthWest"
 		{
-			"command"	"vocalize VampiresBeata"
+			"command"	"vocalize ConceptBlock628"
 			"text"		"Zombies"
 		}
 	}
@@ -2655,7 +2655,7 @@
 		}
 		"SouthEast"
 		{
-			"command"	"vocalize _c2m3_howcool"
+			"command"	"vocalize _c2m3_coollight01"
 			"text"		"Awesome"
 		}
 		"South"
@@ -3920,13 +3920,13 @@
 		}
 		"West"
 		{
-			"command"	"vocalize _C2M1_Fall02"
+			"command"	"sm_vocalize @me scenes/Coach/WorldC2M133.vcd"
 			"text"		"Crazy Ellis"
 		}
 		"NorthWest"
 		{
-			"command"	"sm_vocalize @me scenes/Coach/World03.vcd"
-			"text"		"Sense in the head"
+			"command"	"sm_vocalize @me scenes/Coach/WarnSpitterC101.vcd"
+			"text"		"Crazy woman!"
 		}
 	}
 	
