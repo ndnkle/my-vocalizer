@@ -1140,8 +1140,8 @@
 		}
 		"North"
 		{
-			"command"	"vocalize SmallTown02_path01b"
-			"text"		"Story"
+			"command"	"vocalize hospital05_path01b"
+			"text"		"Works for me"
 		}
 		"NorthEast"
 		{
@@ -3385,8 +3385,8 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		"Empty"
+			"command"	"sm_vocalize @me scenes/Biker/DLC1_C6M3_FinaleChat21.vcd"
+			"text"		"Nah, I'm a cop"
 		}
 		"North"
 		{
@@ -3485,13 +3485,13 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		"Empty"
+			"command"	"sm_vocalize @me scenes/Manager/C6DLC3SECONDSAFEROOM05.vcd"
+			"text"		"Oldest man"
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Manager/DLC2M2Misc02.vcd"
+			"text"		"Farting"
 		}
 		"NorthEast"
 		{
