@@ -3331,6 +3331,56 @@
 	}
 	
 	//--------------------------------------------------------------
+	"ZMy3,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		"Empty"
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+	
+	//--------------------------------------------------------------
 	"FMy1,Survivor,Alive"
 	{
 		"Center"
@@ -3387,6 +3437,56 @@
 		{
 			"command"	"sm_vocalize @me scenes/Biker/DLC1_C6M3_FinaleChat21.vcd"
 			"text"		"Nah, I'm a cop"
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+	
+	//--------------------------------------------------------------
+	"FMy3,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		"Empty"
 		}
 		"North"
 		{
@@ -3531,6 +3631,56 @@
 	}
 	
 	//--------------------------------------------------------------
+	"LMy3,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		"Empty"
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+	
+	//--------------------------------------------------------------
 	"BMy1,Survivor,Alive"
 	{
 		"Center"
@@ -3622,6 +3772,56 @@
 		{
 			"command"	"sm_vocalize @me scenes/NamVet/WorldHospital0313.vcd"
 			"text"		"Already smell"
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+	
+	//--------------------------------------------------------------
+	"BMy3,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		"Empty"
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
 		}
 		"NorthWest"
 		{
@@ -3731,6 +3931,56 @@
 	}
 	
 	//--------------------------------------------------------------
+	"RMy3,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/ReviveFriendA05.vcd"
+			"text"		"What's up?"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/DLC1_C6M1_InitialMeeting43.vcd"
+			"text"		"Kiss"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/PositiveNoise01.vcd"
+			"text"		"Hmm 01"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/PositiveNoise02.vcd"
+			"text"		"Hmm 02"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/PositiveNoise03.vcd"
+			"text"		"Hmm 03"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/PositiveNoise04.vcd"
+			"text"		"Hmm 04"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/PositiveNoise05.vcd"
+			"text"		"Hmm 05"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/PositiveNoise07.vcd"
+			"text"		"Hmm 07"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/PositiveNoise08.vcd"
+			"text"		"Hmm 08"
+		}
+	}
+	
+	//--------------------------------------------------------------
 	"NMy1,Survivor,Alive"
 	{
 		"Center"
@@ -3827,6 +4077,56 @@
 		{
 			"command"	"sm_vocalize @me scenes/Gambler/dlc1_c6m3_finalechat12.vcd"
 			"text"		"Get a room"
+		}
+	}
+	
+	//--------------------------------------------------------------
+	"NMy3,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		"Empty"
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
 		}
 	}
 	
@@ -3931,6 +4231,56 @@
 	}
 	
 	//--------------------------------------------------------------
+	"CMy3,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		"Empty"
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+	
+	//--------------------------------------------------------------
 	"EMy1,Survivor,Alive"
 	{
 		"Center"
@@ -3987,6 +4337,56 @@
 		{
 			"command"	"vocalize _what"
 			"text"		"What?"
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+	
+	//--------------------------------------------------------------
+	"EMy3,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		"Empty"
 		}
 		"North"
 		{
