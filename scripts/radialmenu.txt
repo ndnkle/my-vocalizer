@@ -3335,6 +3335,56 @@
 	{
 		"Center"
 		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/YouAreWelcome13.vcd"
+			"text"		"Pleasure"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/GriefVet02.vcd"
+			"text"		"Ah oh Bill"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/C6DLC3BILLDIES09.vcd"
+			"text"		"Bill love 1"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/C6DLC3BILLDIES10.vcd"
+			"text"		"Bill love 2"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/ReactionPositive27.vcd"
+			"text"		"Sexy"
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+	
+	//--------------------------------------------------------------
+	"ZMy4,Survivor,Alive"
+	{
+		"Center"
+		{
 			"command"	""
 			"text"		"Empty"
 		}
@@ -3482,6 +3532,56 @@
 	
 	//--------------------------------------------------------------
 	"FMy3,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		"Empty"
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+	
+	//--------------------------------------------------------------
+	"FMy4,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -3681,6 +3781,56 @@
 	}
 	
 	//--------------------------------------------------------------
+	"LMy4,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		"Empty"
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+	
+	//--------------------------------------------------------------
 	"BMy1,Survivor,Alive"
 	{
 		"Center"
@@ -3782,6 +3932,56 @@
 	
 	//--------------------------------------------------------------
 	"BMy3,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		"Empty"
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+	
+	//--------------------------------------------------------------
+	"BMy4,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -3935,13 +4135,13 @@
 	{
 		"Center"
 		{
-			"command"	"sm_vocalize @me scenes/Producer/ReviveFriendA05.vcd"
-			"text"		"What's up?"
+			"command"	"sm_vocalize @me scenes/Producer/ScreamWhilePounced02a.vcd"
+			"text"		"Agh! 1"
 		}
 		"North"
 		{
-			"command"	"sm_vocalize @me scenes/Producer/DLC1_C6M1_InitialMeeting43.vcd"
-			"text"		"Kiss"
+			"command"	"sm_vocalize @me scenes/Producer/ScreamWhilePounced03.vcd"
+			"text"		"Agh! 2"
 		}
 		"NorthEast"
 		{
@@ -3975,8 +4175,58 @@
 		}
 		"NorthWest"
 		{
-			"command"	"sm_vocalize @me scenes/Producer/PositiveNoise08.vcd"
-			"text"		"Hmm 08"
+			"command"	"sm_vocalize @me scenes/Producer/PositiveNoise09.vcd"
+			"text"		"Hmm 09"
+		}
+	}
+	
+	//--------------------------------------------------------------
+	"RMy4,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/ReviveFriendA05.vcd"
+			"text"		"What's up?"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/DLC1_C6M1_InitialMeeting43.vcd"
+			"text"		"Kiss"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/WorldC1M2B18.vcd"
+			"text"		"Oh... my... GOD"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/WorldC1M2B21.vcd"
+			"text"		"Would you LOOK"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/DLC1_C6M3_FinaleL4D1Items08.vcd"
+			"text"		"Thanks sexy"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/World04.vcd"
+			"text"		"Tits"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/DLC1_M6009.vcd"
+			"text"		"Big gun"
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
 		}
 	}
 	
@@ -4082,6 +4332,56 @@
 	
 	//--------------------------------------------------------------
 	"NMy3,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/LeadOn05.vcd"
+			"text"		"Behind 1"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/LeadOn06.vcd"
+			"text"		"Behind 2"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/LeadOn09.vcd"
+			"text"		"Behind 3"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/WorldC2M3B07.vcd"
+			"text"		"Don't drink it"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/WorldC1M4B09.vcd"
+			"text"		"Come on 1"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/WorldC1M4B10.vcd"
+			"text"		"Come on 2"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/WorldC1M4B11.vcd"
+			"text"		"Come on 3"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/WorldC1M4B16.vcd"
+			"text"		"How big"
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+	
+	//--------------------------------------------------------------
+	"NMy4,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -4281,6 +4581,56 @@
 	}
 	
 	//--------------------------------------------------------------
+	"CMy4,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		"Empty"
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+	
+	//--------------------------------------------------------------
 	"EMy1,Survivor,Alive"
 	{
 		"Center"
@@ -4382,6 +4732,56 @@
 	
 	//--------------------------------------------------------------
 	"EMy3,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		"Empty"
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+	
+	//--------------------------------------------------------------
+	"EMy4,Survivor,Alive"
 	{
 		"Center"
 		{
