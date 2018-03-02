@@ -3365,12 +3365,12 @@
 		}
 		"SouthWest"
 		{
-			"command"	"sm_vocalize @aim scenes/TeenGirl/ReactionNegative16.vcd"
+			"command"	"sm_vocalize @me scenes/TeenGirl/ReactionNegative16.vcd"
 			"text"		"Oh man"
 		}
 		"West"
 		{
-			"command"	"sm_vocalize @aim scenes/TeenGirl/ReactionNegative17.vcd"
+			"command"	"sm_vocalize @me scenes/TeenGirl/ReactionNegative17.vcd"
 			"text"		"Shit"
 		}
 		"NorthWest"
@@ -3385,42 +3385,42 @@
 	{
 		"Center"
 		{
-			"command"	"sm_vocalize @aim scenes/TeenGirl/ExertionCritical01.vcd"
+			"command"	"sm_vocalize @me scenes/TeenGirl/ExertionCritical01.vcd"
 			"text"		"Critical 01"
 		}
 		"North"
 		{
-			"command"	"sm_vocalize @aim scenes/TeenGirl/ExertionCritical02.vcd"
+			"command"	"sm_vocalize @me scenes/TeenGirl/ExertionCritical02.vcd"
 			"text"		"Critical 02"
 		}
 		"NorthEast"
 		{
-			"command"	"sm_vocalize @aim scenes/TeenGirl/ExertionCritical03.vcd"
+			"command"	"sm_vocalize @me scenes/TeenGirl/ExertionCritical03.vcd"
 			"text"		"Critical 03"
 		}
 		"East"
 		{
-			"command"	"sm_vocalize @aim scenes/TeenGirl/ExertionCritical04.vcd"
+			"command"	"sm_vocalize @me scenes/TeenGirl/ExertionCritical04.vcd"
 			"text"		"Critical 04"
 		}
 		"SouthEast"
 		{
-			"command"	"sm_vocalize @aim scenes/TeenGirl/exertionmajor01.vcd"
+			"command"	"sm_vocalize @me scenes/TeenGirl/exertionmajor01.vcd"
 			"text"		"Major 01"
 		}
 		"South"
 		{
-			"command"	"sm_vocalize @aim scenes/TeenGirl/exertionmajor02.vcd"
+			"command"	"sm_vocalize @me scenes/TeenGirl/exertionmajor02.vcd"
 			"text"		"Major 02"
 		}
 		"SouthWest"
 		{
-			"command"	"sm_vocalize @aim scenes/TeenGirl/exertionminor01.vcd"
+			"command"	"sm_vocalize @me scenes/TeenGirl/exertionminor01.vcd"
 			"text"		"Minor 01"
 		}
 		"West"
 		{
-			"command"	"sm_vocalize @aim scenes/TeenGirl/exertionminor02.vcd"
+			"command"	"sm_vocalize @me scenes/TeenGirl/exertionminor02.vcd"
 			"text"		"Minor 02"
 		}
 		"NorthWest"
@@ -3490,38 +3490,38 @@
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Biker/NervousHumming01.vcd"
+			"text"		"Humming 1"
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Biker/NervousHumming02.vcd"
+			"text"		"Humming 2"
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Biker/NervousHumming03.vcd"
+			"text"		"Humming 3"
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Biker/NervousHumming04.vcd"
+			"text"		"Humming 4"
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Biker/NervousHumming05.vcd"
+			"text"		"Humming 5"
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Biker/NervousHumming06.vcd"
+			"text"		"Humming 6"
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Biker/NervousHumming07.vcd"
+			"text"		"Humming 7"
 		}
 		"NorthWest"
 		{
@@ -3535,8 +3535,8 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		"Empty"
+			"command"	"sm_vocalize @me scenes/Biker/Swear19.vcd"
+			"text"		"Ah bullshit"
 		}
 		"North"
 		{
@@ -4220,8 +4220,8 @@
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Producer/AlertGiveItemCombat01.vcd"
+			"text"		"Here!"
 		}
 		"NorthWest"
 		{
@@ -4386,12 +4386,12 @@
 		"Center"
 		{
 			"command"	""
-			"text"		"Empty"
+			"text"		""
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Gambler/NiceShotProducer02.vcd"
+			"text"		"Rochelle.. damn"
 		}
 		"NorthEast"
 		{
