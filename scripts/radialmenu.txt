@@ -3431,6 +3431,56 @@
 	}
 	
 	//--------------------------------------------------------------
+	"ZMy5,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/NervousHumming01.vcd"
+			"text"		"Humming 01"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/NervousHumming02.vcd"
+			"text"		"Humming 02"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/NervousHumming03.vcd"
+			"text"		"Humming 03"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/NervousHumming04.vcd"
+			"text"		"Humming 04"
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+	
+	//--------------------------------------------------------------
 	"FMy1,Survivor,Alive"
 	{
 		"Center"
@@ -3587,6 +3637,56 @@
 		{
 			"command"	""
 			"text"		"Empty"
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+	
+	//--------------------------------------------------------------
+	"FMy5,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
 		}
 		"North"
 		{
@@ -3831,6 +3931,56 @@
 	}
 	
 	//--------------------------------------------------------------
+	"LMy5,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+	
+	//--------------------------------------------------------------
 	"BMy1,Survivor,Alive"
 	{
 		"Center"
@@ -3925,8 +4075,8 @@
 		}
 		"NorthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/NamVet/WorldHospital0316.vcd"
+			"text"		"Francis sewer"
 		}
 	}
 	
@@ -3987,6 +4137,56 @@
 		{
 			"command"	""
 			"text"		"Empty"
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+	
+	//--------------------------------------------------------------
+	"BMy5,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
 		}
 		"North"
 		{
@@ -4225,6 +4425,56 @@
 		}
 		"NorthWest"
 		{
+			"command"	"sm_vocalize @me scenes/Producer/WorldC1M4B39.vcd"
+			"text"		"Punch it!"
+		}
+	}
+	
+	//--------------------------------------------------------------
+	"RMy5,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
 			"command"	""
 			"text"		""
 		}
@@ -4392,6 +4642,56 @@
 		{
 			"command"	"sm_vocalize @me scenes/Gambler/NiceShotProducer02.vcd"
 			"text"		"Rochelle.. damn"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/NiceShotProducer01.vcd"
+			"text"		"Damn, Rochelle"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/NiceShotProducer03.vcd"
+			"text"		"Rochelle, nice"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/WorldC1M1B51.vcd"
+			"text"		"You did good, Rochelle"
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+	
+	//--------------------------------------------------------------
+	"NMy5,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
 		}
 		"NorthEast"
 		{
@@ -4631,6 +4931,56 @@
 	}
 	
 	//--------------------------------------------------------------
+	"CMy5,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+	
+	//--------------------------------------------------------------
 	"EMy1,Survivor,Alive"
 	{
 		"Center"
@@ -4787,6 +5137,56 @@
 		{
 			"command"	""
 			"text"		"Empty"
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+	
+	//--------------------------------------------------------------
+	"EMy5,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
 		}
 		"North"
 		{
