@@ -270,7 +270,7 @@
 		}
 		"West"
 		{
-			"command"	"vocalize playertonguepullstart"
+			"command"	"vocalize PlayerTonguePullStart"
 			"text"		"Nooooo!"
 		}
 		"NorthWest"
@@ -310,7 +310,7 @@
 		}
 		"South"
 		{
-			"command"	"vocalize witchgettingangry"
+			"command"	"vocalize WitchGettingAngry"
 			"text"		"Angry Witch"
 		}
 		"SouthWest"
@@ -3375,8 +3375,8 @@
 		}
 		"NorthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/TeenGirl/GoingToDieLight11.vcd"
+			"text"		"Tooth marks"
 		}
 	}
 	
@@ -3590,38 +3590,38 @@
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Biker/DLC1_CommunityL4D101.vcd"
+			"text"		"Frozen beard"
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Biker/C6DLC3InTankTrainCar02.vcd"
+			"text"		"Sailboat smells"
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Biker/DLC2Waterworks01.vcd"
+			"text"		"Waterworks"
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Biker/WorldAirport0426.vcd"
+			"text"		"God's dead"
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Biker/Generic16.vcd"
+			"text"		"Deer"
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Biker/C6DLC3LouisDies01.vcd"
+			"text"		"Predicted"
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Biker/DLC1_C6M3_FinaleChat42.vcd"
+			"text"		"Dog"
 		}
 		"NorthWest"
 		{
@@ -4440,13 +4440,13 @@
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Producer/TakeMelee05.vcd"
+			"text"		"I know"
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Producer/FriendlyFire04.vcd"
+			"text"		"Lost your mind?"
 		}
 		"East"
 		{
@@ -4625,8 +4625,8 @@
 		}
 		"NorthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Gambler/DLC1_C6M1_WeddingWitch10.vcd"
+			"text"		"Ellis angel"
 		}
 	}
 	
