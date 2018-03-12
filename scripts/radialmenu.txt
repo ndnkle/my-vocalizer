@@ -2665,8 +2665,8 @@
 		}
 		"SouthWest"
 		{
-			"command"	"vocalize C1M4SafeRoom2b3"
-			"text"		"My hero"
+			"command"	"vocalize C2M1Intro_401"
+			"text"		"Beauty sat between"
 		}
 		"West"
 		{
@@ -3460,8 +3460,8 @@
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/TeenGirl/DLC2M2FinaleButtonPressLift01.vcd"
+			"text"		"Come to mama"
 		}
 		"SouthWest"
 		{
@@ -3636,17 +3636,17 @@
 		"Center"
 		{
 			"command"	""
-			"text"		"Empty"
+			"text"		""
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Biker/AnswerReady04.vcd"
+			"text"		"Break stuff"
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Biker/AnswerReady05.vcd"
+			"text"		"Kill something"
 		}
 		"East"
 		{
@@ -3685,8 +3685,8 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize IHate"
+			"text"		"Hate"
 		}
 		"North"
 		{
@@ -3836,7 +3836,7 @@
 		"Center"
 		{
 			"command"	""
-			"text"		"Empty"
+			"text"		""
 		}
 		"North"
 		{
@@ -3886,7 +3886,7 @@
 		"Center"
 		{
 			"command"	""
-			"text"		"Empty"
+			"text"		""
 		}
 		"North"
 		{
@@ -4085,18 +4085,18 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		"Empty"
+			"command"	"sm_vocalize @me scenes/NamVet/C6DLC3MOVIELINE09.vcd"
+			"text"		"I'm ready"
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/NamVet/WorldFarmHouse0102.vcd"
+			"text"		"Francis home"
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/NamVet/InsideSafeRoom03.vcd"
+			"text"		"know Louis"
 		}
 		"East"
 		{
@@ -4135,48 +4135,48 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		"Empty"
+			"command"	"sm_vocalize @me scenes/NamVet/ExertionCritical01.vcd"
+			"text"		"Critical 01"
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/NamVet/ExertionCritical02.vcd"
+			"text"		"Critical 02"
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/NamVet/ExertionCritical03.vcd"
+			"text"		"Critical 03"
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/NamVet/ExertionCritical04.vcd"
+			"text"		"Critical 04"
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/NamVet/ExertionMajor01.vcd"
+			"text"		"Major 01"
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/NamVet/ExertionMajor02.vcd"
+			"text"		"Major 02"
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/NamVet/ExertionMinor01.vcd"
+			"text"		"Minor 01"
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/NamVet/ExertionMinor02.vcd"
+			"text"		"Minor 02"
 		}
 		"NorthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/NamVet/GoingToDieLight08.vcd"
+			"text"		"Old"
 		}
 	}
 	
@@ -4435,8 +4435,8 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize SingTheSong"
+			"text"		"Song"
 		}
 		"North"
 		{
@@ -4660,13 +4660,13 @@
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Gambler/WorldC1M1B122.vcd"
+			"text"		"I trust you"
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Gambler/DLC1_C6M3_FinaleCinematic03.vcd"
+			"text"		"Plenty of fish"
 		}
 		"West"
 		{
@@ -4836,7 +4836,7 @@
 		"Center"
 		{
 			"command"	""
-			"text"		"Empty"
+			"text"		""
 		}
 		"North"
 		{
@@ -4886,7 +4886,7 @@
 		"Center"
 		{
 			"command"	""
-			"text"		"Empty"
+			"text"		""
 		}
 		"North"
 		{
@@ -4935,8 +4935,8 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize SingTheSong"
+			"text"		"Song"
 		}
 		"North"
 		{
@@ -5086,7 +5086,7 @@
 		"Center"
 		{
 			"command"	""
-			"text"		"Empty"
+			"text"		""
 		}
 		"North"
 		{
@@ -5136,7 +5136,7 @@
 		"Center"
 		{
 			"command"	""
-			"text"		"Empty"
+			"text"		""
 		}
 		"North"
 		{
@@ -5185,13 +5185,13 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize SingTheSong"
+			"text"		"Song"
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize MTEllisStories"
+			"text"		"Story"
 		}
 		"NorthEast"
 		{
