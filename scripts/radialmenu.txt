@@ -2405,8 +2405,8 @@
 		}
 		"SouthEast"
 		{
-			"command"	"vocalize DLC1_C6M2_SafeRoomConvo13d"
-			"text"		"Positive"
+			"command"	"vocalize DLC1_C6M2_SafeRoomConvo18c"
+			"text"		"Girl, what"
 		}
 		"South"
 		{
@@ -3131,102 +3131,102 @@
 	}
 	
 	//--------------------------------------------------------------
-	"My1,Survivor,Alive"
+	"My1"
 	{
 		"Center"
 		{
-			"command"	"vocalize _what"
-			"text"		"What? [2]"
+			"command"	"sm_spawnprop models/props_junk/wood_crate001a.mdl physics cursor;sm_prop_move z 20"
+			"text"		"Small crate"
 		}
 		"North"
 		{
-			"command"	"vocalize conversation"
-			"text"		"Conversation"
+			"command"	"sm_spawnprop models/props_junk/wood_crate002a.mdl physics cursor;sm_prop_move z 20"
+			"text"		"Big crate"
 		}
 		"NorthEast"
 		{
-			"command"	"vocalize BattleCry"
-			"text"		"BattleCry"
+			"command"	"sm_spawnprop models/props_unique/airport/atlas_break_ball.mdl physics cursor"
+			"text"		"Big ball"
 		}
 		"East"
 		{
-			"command"	"sm_vocalize @me scenes/Gambler/Taunt04.vcd"
-			"text"		"N Stick"
+			"command"	"sm_spawnprop models/props_foliage/swamp_fallentree01_bare.mdl physics cursor;sm_prop_move z 10"
+			"text"		"Tree"
 		}
 		"SouthEast"
 		{
-			"command"	"sm_vocalize @me scenes/Gambler/Taunt01.vcd"
-			"text"		"N Suck"
+			"command"	"sm_spawnprop models/props_urban/shopping_cart001.mdl physics cursor"
+			"text"		"Shopping cart"
 		}
 		"South"
 		{
-			"command"	"sm_vocalize @me scenes/Gambler/NickOcd04.vcd"
-			"text"		"N Smell"
+			"command"	"sm_spawnprop models/props_junk/wood_pallet001a.mdl physics cursor;sm_prop_move z 10"
+			"text"		"Wood pallet"
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_spawnprop models/props_junk/dumpster_2.mdl physics cursor"
+			"text"		"Dumpster"
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_spawnprop models/props_interiors/toilet.mdl static cursor"
+			"text"		"Toilet"
 		}
 		"NorthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_spawnprop models/props_vehicles/cara_95sedan.mdl physics cursor;sm_prop_move z 5"
+			"text"		"Car"
 		}
 	}
 	
 	//--------------------------------------------------------------
-	"My2,Survivor,Alive"
+	"My2"
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_prop_removelook"
+			"text"		"Remove"
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_spawnprop models/props_interiors/sofa.mdl physics cursor"
+			"text"		"Sofa"
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_spawnprop models/props_wasteland/exterior_fence002b.mdl static cursor;sm_prop_move z 75"
+			"text"		"Fence small"
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_spawnprop models/props_wasteland/exterior_fence002c.mdl static cursor;sm_prop_move z 75"
+			"text"		"Fence big"
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_spawnfe 40;sm_prop_setang 0 0 0;"
+			"text"		"Fire escape"
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_prop_removeall"
+			"text"		"Remove all"
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_spawnlight 0"
+			"text"		"Light unbr"
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_spawnlight 1"
+			"text"		"Light br"
 		}
 		"NorthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_spawnprop models/props_interiors/tv.mdl physics cursor; sm_prop_rotate y 270"
+			"text"		"TV"
 		}
 	}
 	
@@ -4096,7 +4096,7 @@
 		"NorthEast"
 		{
 			"command"	"sm_vocalize @me scenes/NamVet/InsideSafeRoom03.vcd"
-			"text"		"know Louis"
+			"text"		"Know Louis"
 		}
 		"East"
 		{
@@ -4835,13 +4835,13 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Coach/Defibrillator15.vcd"
+			"text"		"Electric"
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Coach/Defibrillator17.vcd"
+			"text"		"Mouth to mouth"
 		}
 		"NorthEast"
 		{
