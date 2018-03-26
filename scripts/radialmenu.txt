@@ -3135,12 +3135,12 @@
 	{
 		"Center"
 		{
-			"command"	"sm_spawnprop models/props_junk/wood_crate001a.mdl physics cursor;sm_prop_move z 20"
+			"command"	"sm_spawnprop models/props_junk/wood_crate001a.mdl physics cursor;sm_prop_move z 20;"
 			"text"		"Small crate"
 		}
 		"North"
 		{
-			"command"	"sm_spawnprop models/props_junk/wood_crate002a.mdl physics cursor;sm_prop_move z 20"
+			"command"	"sm_spawnprop models/props_junk/wood_crate002a.mdl physics cursor;sm_prop_move z 20;"
 			"text"		"Big crate"
 		}
 		"NorthEast"
@@ -3150,7 +3150,7 @@
 		}
 		"East"
 		{
-			"command"	"sm_spawnprop models/props_foliage/swamp_fallentree01_bare.mdl physics cursor;sm_prop_move z 10"
+			"command"	"sm_spawnprop models/props_foliage/swamp_fallentree01_bare.mdl physics cursor;sm_prop_move z 10;"
 			"text"		"Tree"
 		}
 		"SouthEast"
@@ -3160,7 +3160,7 @@
 		}
 		"South"
 		{
-			"command"	"sm_spawnprop models/props_junk/wood_pallet001a.mdl physics cursor;sm_prop_move z 10"
+			"command"	"sm_spawnprop models/props_junk/wood_pallet001a.mdl physics cursor;sm_prop_move z 10;"
 			"text"		"Wood pallet"
 		}
 		"SouthWest"
@@ -3170,12 +3170,12 @@
 		}
 		"West"
 		{
-			"command"	"sm_spawnprop models/props_interiors/toilet.mdl static cursor"
-			"text"		"Toilet"
+			"command"	"sm_spawnprop models/props_fairgrounds/bumpercar.mdl physics cursor;sm_prop_move z 1;"
+			"text"		"Bumper car"
 		}
 		"NorthWest"
 		{
-			"command"	"sm_spawnprop models/props_vehicles/cara_95sedan.mdl physics cursor;sm_prop_move z 5"
+			"command"	"sm_spawnprop models/props_vehicles/cara_95sedan.mdl physics cursor;sm_prop_move z 5;"
 			"text"		"Car"
 		}
 	}
@@ -3195,18 +3195,18 @@
 		}
 		"NorthEast"
 		{
-			"command"	"sm_spawnprop models/props_wasteland/exterior_fence002b.mdl static cursor;sm_prop_move z 75"
+			"command"	"sm_spawnprop models/props_wasteland/exterior_fence002b.mdl static cursor;sm_prop_move z 75;"
 			"text"		"Fence small"
 		}
 		"East"
 		{
-			"command"	"sm_spawnprop models/props_wasteland/exterior_fence002c.mdl static cursor;sm_prop_move z 75"
+			"command"	"sm_spawnprop models/props_wasteland/exterior_fence002c.mdl static cursor;sm_prop_move z 75;"
 			"text"		"Fence big"
 		}
 		"SouthEast"
 		{
-			"command"	"sm_spawnfe 40;sm_prop_setang 0 0 0;"
-			"text"		"Fire escape"
+			"command"	"sm_spawnprop models/props_interiors/toilet.mdl static cursor"
+			"text"		"Toilet"
 		}
 		"South"
 		{
@@ -3225,7 +3225,7 @@
 		}
 		"NorthWest"
 		{
-			"command"	"sm_spawnprop models/props_interiors/tv.mdl physics cursor; sm_prop_rotate y 270"
+			"command"	"sm_spawnprop models/props_interiors/tv.mdl physics cursor; sm_prop_rotate y 270;"
 			"text"		"TV"
 		}
 	}
