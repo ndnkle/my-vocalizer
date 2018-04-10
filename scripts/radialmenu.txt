@@ -3621,12 +3621,12 @@
 		"West"
 		{
 			"command"	"sm_vocalize @me scenes/Biker/DLC1_C6M3_FinaleChat42.vcd"
-			"text"		"Dog"
+			"text"		"Dog 1"
 		}
 		"NorthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Biker/DLC1_C6M3_FinaleChat43.vcd"
+			"text"		"Dog 2"
 		}
 	}
 	
@@ -3635,8 +3635,8 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Biker/GenericResponses12.vcd"
+			"text"		"Go to hell"
 		}
 		"North"
 		{
@@ -4010,8 +4010,8 @@
 		}
 		"South"
 		{
-			"command"	"sm_vocalize @me scenes/NamVet/GenericResponses12.vcd"
-			"text"		"Idiot"
+			"command"	"sm_vocalize @me scenes/NamVet/C6DLC3FIRSTSAFEROOM01.vcd"
+			"text"		"Zoey mad"
 		}
 		"SouthWest"
 		{
@@ -4100,8 +4100,8 @@
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/NamVet/C6DLC3GRAVELHILL05.vcd"
+			"text"		"Shut up"
 		}
 		"SouthEast"
 		{
@@ -4190,28 +4190,28 @@
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/NamVet/ReactionNegative09.vcd"
+			"text"		"Son of a bitch 1"
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/NamVet/Swears03.vcd"
+			"text"		"Son of a bitch 2"
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/NamVet/Swears04.vcd"
+			"text"		"Horseshit"
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/NamVet/Swears05.vcd"
+			"text"		"Mother. Humper."
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/NamVet/GenericResponses12.vcd"
+			"text"		"Idiot"
 		}
 		"SouthWest"
 		{
