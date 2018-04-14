@@ -3795,8 +3795,8 @@
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Manager/C6DLC3TANKINTRAINYARD05.vcd"
+			"text"		"Me"
 		}
 		"East"
 		{
@@ -4105,13 +4105,13 @@
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/NamVet/YouAreWelcome14.vcd"
+			"text"		"Not married"
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/NamVet/YouAreWelcome15.vcd"
+			"text"		"No hugs"
 		}
 		"SouthWest"
 		{
