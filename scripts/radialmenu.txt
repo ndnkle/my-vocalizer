@@ -3131,7 +3131,7 @@
 	}
 	
 	//--------------------------------------------------------------
-	"My1"
+	"Adm1"
 	{
 		"Center"
 		{
@@ -3181,7 +3181,7 @@
 	}
 	
 	//--------------------------------------------------------------
-	"My2"
+	"Adm2"
 	{
 		"Center"
 		{
@@ -3227,6 +3227,56 @@
 		{
 			"command"	"sm_spawnprop models/props_interiors/tv.mdl physics cursor; sm_prop_rotate y 270;"
 			"text"		"TV"
+		}
+	}
+	
+	//--------------------------------------------------------------
+	"Adm3"
+	{
+		"Center"
+		{
+			"command"	"sm_slay @infected"
+			"text"		"Slay SI"
+		}
+		"North"
+		{
+			"command"	"sm_slaycommon"
+			"text"		"Slay CI"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_slaywitches"
+			"text"		"Slay witches"
+		}
+		"East"
+		{
+			"command"	"sm_parti env_fire_large_smoke"
+			"text"		"Fire"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_nv;"
+			"text"		"Night vision"
+		}
+		"South"
+		{
+			"command"	"sm_del;"
+			"text"		"Delete entity"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_ent;"
+			"text"		"Entity info"
+		}
+		"West"
+		{
+			"command"	"sm_ledge;"
+			"text"		"Ledge hanging"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_spit;"
+			"text"		"Spit"
 		}
 	}
 	
@@ -3795,7 +3845,7 @@
 		}
 		"NorthEast"
 		{
-			"command"	"sm_vocalize @me scenes/Manager/C6DLC3TANKINTRAINYARD05.vcd"
+			"command"	"sm_vocalize @me scenes/Manager/C6DLC3TANKINTRAINYARD04.vcd"
 			"text"		"Me"
 		}
 		"East"
