@@ -1765,8 +1765,8 @@
 		}
 		"SouthWest"
 		{
-			"command"	"vocalize C1M4SafeRoom2b2"
-			"text"		"Jimmy Gibbs"
+			"command"	"vocalize _c1m4startelevator3c"
+			"text"		"On mind"
 		}
 		"West"
 		{
@@ -2626,7 +2626,7 @@
 		"NorthWest"
 		{
 			"command"	"vocalize WorldC3M1FerryCrossingD02"
-			"text"		"Don't know"
+			"text"		"Wisdom"
 		}
 	}
 
