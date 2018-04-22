@@ -3281,6 +3281,56 @@
 	}
 	
 	//--------------------------------------------------------------
+	"Adm4"
+	{
+		"Center"
+		{
+			"command"	"sm_lock"
+			"text"		"Lock"
+		}
+		"North"
+		{
+			"command"	"sm_unlock"
+			"text"		"Unlock"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_removedoor"
+			"text"		"Remove door"
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	"sm_spawndoor"
+			"text"		"Door"
+		}
+	}
+	
+	//--------------------------------------------------------------
 	"ZMy1,Survivor,Alive"
 	{
 		"Center"
@@ -3425,8 +3475,8 @@
 		}
 		"NorthWest"
 		{
-			"command"	"sm_vocalize @me scenes/TeenGirl/GoingToDieLight11.vcd"
-			"text"		"Tooth marks"
+			"command"	"sm_vocalize @me scenes/TeenGirl/C6DLC3OPENINGDOOR05.vcd"
+			"text"		"Can't believe"
 		}
 	}
 	
@@ -3435,8 +3485,8 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/TeenGirl/GoingToDieLight11.vcd"
+			"text"		"Toothmarks"
 		}
 		"North"
 		{
@@ -4685,8 +4735,8 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Gambler/WorldC1M2B12.vcd"
+			"text"		"Scared?"
 		}
 		"North"
 		{
@@ -4720,13 +4770,13 @@
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Gambler/worldc1m1b10.vcd"
+			"text"		"Fat 1"
 		}
 		"NorthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Gambler/worldc1m1b73.vcd"
+			"text"		"Fat 2"
 		}
 	}
 	
@@ -4735,8 +4785,8 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Gambler/worldc1m2b01.vcd"
+			"text"		"I like"
 		}
 		"North"
 		{
