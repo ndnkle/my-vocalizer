@@ -99,7 +99,7 @@
 			"text"		"#L4D_rosetta_thankyou"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"Orders,Zombie,Alive"
 	{
@@ -179,7 +179,7 @@
 			"text"		"Together"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"Enemies,Survivor,Alive"
 	{
@@ -229,7 +229,7 @@
 			"text"		"Adrenaline"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"Events,Survivor,Alive"
 	{
@@ -379,7 +379,7 @@
 			"text"		"Chopper"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"Z1,Survivor,Alive"
 	{
@@ -479,7 +479,7 @@
 			"text"		"Zombie"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"Z3,Survivor,Alive"
 	{
@@ -779,7 +779,7 @@
 			"text"		"Plan"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"F3,Survivor,Alive"
 	{
@@ -1079,7 +1079,7 @@
 			"text"		"Zombies"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"L3,Survivor,Alive"
 	{
@@ -1329,7 +1329,7 @@
 			"text"		"Open"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"B2,Survivor,Alive"
 	{
@@ -1379,7 +1379,7 @@
 			"text"		"Zombies"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"B3,Survivor,Alive"
 	{
@@ -1679,7 +1679,7 @@
 			"text"		"Vampires"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"R3,Survivor,Alive"
 	{
@@ -1979,7 +1979,7 @@
 			"text"		"Big ape"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"N2,Survivor,Alive"
 	{
@@ -2029,7 +2029,7 @@
 			"text"		"Messed up"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"N3,Survivor,Alive"
 	{
@@ -2329,7 +2329,7 @@
 			"text"		"Cotton candy"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"C2,Survivor,Alive"
 	{
@@ -2379,7 +2379,7 @@
 			"text"		"Vampires"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"C3,Survivor,Alive"
 	{
@@ -2679,7 +2679,7 @@
 			"text"		"Love you"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"E2,Survivor,Alive"
 	{
@@ -3129,7 +3129,7 @@
 			"text"		"Francis"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"Adm1"
 	{
@@ -3179,7 +3179,7 @@
 			"text"		"Car"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"Adm2"
 	{
@@ -3229,9 +3229,59 @@
 			"text"		"TV"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"Adm3"
+	{
+		"Center"
+		{
+			"command"	"sm_admin"
+			"text"		"Menu"
+		}
+		"North"
+		{
+			"command"	"sm_lock"
+			"text"		"Lock"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_removedoor"
+			"text"		"Remove door"
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	"sm_unlock"
+			"text"		"Unlock"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_spawndoor;status;slot1;"
+			"text"		"Wooden Door"
+		}
+		"West"
+		{
+			"command"	"sm_spawndoor;status;slot4;"
+			"text"		"Window Door"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_spawndoor;status;slot2;"
+			"text"		"Saferoom Door"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"Adm4"
 	{
 		"Center"
 		{
@@ -3279,24 +3329,24 @@
 			"text"		"Spit"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
-	"Adm4"
+	"Adm5"
 	{
 		"Center"
 		{
-			"command"	"sm_lock"
-			"text"		"Lock"
+			"command"	"sm_gw @me ammo"
+			"text"		"Ammo"
 		}
 		"North"
 		{
-			"command"	"sm_unlock"
-			"text"		"Unlock"
+			"command"	"sm_gw @me pain_pills"
+			"text"		"Pills"
 		}
 		"NorthEast"
 		{
-			"command"	"sm_removedoor"
-			"text"		"Remove door"
+			"command"	"sm_gw @me first_aid_kit"
+			"text"		"First aid"
 		}
 		"East"
 		{
@@ -3305,31 +3355,31 @@
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_gw @me pipe_bomb"
+			"text"		"Pipe"
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_gw @me molotov"
+			"text"		"Molotov"
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_gw @me vomitjar"
+			"text"		"Bile"
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_gw @me adrenaline"
+			"text"		"Adrenaline"
 		}
 		"NorthWest"
 		{
-			"command"	"sm_spawndoor"
-			"text"		"Door"
+			"command"	"sm_gw @me defibrillator"
+			"text"		"Defib"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"ZMy1,Survivor,Alive"
 	{
@@ -3379,7 +3429,7 @@
 			"text"		"Chickenshits"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"ZMy2,Survivor,Alive"
 	{
@@ -3429,7 +3479,7 @@
 			"text"		"Passing gas"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"ZMy3,Survivor,Alive"
 	{
@@ -3479,7 +3529,7 @@
 			"text"		"Can't believe"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"ZMy4,Survivor,Alive"
 	{
@@ -3529,14 +3579,14 @@
 			"text"		"Minor 02"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"ZMy5,Survivor,Alive"
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/TeenGirl/DLC2M2FinaleButtonPressLift01.vcd"
+			"text"		"Come to mama"
 		}
 		"North"
 		{
@@ -3560,8 +3610,8 @@
 		}
 		"South"
 		{
-			"command"	"sm_vocalize @me scenes/TeenGirl/DLC2M2FinaleButtonPressLift01.vcd"
-			"text"		"Come to mama"
+			"command"	""
+			"text"		""
 		}
 		"SouthWest"
 		{
@@ -3579,7 +3629,7 @@
 			"text"		""
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"FMy1,Survivor,Alive"
 	{
@@ -3629,7 +3679,7 @@
 			"text"		"A hero"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"FMy2,Survivor,Alive"
 	{
@@ -3679,7 +3729,7 @@
 			"text"		""
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"FMy3,Survivor,Alive"
 	{
@@ -3729,7 +3779,7 @@
 			"text"		"Dog 2"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"FMy4,Survivor,Alive"
 	{
@@ -3779,7 +3829,7 @@
 			"text"		"Minor 03"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"FMy5,Survivor,Alive"
 	{
@@ -3829,7 +3879,7 @@
 			"text"		""
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"LMy1,Survivor,Alive"
 	{
@@ -3879,7 +3929,7 @@
 			"text"		"Belche"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"LMy2,Survivor,Alive"
 	{
@@ -3929,7 +3979,7 @@
 			"text"		""
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"LMy3,Survivor,Alive"
 	{
@@ -3979,7 +4029,7 @@
 			"text"		""
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"LMy4,Survivor,Alive"
 	{
@@ -4029,7 +4079,7 @@
 			"text"		"Minor 03"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"LMy5,Survivor,Alive"
 	{
@@ -4079,7 +4129,7 @@
 			"text"		""
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"BMy1,Survivor,Alive"
 	{
@@ -4129,7 +4179,7 @@
 			"text"		"Who are you?"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"BMy2,Survivor,Alive"
 	{
@@ -4179,7 +4229,7 @@
 			"text"		"Francis sewer"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"BMy3,Survivor,Alive"
 	{
@@ -4229,7 +4279,7 @@
 			"text"		""
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"BMy4,Survivor,Alive"
 	{
@@ -4279,7 +4329,7 @@
 			"text"		"Minor 02"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"BMy5,Survivor,Alive"
 	{
@@ -4329,7 +4379,7 @@
 			"text"		""
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"RMy1,Survivor,Alive"
 	{
@@ -4379,7 +4429,7 @@
 			"text"		"Aliens"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"RMy2,Survivor,Alive"
 	{
@@ -4429,7 +4479,7 @@
 			"text"		"Always wanted"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"RMy3,Survivor,Alive"
 	{
@@ -4479,7 +4529,7 @@
 			"text"		"Hmm 09"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"RMy4,Survivor,Alive"
 	{
@@ -4529,7 +4579,7 @@
 			"text"		"Punch it!"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"RMy5,Survivor,Alive"
 	{
@@ -4579,7 +4629,7 @@
 			"text"		""
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"NMy1,Survivor,Alive"
 	{
@@ -4629,7 +4679,7 @@
 			"text"		"Bad advice"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"NMy2,Survivor,Alive"
 	{
@@ -4679,24 +4729,24 @@
 			"text"		"Get a room"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"NMy3,Survivor,Alive"
 	{
 		"Center"
 		{
-			"command"	"sm_vocalize @me scenes/Gambler/LeadOn05.vcd"
-			"text"		"Behind 1"
+			"command"	"sm_vocalize @me scenes/Gambler/worldc1m2b01.vcd"
+			"text"		"I like"
 		}
 		"North"
 		{
 			"command"	"sm_vocalize @me scenes/Gambler/LeadOn06.vcd"
-			"text"		"Behind 2"
+			"text"		"Behind 1"
 		}
 		"NorthEast"
 		{
 			"command"	"sm_vocalize @me scenes/Gambler/LeadOn09.vcd"
-			"text"		"Behind 3"
+			"text"		"Behind 2"
 		}
 		"East"
 		{
@@ -4729,7 +4779,7 @@
 			"text"		"Ellis angel"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"NMy4,Survivor,Alive"
 	{
@@ -4779,14 +4829,14 @@
 			"text"		"Fat 2"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"NMy5,Survivor,Alive"
 	{
 		"Center"
 		{
-			"command"	"sm_vocalize @me scenes/Gambler/worldc1m2b01.vcd"
-			"text"		"I like"
+			"command"	""
+			"text"		""
 		}
 		"North"
 		{
@@ -4829,7 +4879,7 @@
 			"text"		""
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"CMy1,Survivor,Alive"
 	{
@@ -4879,7 +4929,7 @@
 			"text"		"Don't trip Nick"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"CMy2,Survivor,Alive"
 	{
@@ -4929,7 +4979,7 @@
 			"text"		"Crazy woman!"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"CMy3,Survivor,Alive"
 	{
@@ -4979,59 +5029,9 @@
 			"text"		""
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"CMy4,Survivor,Alive"
-	{
-		"Center"
-		{
-			"command"	""
-			"text"		""
-		}
-		"North"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"East"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"South"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-		"West"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-	}
-	
-	//--------------------------------------------------------------
-	"CMy5,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -5079,7 +5079,57 @@
 			"text"		""
 		}
 	}
-	
+
+	//--------------------------------------------------------------
+	"CMy5,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
 	//--------------------------------------------------------------
 	"EMy1,Survivor,Alive"
 	{
@@ -5129,7 +5179,7 @@
 			"text"		"All aboard"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"EMy2,Survivor,Alive"
 	{
@@ -5179,19 +5229,19 @@
 			"text"		""
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"EMy3,Survivor,Alive"
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize SingTheSong"
+			"text"		"Song"
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize MTEllisStories"
+			"text"		"Story"
 		}
 		"NorthEast"
 		{
@@ -5229,7 +5279,7 @@
 			"text"		""
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"EMy4,Survivor,Alive"
 	{
@@ -5279,19 +5329,19 @@
 			"text"		""
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"EMy5,Survivor,Alive"
 	{
 		"Center"
 		{
-			"command"	"vocalize SingTheSong"
-			"text"		"Song"
+			"command"	""
+			"text"		""
 		}
 		"North"
 		{
-			"command"	"vocalize MTEllisStories"
-			"text"		"Story"
+			"command"	""
+			"text"		""
 		}
 		"NorthEast"
 		{
