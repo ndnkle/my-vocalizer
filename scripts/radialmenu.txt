@@ -370,13 +370,13 @@
 		}
 		"West"
 		{
-			"command"	"vocalize C5M3FirstInAlarmField"
-			"text"		"Alarm"
+			"command"	"vocalize c2m3SeeChopper"
+			"text"		"Chopper"
 		}
 		"NorthWest"
 		{
-			"command"	"vocalize c2m3SeeChopper"
-			"text"		"Chopper"
+			"command"	"vocalize C2M1Falling"
+			"text"		"Whoa"
 		}
 	}
 
@@ -1735,8 +1735,8 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize C2M1Falling"
-			"text"		"Whoa"
+			"command"	"vocalize C3M3SafeRoom2e2"
+			"text"		"Dead"
 		}
 		"North"
 		{
@@ -2085,8 +2085,8 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize C2M1Falling"
-			"text"		"Whoa"
+			"command"	"vocalize C5M3manhole01"
+			"text"		"Sewer"
 		}
 		"North"
 		{
@@ -2435,13 +2435,13 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize C2M1Falling"
-			"text"		"Whoa"
+			"command"	"vocalize WeddingWitchDead02"
+			"text"		"Creeps"
 		}
 		"North"
 		{
-			"command"	"vocalize WeddingWitchDead02"
-			"text"		"Creeps"
+			"command"	"vocalize _c4m2_ElevatorHere01"
+			"text"		"Elevator"
 		}
 		"NorthEast"
 		{
@@ -2785,13 +2785,13 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize C2M1Falling"
-			"text"		"Whoa"
+			"command"	"vocalize WorldC3M1FerryCrossingJ3"
+			"text"		"Buff"
 		}
 		"North"
 		{
-			"command"	"vocalize DLC1_C6M3_SafeRoomConvo01c"
-			"text"		"Crush"
+			"command"	"vocalize C3M3SafeRoom2c3"
+			"text"		"No sense"
 		}
 		"NorthEast"
 		{
@@ -2800,8 +2800,8 @@
 		}
 		"East"
 		{
-			"command"	"vocalize WorldC3M1FerryCrossingJ3"
-			"text"		"Buff"
+			"command"	"vocalize DLC1_C6M3_SafeRoomConvo01c"
+			"text"		"Crush"
 		}
 		"SouthEast"
 		{
@@ -3250,8 +3250,8 @@
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_fcmd @aim sm_drop"
+			"text"		"Drop @aim"
 		}
 		"SouthEast"
 		{
