@@ -17,17 +17,17 @@
 		{
 			"command"	"vocalize PlayerLeadOn"
 			"text"		"#L4D_rosetta_youtakelead"
-		}	
+		}
 		"East"
 		{
 			"command"	"vocalize PlayerHurryUp"
 			"text"		"#L4D_rosetta_hurry"
-		}	
+		}
 		"SouthEast"
 		{
 			"command"	"vocalize PlayerNiceJob"
 			"text"		"#L4D_rosetta_nicejob"
-		}	
+		}
 		"South"
 		{
 			"command"	"vocalize PlayerWaitHere"
@@ -47,7 +47,7 @@
 		{
 			"command"	"vocalize PlayerImWithYou"
 			"text"		"#L4D_rosetta_withyou"
-		}	
+		}
 	}
 	//--------------------------------------------------------------
 	"QA,Survivor,Alive"
@@ -67,7 +67,6 @@
 			"command"	"vocalize PlayerTaunt"
 			"text"		"#L4D_rosetta_taunt"
 		}
-
 		"East"
 		{
 			"command"	"vocalize PlayerNegative"
