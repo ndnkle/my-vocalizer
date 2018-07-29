@@ -599,8 +599,8 @@
 		}
 		"East"
 		{
-			"command"	"vocalize WorldC6M3_ByBridge01Ellis"
-			"text"		"Car"
+			"command"	"vocalize PlaneCrashResponse"
+			"text"		"Holy shit"
 		}
 		"SouthEast"
 		{
@@ -1539,7 +1539,7 @@
 		}
 		"North"
 		{
-			"command"	"vocalize ConceptBlock641"
+			"command"	"vocalize ResponseWeCanStill"
 			"text"		"Straight"
 		}
 		"NorthEast"
@@ -3584,28 +3584,28 @@
 	{
 		"Center"
 		{
-			"command"	"sm_vocalize @me scenes/TeenGirl/DLC2M2FinaleButtonPressLift01.vcd"
-			"text"		"Come to mama"
+			"command"	"vocalize SingTheSong"
+			"text"		"Song"
 		}
 		"North"
 		{
-			"command"	"sm_vocalize @me scenes/TeenGirl/NervousHumming01.vcd"
-			"text"		"Humming 01"
+			"command"	"vocalize IHate"
+			"text"		"Hate"
 		}
 		"NorthEast"
 		{
-			"command"	"sm_vocalize @me scenes/TeenGirl/NervousHumming02.vcd"
-			"text"		"Humming 02"
+			"command"	"sm_vocalize @me scenes/TeenGirl/DLC2M2FinaleButtonPressLift01.vcd"
+			"text"		"Come to mama"
 		}
 		"East"
 		{
-			"command"	"sm_vocalize @me scenes/TeenGirl/NervousHumming03.vcd"
-			"text"		"Humming 03"
+			"command"	"sm_vocalize @me scenes/TeenGirl/BoomerReaction15.vcd"
+			"text"		"Spitting 1"
 		}
 		"SouthEast"
 		{
-			"command"	"sm_vocalize @me scenes/TeenGirl/NervousHumming04.vcd"
-			"text"		"Humming 04"
+			"command"	"sm_vocalize @me scenes/TeenGirl/BoomerReaction16.vcd"
+			"text"		"Spitting 2"
 		}
 		"South"
 		{
@@ -3689,38 +3689,38 @@
 		}
 		"North"
 		{
-			"command"	"sm_vocalize @me scenes/Biker/NervousHumming01.vcd"
-			"text"		"Humming 1"
+			"command"	""
+			"text"		""
 		}
 		"NorthEast"
 		{
-			"command"	"sm_vocalize @me scenes/Biker/NervousHumming02.vcd"
-			"text"		"Humming 2"
+			"command"	""
+			"text"		""
 		}
 		"East"
 		{
-			"command"	"sm_vocalize @me scenes/Biker/NervousHumming03.vcd"
-			"text"		"Humming 3"
+			"command"	""
+			"text"		""
 		}
 		"SouthEast"
 		{
-			"command"	"sm_vocalize @me scenes/Biker/NervousHumming04.vcd"
-			"text"		"Humming 4"
+			"command"	""
+			"text"		""
 		}
 		"South"
 		{
-			"command"	"sm_vocalize @me scenes/Biker/NervousHumming05.vcd"
-			"text"		"Humming 5"
+			"command"	""
+			"text"		""
 		}
 		"SouthWest"
 		{
-			"command"	"sm_vocalize @me scenes/Biker/NervousHumming06.vcd"
-			"text"		"Humming 6"
+			"command"	""
+			"text"		""
 		}
 		"West"
 		{
-			"command"	"sm_vocalize @me scenes/Biker/NervousHumming07.vcd"
-			"text"		"Humming 7"
+			"command"	""
+			"text"		""
 		}
 		"NorthWest"
 		{
@@ -3834,13 +3834,13 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize IHate"
-			"text"		"Hate"
+			"command"	"vocalize SingTheSong"
+			"text"		"Song"
 		}
 		"North"
 		{
-			"command"	"sm_vocalize @me scenes/Biker/AnswerReady04.vcd"
-			"text"		"Break stuff"
+			"command"	"vocalize IHate"
+			"text"		"Hate"
 		}
 		"NorthEast"
 		{
@@ -3849,8 +3849,8 @@
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Biker/AnswerReady04.vcd"
+			"text"		"Break stuff"
 		}
 		"SouthEast"
 		{
@@ -4084,8 +4084,8 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize SingTheSong"
+			"text"		"Song"
 		}
 		"North"
 		{
@@ -4334,8 +4334,8 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize SingTheSong"
+			"text"		"Song"
 		}
 		"North"
 		{
@@ -4439,13 +4439,13 @@
 		}
 		"North"
 		{
-			"command"	"sm_vocalize @me scenes/Producer/WorldGenericProducer38.vcd"
-			"text"		"Size"
+			"command"	"sm_vocalize @me scenes/Producer/DLC1_M6005.vcd"
+			"text"		"Big gun 1"
 		}
 		"NorthEast"
 		{
-			"command"	"sm_vocalize @me scenes/Producer/WorldGenericProducer39.vcd"
-			"text"		"Big, beautiful"
+			"command"	"sm_vocalize @me scenes/Producer/DLC1_M6009.vcd"
+			"text"		"Big gun 2"
 		}
 		"East"
 		{
@@ -4454,18 +4454,18 @@
 		}
 		"SouthEast"
 		{
-			"command"	"sm_vocalize @me scenes/Producer/WorldC1M2B58.vcd"
-			"text"		"You want what?"
+			"command"	""
+			"text"		""
 		}
 		"South"
 		{
-			"command"	"sm_vocalize @me scenes/Producer/WorldC1M3B10.vcd"
-			"text"		"Coach's stomach"
+			"command"	"sm_vocalize @me scenes/Producer/DLC1_M6010.vcd"
+			"text"		"Favorite gun"
 		}
 		"SouthWest"
 		{
-			"command"	"sm_vocalize @me scenes/Producer/WorldC1M4B11.vcd"
-			"text"		"I'll do it"
+			"command"	""
+			"text"		""
 		}
 		"West"
 		{
@@ -4564,8 +4564,8 @@
 		}
 		"SouthWest"
 		{
-			"command"	"sm_vocalize @me scenes/Producer/DLC1_M6009.vcd"
-			"text"		"Big gun"
+			"command"	"sm_vocalize @me scenes/Producer/World05.vcd"
+			"text"		"Smell"
 		}
 		"West"
 		{
@@ -4599,28 +4599,28 @@
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Producer/WorldGenericProducer38.vcd"
+			"text"		"Size"
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Producer/WorldGenericProducer39.vcd"
+			"text"		"Big, beautiful"
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Producer/WorldC1M2B58.vcd"
+			"text"		"You want what?"
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Producer/WorldC1M3B10.vcd"
+			"text"		"Coach's stomach"
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Producer/WorldC1M4B11.vcd"
+			"text"		"I'll do it"
 		}
 		"NorthWest"
 		{
