@@ -4454,8 +4454,8 @@
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Producer/TakeMelee05.vcd"
+			"text"		"I know"
 		}
 		"South"
 		{
@@ -4464,13 +4464,13 @@
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Producer/WorldC1M2B18.vcd"
+			"text"		"Oh... my... GOD"
 		}
 		"West"
 		{
-			"command"	"sm_vocalize @me scenes/Producer/DLC1_C6M3_SafeRoomConvo14.vcd"
-			"text"		"Woman for Nick"
+			"command"	"sm_vocalize @me scenes/Producer/WorldC1M2B21.vcd"
+			"text"		"LOOK"
 		}
 		"NorthWest"
 		{
@@ -4544,13 +4544,13 @@
 		}
 		"NorthEast"
 		{
-			"command"	"sm_vocalize @me scenes/Producer/WorldC1M2B18.vcd"
-			"text"		"Oh... my... GOD"
+			"command"	"sm_vocalize @me scenes/Producer/DLC1_C6M3_SafeRoomConvo14.vcd"
+			"text"		"Woman for Nick"
 		}
 		"East"
 		{
-			"command"	"sm_vocalize @me scenes/Producer/WorldC1M2B21.vcd"
-			"text"		"LOOK"
+			"command"	""
+			"text"		""
 		}
 		"SouthEast"
 		{
@@ -4589,8 +4589,8 @@
 		}
 		"North"
 		{
-			"command"	"sm_vocalize @me scenes/Producer/TakeMelee05.vcd"
-			"text"		"I know"
+			"command"	"sm_vocalize @me scenes/Producer/WorldC1M2B47.vcd"
+			"text"		"BOOM"
 		}
 		"NorthEast"
 		{
