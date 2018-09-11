@@ -904,8 +904,8 @@
 		}
 		"SouthEast"
 		{
-			"command"	"vocalize ConceptBlock632"
-			"text"		"Obedient"
+			"command"	"vocalize C6M1Intro_14b"
+			"text"		"You four"
 		}
 		"South"
 		{
@@ -2289,8 +2289,8 @@
 		}
 		"North"
 		{
-			"command"	"vocalize DLC1_C6M2_SafeRoomConvo18e"
-			"text"		"Guard"
+			"command"	"vocalize DLC1_C6M2_SafeRoomConvo18c"
+			"text"		"Girl"
 		}
 		"NorthEast"
 		{
@@ -2404,8 +2404,8 @@
 		}
 		"SouthEast"
 		{
-			"command"	"vocalize DLC1_C6M2_SafeRoomConvo18c"
-			"text"		"Girl, what"
+			"command"	"vocalize DLC1_C6M2_SafeRoomConvo13b"
+			"text"		"Depression"
 		}
 		"South"
 		{
@@ -2514,8 +2514,8 @@
 		}
 		"SouthWest"
 		{
-			"command"	"vocalize WorldIntroC3e1"
-			"text"		"Warning"
+			"command"	"vocalize _C2M2_SeeSafehouse01"
+			"text"		"Tunnel of love"
 		}
 		"West"
 		{
@@ -2559,8 +2559,8 @@
 		}
 		"South"
 		{
-			"command"	"vocalize _C2M2_SeeSafehouse01"
-			"text"		"Tunnel of love"
+			"command"	"vocalize C5M3Bodies03"
+			"text"		"Don't know"
 		}
 		"SouthWest"
 		{
