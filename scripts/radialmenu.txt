@@ -3549,13 +3549,13 @@
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_gw @me upgradepack_explosive"
+			"text"		"Expl ammo"
 		}
 		"SouthEast"
 		{
 			"command"	"sm_gw @me pipe_bomb"
-			"text"		"Pipe"
+			"text"		"Pipe bomb"
 		}
 		"South"
 		{
@@ -3809,23 +3809,23 @@
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/TeenGirl/LedgeHangEnd06.vcd"
+			"text"		"No behind"
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/TeenGirl/C6DLC3FIRSTSAFEROOM01.vcd"
+			"text"		"Don't want"
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/TeenGirl/AnswerReady03.vcd"
+			"text"		"Ready"
 		}
 		"NorthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/TeenGirl/DLC2M2FinaleButtonPressGen301.vcd"
+			"text"		"Stinking"
 		}
 	}
 
@@ -3885,27 +3885,27 @@
 		"Center"
 		{
 			"command"	"sm_vocalize @me scenes/Biker/DLC1_C6M3_FinaleChat21.vcd"
-			"text"		"Nah, I'm a cop"
+			"text"		"I'm a cop"
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Biker/C6DLC3BILLDIES06.vcd"
+			"text"		"Old bastard"
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Biker/C6DLC3JUMPINGOFFBRIDGE10.vcd"
+			"text"		"Plan"
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Biker/dlc1_c6m3_finalechat19.vcd"
+			"text"		"Fancy ass"
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize ConceptBlock632"
+			"text"		"Most people"
 		}
 		"South"
 		{
@@ -4564,18 +4564,18 @@
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/NamVet/Thanks01.vcd"
+			"text"		"I'm behind 1"
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/NamVet/Thanks08.vcd"
+			"text"		"I'm behind 2"
 		}
 		"NorthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/NamVet/Hurrah18.vcd"
+			"text"		"Big surprise"
 		}
 	}
 
@@ -4749,8 +4749,8 @@
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Producer/YouAreWelcome09.vcd"
+			"text"		"Head"
 		}
 		"SouthEast"
 		{
@@ -5049,8 +5049,8 @@
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Gambler/AlertGiveItem01.vcd"
+			"text"		"To give"
 		}
 		"SouthEast"
 		{
