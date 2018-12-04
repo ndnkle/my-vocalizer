@@ -339,8 +339,8 @@
 		}
 		"North"
 		{
-			"command"	"vocalize C3M4Button1"
-			"text"		"Virgil Spam"
+			"command"	"vocalize ReviveFriendDown"
+			"text"		"Hurt"
 		}
 		"NorthEast"
 		{
@@ -684,18 +684,18 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize Player.WarnMegaMobc7m201"
+			"text"		"Chute"
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize SingTheSong"
+			"text"		"Song"
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize IHate"
+			"text"		"Hate"
 		}
 		"East"
 		{
@@ -1034,28 +1034,28 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize Player.WarnMegaMobc7m201"
+			"text"		"Chute"
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize SingTheSong"
+			"text"		"Song"
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize IHate"
+			"text"		"Hate"
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize ConceptBlock632"
+			"text"		"Most people"
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize EmphaticArriveRunFarm"
+			"text"		"I Love"
 		}
 		"South"
 		{
@@ -1384,18 +1384,18 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize Player.WarnMegaMobc7m201"
+			"text"		"Chute"
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize SingTheSong"
+			"text"		"Song"
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize IHate"
+			"text"		"Hate"
 		}
 		"East"
 		{
@@ -1734,48 +1734,48 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize C7M2_saferoom05"
-			"text"		"Keep telling"
+			"command"	"vocalize Player.WarnMegaMobc7m201"
+			"text"		"Chute"
 		}
 		"North"
+		{
+			"command"	"vocalize SingTheSong"
+			"text"		"Song"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize IHate"
+			"text"		"Hate"
+		}
+		"East"
+		{
+			"command"	"vocalize InfoRemc7m2_listingtug"
+			"text"		"No Francis"
+		}
+		"SouthEast"
 		{
 			"command"	"vocalize ConceptBlock028"
 			"text"		"Moron"
 		}
-		"NorthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"East"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthEast"
-		{
-			"command"	""
-			"text"		""
-		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M2_saferoom05"
+			"text"		"Keep telling"
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M2_saferoom01a"
+			"text"		"Four of us"
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M1_saferoom20"
+			"text"		"Zoey stayed"
 		}
 		"NorthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M1_saferoom09"
+			"text"		"Zoey trust"
 		}
 	}
 
@@ -3784,13 +3784,13 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize SingTheSong"
-			"text"		"Song"
+			"command"	""
+			"text"		""
 		}
 		"North"
 		{
-			"command"	"vocalize IHate"
-			"text"		"Hate"
+			"command"	""
+			"text"		""
 		}
 		"NorthEast"
 		{
@@ -3904,13 +3904,13 @@
 		}
 		"SouthEast"
 		{
-			"command"	"vocalize ConceptBlock632"
-			"text"		"Most people"
+			"command"	"sm_vocalize @me scenes/Biker/AnswerReady05.vcd"
+			"text"		"Kill something"
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Biker/AnswerReady04.vcd"
+			"text"		"Break stuff"
 		}
 		"SouthWest"
 		{
@@ -4034,23 +4034,23 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize SingTheSong"
-			"text"		"Song"
+			"command"	""
+			"text"		""
 		}
 		"North"
 		{
-			"command"	"vocalize IHate"
-			"text"		"Hate"
+			"command"	""
+			"text"		""
 		}
 		"NorthEast"
 		{
-			"command"	"sm_vocalize @me scenes/Biker/AnswerReady05.vcd"
-			"text"		"Kill something"
+			"command"	""
+			"text"		""
 		}
 		"East"
 		{
-			"command"	"sm_vocalize @me scenes/Biker/AnswerReady04.vcd"
-			"text"		"Break stuff"
+			"command"	""
+			"text"		""
 		}
 		"SouthEast"
 		{
@@ -4284,8 +4284,8 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize SingTheSong"
-			"text"		"Song"
+			"command"	""
+			"text"		""
 		}
 		"North"
 		{
@@ -4384,38 +4384,38 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize Player.WarnMegaMobc7m201"
-			"text"		"Chute"
+			"command"	""
+			"text"		""
 		}
 		"North"
 		{
-			"command"	"vocalize InfoRemc7m2_listingtug"
-			"text"		"No Francis"
+			"command"	""
+			"text"		""
 		}
 		"NorthEast"
 		{
-			"command"	"vocalize C7M1_saferoom09a"
-			"text"		"Zoey together"
+			"command"	""
+			"text"		""
 		}
 		"East"
 		{
-			"command"	"vocalize C7M1_saferoom15"
-			"text"		"Come for our own"
+			"command"	""
+			"text"		""
 		}
 		"SouthEast"
 		{
-			"command"	"vocalize C7M2_saferoom01a"
-			"text"		"Four of us"
+			"command"	""
+			"text"		""
 		}
 		"South"
 		{
-			"command"	"vocalize C7M1_saferoom20"
-			"text"		"Zoey stayed"
+			"command"	""
+			"text"		""
 		}
 		"SouthWest"
 		{
-			"command"	"vocalize C7M1_saferoom09"
-			"text"		"Zoey trust"
+			"command"	""
+			"text"		""
 		}
 		"West"
 		{
@@ -4534,8 +4534,8 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize SingTheSong"
-			"text"		"Song"
+			"command"	""
+			"text"		""
 		}
 		"North"
 		{
@@ -4789,8 +4789,8 @@
 		}
 		"North"
 		{
-			"command"	"sm_vocalize @me scenes/Producer/WorldC1M2B47.vcd"
-			"text"		"BOOM"
+			"command"	"vocalize IHate"
+			"text"		"Hate"
 		}
 		"NorthEast"
 		{
@@ -4824,8 +4824,8 @@
 		}
 		"NorthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Producer/WorldC1M2B47.vcd"
+			"text"		"BOOM"
 		}
 	}
 
@@ -5034,13 +5034,13 @@
 	{
 		"Center"
 		{
-			"command"	"sm_vocalize @me scenes/Gambler/HeardSpecialC101.vcd"
-			"text"		"Beating a horse 1"
+			"command"	"vocalize SingTheSong"
+			"text"		"Song"
 		}
 		"North"
 		{
-			"command"	"sm_vocalize @me scenes/Gambler/HeardSpecialC102.vcd"
-			"text"		"Beating a horse 2"
+			"command"	"vocalize IHate"
+			"text"		"Hate"
 		}
 		"NorthEast"
 		{
@@ -5054,13 +5054,13 @@
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Gambler/HeardSpecialC101.vcd"
+			"text"		"Beating a horse 1"
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Gambler/HeardSpecialC102.vcd"
+			"text"		"Beating a horse 2"
 		}
 		"SouthWest"
 		{
@@ -5184,8 +5184,8 @@
 	{
 		"Center"
 		{
-			"command"	"sm_vocalize @me scenes/Coach/Defibrillator15.vcd"
-			"text"		"Electric"
+			"command"	""
+			"text"		""
 		}
 		"North"
 		{
@@ -5194,8 +5194,8 @@
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Coach/Defibrillator15.vcd"
+			"text"		"Electric"
 		}
 		"East"
 		{
@@ -5234,8 +5234,8 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize SingTheSong"
-			"text"		"Song"
+			"command"	""
+			"text"		""
 		}
 		"North"
 		{
@@ -5284,13 +5284,13 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize SingTheSong"
+			"text"		"Song"
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize IHate"
+			"text"		"Hate"
 		}
 		"NorthEast"
 		{
@@ -5434,13 +5434,13 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize SingTheSong"
-			"text"		"Song"
+			"command"	""
+			"text"		""
 		}
 		"North"
 		{
-			"command"	"vocalize MTEllisStories"
-			"text"		"Story"
+			"command"	""
+			"text"		""
 		}
 		"NorthEast"
 		{
@@ -5534,18 +5534,18 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize SingTheSong"
+			"text"		"Song"
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize IHate"
+			"text"		"Hate"
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize MTEllisStories"
+			"text"		"Story"
 		}
 		"East"
 		{
