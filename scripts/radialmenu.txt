@@ -2059,13 +2059,13 @@
 		}
 		"South"
 		{
-			"command"	"vocalize C6M1Intro_22h"
-			"text"		"Take care"
+			"command"	"vocalize C3M3SafeRoom2a3"
+			"text"		"Swamp people"
 		}
 		"SouthWest"
 		{
-			"command"	"vocalize C3M2SafeRoom2c"
-			"text"		"Swamp people"
+			"command"	"vocalize C6M1Intro_22h"
+			"text"		"Take care"
 		}
 		"West"
 		{
