@@ -3830,6 +3830,56 @@
 	}
 
 	//--------------------------------------------------------------
+	"ZMy6,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	"vocalize PlayerUsingDefibrillator"
+			"text"		"Using Defib"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize PlayerGoingToDie"
+			"text"		"Going To Die"
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
 	"FMy1,Survivor,Alive"
 	{
 		"Center"
@@ -4046,6 +4096,56 @@
 		{
 			"command"	""
 			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"FMy6,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	"vocalize PlayerUsingDefibrillator"
+			"text"		"Using Defib"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize PlayerGoingToDie"
+			"text"		"Going To Die"
 		}
 		"East"
 		{
@@ -4330,6 +4430,56 @@
 	}
 
 	//--------------------------------------------------------------
+	"LMy6,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	"vocalize PlayerUsingDefibrillator"
+			"text"		"Using Defib"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize PlayerGoingToDie"
+			"text"		"Going To Die"
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
 	"BMy1,Survivor,Alive"
 	{
 		"Center"
@@ -4576,6 +4726,56 @@
 		{
 			"command"	"sm_vocalize @me scenes/NamVet/Hurrah18.vcd"
 			"text"		"Big surprise"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"BMy6,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	"vocalize PlayerUsingDefibrillator"
+			"text"		"Using Defib"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize PlayerGoingToDie"
+			"text"		"Going To Die"
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
 		}
 	}
 
@@ -4830,6 +5030,56 @@
 	}
 
 	//--------------------------------------------------------------
+	"RMy6,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	"vocalize PlayerUsingDefibrillator"
+			"text"		"Using Defib"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize PlayerGoingToDie"
+			"text"		"Going To Die"
+		}
+		"East"
+		{
+			"command"	"vocalize C6M1_IntotheparkNoHealth"
+			"text"		"Health kit"
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
 	"NMy1,Survivor,Alive"
 	{
 		"Center"
@@ -5061,6 +5311,56 @@
 		{
 			"command"	"sm_vocalize @me scenes/Gambler/HeardSpecialC102.vcd"
 			"text"		"Beating a horse 2"
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"NMy6,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	"vocalize PlayerUsingDefibrillator"
+			"text"		"Using Defib"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize PlayerGoingToDie"
+			"text"		"Going To Die"
+		}
+		"East"
+		{
+			"command"	"vocalize C6M1_IntotheparkNoHealth"
+			"text"		"Health kit"
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
 		}
 		"SouthWest"
 		{
@@ -5330,6 +5630,56 @@
 	}
 
 	//--------------------------------------------------------------
+	"CMy6,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"vocalize C5M4BombInt01"
+			"text"		"Shit!"
+		}
+		"North"
+		{
+			"command"	"vocalize PlayerUsingDefibrillator"
+			"text"		"Using Defib"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize PlayerGoingToDie"
+			"text"		"Going To Die"
+		}
+		"East"
+		{
+			"command"	"vocalize C6M1_IntotheparkNoHealth"
+			"text"		"Health kit"
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
 	"EMy1,Survivor,Alive"
 	{
 		"Center"
@@ -5551,6 +5901,56 @@
 		{
 			"command"	""
 			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"EMy6,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	"vocalize PlayerUsingDefibrillator"
+			"text"		"Using Defib"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize PlayerGoingToDie"
+			"text"		"Going To Die"
+		}
+		"East"
+		{
+			"command"	"vocalize C6M1_IntotheparkNoHealth"
+			"text"		"Health kit"
 		}
 		"SouthEast"
 		{
