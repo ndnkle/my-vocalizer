@@ -684,18 +684,18 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize Player.WarnMegaMobc7m201"
-			"text"		"Chute"
+			"command"	""
+			"text"		""
 		}
 		"North"
 		{
-			"command"	"vocalize SingTheSong"
-			"text"		"Song"
+			"command"	""
+			"text"		""
 		}
 		"NorthEast"
 		{
-			"command"	"vocalize IHate"
-			"text"		"Hate"
+			"command"	""
+			"text"		""
 		}
 		"East"
 		{
@@ -1034,28 +1034,28 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize Player.WarnMegaMobc7m201"
-			"text"		"Chute"
+			"command"	""
+			"text"		""
 		}
 		"North"
 		{
-			"command"	"vocalize SingTheSong"
-			"text"		"Song"
+			"command"	""
+			"text"		""
 		}
 		"NorthEast"
 		{
-			"command"	"vocalize IHate"
-			"text"		"Hate"
+			"command"	""
+			"text"		""
 		}
 		"East"
 		{
-			"command"	"vocalize ConceptBlock632"
-			"text"		"Most people"
+			"command"	""
+			"text"		""
 		}
 		"SouthEast"
 		{
-			"command"	"vocalize EmphaticArriveRunFarm"
-			"text"		"I Love"
+			"command"	""
+			"text"		""
 		}
 		"South"
 		{
@@ -1384,18 +1384,18 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize Player.WarnMegaMobc7m201"
-			"text"		"Chute"
+			"command"	""
+			"text"		""
 		}
 		"North"
 		{
-			"command"	"vocalize SingTheSong"
-			"text"		"Song"
+			"command"	""
+			"text"		""
 		}
 		"NorthEast"
 		{
-			"command"	"vocalize IHate"
-			"text"		"Hate"
+			"command"	""
+			"text"		""
 		}
 		"East"
 		{
@@ -1734,48 +1734,48 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize Player.WarnMegaMobc7m201"
-			"text"		"Chute"
+			"command"	""
+			"text"		""
 		}
 		"North"
 		{
-			"command"	"vocalize SingTheSong"
-			"text"		"Song"
+			"command"	""
+			"text"		""
 		}
 		"NorthEast"
 		{
-			"command"	"vocalize IHate"
-			"text"		"Hate"
+			"command"	""
+			"text"		""
 		}
 		"East"
 		{
-			"command"	"vocalize InfoRemc7m2_listingtug"
-			"text"		"No Francis"
+			"command"	""
+			"text"		""
 		}
 		"SouthEast"
 		{
-			"command"	"vocalize ConceptBlock028"
-			"text"		"Moron"
+			"command"	""
+			"text"		""
 		}
 		"South"
 		{
-			"command"	"vocalize C7M2_saferoom05"
-			"text"		"Keep telling"
+			"command"	""
+			"text"		""
 		}
 		"SouthWest"
 		{
-			"command"	"vocalize C7M2_saferoom01a"
-			"text"		"Four of us"
+			"command"	""
+			"text"		""
 		}
 		"West"
 		{
-			"command"	"vocalize C7M1_saferoom20"
-			"text"		"Zoey stayed"
+			"command"	""
+			"text"		""
 		}
 		"NorthWest"
 		{
-			"command"	"vocalize C7M1_saferoom09"
-			"text"		"Zoey trust"
+			"command"	""
+			"text"		""
 		}
 	}
 
@@ -3330,6 +3330,2656 @@
 	}
 
 	//--------------------------------------------------------------
+	"My1"
+	{
+		"Center"
+		{
+			"command"	"vocalize PlayerLookOut"
+			"text"		"Look out"
+		}
+		"North"
+		{
+			"command"	"vocalize PlayerKillThatLight"
+			"text"		"Lights off"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize PlayerGoingToDie"
+			"text"		"Going To Die"
+		}
+		"East"
+		{
+			"command"	"vocalize PlayerUsingDefibrillator"
+			"text"		"Using Defib"
+		}
+		"SouthEast"
+		{
+			"command"	"vocalize RevivedByDefibrillatorDelayed"
+			"text"		"Defibbed"
+		}
+		"South"
+		{
+			"command"	"vocalize PlayerReviveFriendCritical"
+			"text"		"Critical"
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	"vocalize SurvivorJockeyed"
+			"text"		"Jockeyed"
+		}
+		"NorthWest"
+		{
+			"command"	"vocalize Player.WarnMegaMobc7m201"
+			"text"		"Chute"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"My2"
+	{
+		"Center"
+		{
+			"command"	"vocalize C6M1_IntotheparkNoHealth"
+			"text"		"Health kit"
+		}
+		"North"
+		{
+			"command"	"vocalize ReviveFriendDownFinal"
+			"text"		"Good"
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"My3"
+	{
+		"Center"
+		{
+			"command"	"vocalize IHate"
+			"text"		"Hate"
+		}
+		"North"
+		{
+			"command"	"vocalize SingTheSong"
+			"text"		"Song"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize _what"
+			"text"		"What?"
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"My4"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"My5"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"ZMy1,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"ZMy2,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"ZMy3,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"ZMy4,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"ZMy5,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"ZMy6,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"FMy1,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"vocalize ConceptBlock632"
+			"text"		"Most people"
+		}
+		"North"
+		{
+			"command"	"vocalize EmphaticArriveRunFarm"
+			"text"		"I Love"
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"FMy2,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"FMy3,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"FMy4,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"FMy5,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"FMy6,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"LMy1,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"vocalize SmallTown02_path01b"
+			"text"		"Story"
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"LMy2,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"LMy3,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"LMy4,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"LMy5,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"LMy6,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"BMy1,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"vocalize ConceptBlock028"
+			"text"		"Moron"
+		}
+		"North"
+		{
+			"command"	"vocalize InfoRemc7m2_listingtug"
+			"text"		"No Francis"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize C7M2_saferoom05"
+			"text"		"Keep telling"
+		}
+		"East"
+		{
+			"command"	"vocalize C7M1_saferoom20"
+			"text"		"Zoey stayed"
+		}
+		"SouthEast"
+		{
+			"command"	"vocalize C7M1_saferoom09"
+			"text"		"Zoey trust"
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"BMy2,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"BMy3,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"BMy4,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"BMy5,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"BMy6,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"RMy1,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"RMy2,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"vocalize WorldC6M2_Tattoo02d"
+			"text"		"Ughhh"
+		}
+		"North"
+		{
+			"command"	"vocalize C6M1Intro_24_alien"
+			"text"		"Aliens"
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"RMy3,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"RMy4,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"RMy5,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"RMy6,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"NMy1,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"NMy2,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"NMy3,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"NMy4,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"NMy5,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"NMy6,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"CMy1,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"vocalize C5M4BombInt01"
+			"text"		"Shit!"
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"CMy2,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"CMy3,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"CMy4,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"CMy5,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"CMy6,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"EMy1,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"EMy2,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"vocalize MTEllisStories"
+			"text"		"Story"
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"EMy3,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"EMy4,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"EMy5,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"EMy6,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+	
+	//--------------------------------------------------------------
 	"Adm1"
 	{
 		"Center"
@@ -3580,7 +6230,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"ZMy1,Survivor,Alive"
+	"ZAdm1,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -3630,7 +6280,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"ZMy2,Survivor,Alive"
+	"ZAdm2,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -3680,7 +6330,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"ZMy3,Survivor,Alive"
+	"ZAdm3,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -3730,7 +6380,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"ZMy4,Survivor,Alive"
+	"ZAdm4,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -3780,7 +6430,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"ZMy5,Survivor,Alive"
+	"ZAdm5,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -3830,7 +6480,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"ZMy6,Survivor,Alive"
+	"ZAdm6,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -3880,7 +6530,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"FMy1,Survivor,Alive"
+	"FAdm1,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -3930,7 +6580,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"FMy2,Survivor,Alive"
+	"FAdm2,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -3980,7 +6630,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"FMy3,Survivor,Alive"
+	"FAdm3,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -4030,7 +6680,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"FMy4,Survivor,Alive"
+	"FAdm4,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -4080,7 +6730,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"FMy5,Survivor,Alive"
+	"FAdm5,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -4130,7 +6780,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"FMy6,Survivor,Alive"
+	"FAdm6,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -4180,7 +6830,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"LMy1,Survivor,Alive"
+	"LAdm1,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -4230,7 +6880,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"LMy2,Survivor,Alive"
+	"LAdm2,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -4280,7 +6930,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"LMy3,Survivor,Alive"
+	"LAdm3,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -4330,7 +6980,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"LMy4,Survivor,Alive"
+	"LAdm4,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -4380,7 +7030,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"LMy5,Survivor,Alive"
+	"LAdm5,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -4430,12 +7080,12 @@
 	}
 
 	//--------------------------------------------------------------
-	"LMy6,Survivor,Alive"
+	"LAdm6,Survivor,Alive"
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize SmallTown02_path01b"
+			"text"		"Story"
 		}
 		"North"
 		{
@@ -4480,7 +7130,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"BMy1,Survivor,Alive"
+	"BAdm1,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -4530,7 +7180,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"BMy2,Survivor,Alive"
+	"BAdm2,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -4580,7 +7230,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"BMy3,Survivor,Alive"
+	"BAdm3,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -4630,7 +7280,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"BMy4,Survivor,Alive"
+	"BAdm4,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -4680,7 +7330,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"BMy5,Survivor,Alive"
+	"BAdm5,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -4730,7 +7380,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"BMy6,Survivor,Alive"
+	"BAdm6,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -4780,7 +7430,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"RMy1,Survivor,Alive"
+	"RAdm1,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -4830,7 +7480,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"RMy2,Survivor,Alive"
+	"RAdm2,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -4880,7 +7530,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"RMy3,Survivor,Alive"
+	"RAdm3,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -4930,7 +7580,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"RMy4,Survivor,Alive"
+	"RAdm4,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -4980,7 +7630,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"RMy5,Survivor,Alive"
+	"RAdm5,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -5030,7 +7680,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"RMy6,Survivor,Alive"
+	"RAdm6,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -5080,7 +7730,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"NMy1,Survivor,Alive"
+	"NAdm1,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -5130,7 +7780,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"NMy2,Survivor,Alive"
+	"NAdm2,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -5180,7 +7830,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"NMy3,Survivor,Alive"
+	"NAdm3,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -5230,7 +7880,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"NMy4,Survivor,Alive"
+	"NAdm4,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -5280,7 +7930,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"NMy5,Survivor,Alive"
+	"NAdm5,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -5330,7 +7980,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"NMy6,Survivor,Alive"
+	"NAdm6,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -5380,7 +8030,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"CMy1,Survivor,Alive"
+	"CAdm1,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -5430,7 +8080,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"CMy2,Survivor,Alive"
+	"CAdm2,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -5480,7 +8130,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"CMy3,Survivor,Alive"
+	"CAdm3,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -5530,7 +8180,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"CMy4,Survivor,Alive"
+	"CAdm4,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -5580,7 +8230,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"CMy5,Survivor,Alive"
+	"CAdm5,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -5630,7 +8280,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"CMy6,Survivor,Alive"
+	"CAdm6,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -5680,7 +8330,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"EMy1,Survivor,Alive"
+	"EAdm1,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -5730,7 +8380,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"EMy2,Survivor,Alive"
+	"EAdm2,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -5780,7 +8430,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"EMy3,Survivor,Alive"
+	"EAdm3,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -5830,7 +8480,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"EMy4,Survivor,Alive"
+	"EAdm4,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -5880,7 +8530,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"EMy5,Survivor,Alive"
+	"EAdm5,Survivor,Alive"
 	{
 		"Center"
 		{
@@ -5930,7 +8580,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"EMy6,Survivor,Alive"
+	"EAdm6,Survivor,Alive"
 	{
 		"Center"
 		{
