@@ -3584,13 +3584,13 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize CrashFinaleGeneratorSpeak"
+			"text"		"CrashFinaleGeneratorSpeak"
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize ConceptBlock654"
+			"text"		"ConceptBlock654"
 		}
 		"NorthEast"
 		{
@@ -3894,8 +3894,8 @@
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize VampiresBeatb"
+			"text"		"Call these"
 		}
 		"East"
 		{
@@ -4784,8 +4784,8 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize DLC1_C6M2_SafeRoomConvo18d"
+			"text"		"Wasn't thinking"
 		}
 		"North"
 		{
@@ -5389,8 +5389,8 @@
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize DLC1_C6M2_SafeRoomConvo19b"
+			"text"		"Losin' weight"
 		}
 		"NorthEast"
 		{
