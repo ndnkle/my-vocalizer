@@ -3585,12 +3585,12 @@
 		"Center"
 		{
 			"command"	"vocalize CrashFinaleGeneratorSpeak"
-			"text"		"CrashFinaleGeneratorSpeak"
+			"text"		"Powering"
 		}
 		"North"
 		{
-			"command"	"vocalize ConceptBlock654"
-			"text"		"ConceptBlock654"
+			"command"	""
+			"text"		""
 		}
 		"NorthEast"
 		{
@@ -3924,8 +3924,8 @@
 		}
 		"NorthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize ConceptBlock633"
+			"text"		"Trust me"
 		}
 	}
 
@@ -5978,7 +5978,7 @@
 			"text"		""
 		}
 	}
-	
+
 	//--------------------------------------------------------------
 	"Adm1"
 	{
