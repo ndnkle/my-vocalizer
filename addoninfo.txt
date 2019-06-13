@@ -2,7 +2,7 @@
 {
 	"addonSteamAppID"					"550"
 	"addonTitle"						"My Vocalizer"
-	"addonVersion"						"2.53"
+	"addonVersion"						"2.58"
 	"addonAuthor"						"Me"
 
 	"addonContent_Script"				"1"

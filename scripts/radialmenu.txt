@@ -3364,8 +3364,8 @@
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize SurvivorWasPounced"
+			"text"		"Hunter got"
 		}
 		"West"
 		{
@@ -3434,8 +3434,8 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize IHate"
-			"text"		"Hate"
+			"command"	"vocalize _what"
+			"text"		"What?"
 		}
 		"North"
 		{
@@ -3444,13 +3444,13 @@
 		}
 		"NorthEast"
 		{
-			"command"	"vocalize _what"
-			"text"		"What?"
+			"command"	"vocalize MTEllisStories"
+			"text"		"Ellis Stories"
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize IHate"
+			"text"		"Hate"
 		}
 		"SouthEast"
 		{
@@ -3459,8 +3459,8 @@
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize PlayerThisWay"
+			"text"		"This Way"
 		}
 		"SouthWest"
 		{
@@ -3469,8 +3469,8 @@
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize PlayerSpotAmmo"
+			"text"		"Spot Ammo"
 		}
 		"NorthWest"
 		{
@@ -3619,8 +3619,8 @@
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize NamVetWhoAreYou"
+			"text"		"It's me"
 		}
 		"NorthWest"
 		{
@@ -3899,8 +3899,8 @@
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M1_saferoom06"
+			"text"		"Found one"
 		}
 		"SouthEast"
 		{
@@ -3919,8 +3919,8 @@
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize NamVetWhoAreYou"
+			"text"		"It's me"
 		}
 		"NorthWest"
 		{
@@ -4189,8 +4189,8 @@
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M3_saferoom010a"
+			"text"		"Fish"
 		}
 		"NorthEast"
 		{
@@ -4219,8 +4219,8 @@
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize NamVetWhoAreYou"
+			"text"		"It's me"
 		}
 		"NorthWest"
 		{
@@ -4509,8 +4509,8 @@
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M3_saferoom010b"
+			"text"		"I'll make"
 		}
 		"SouthWest"
 		{
@@ -5394,8 +5394,8 @@
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize WorldC6M1_HistoricTour"
+			"text"		"Historic Under"
 		}
 		"East"
 		{
@@ -5734,8 +5734,8 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize MTEllisStories"
-			"text"		"Story"
+			"command"	""
+			"text"		""
 		}
 		"North"
 		{
