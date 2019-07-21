@@ -215,7 +215,7 @@
 		"SouthWest"
 		{
 			"command"	"vocalize RevivedByDefibrillator"
-			"text"		"Defib"
+			"text"		"Defibbed"
 		}
 		"West"
 		{
@@ -254,8 +254,8 @@
 		}
 		"SouthEast"
 		{
-			"command"	"vocalize PlayerLedgeHangEnd"
-			"text"		"Falling"
+			"command"	"vocalize SurvivorJockeyed"
+			"text"		"Jockeyed"
 		}
 		"South"
 		{
@@ -334,13 +334,13 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize PlayerReviveFriend"
-			"text"		"Revive"
+			"command"	"vocalize C2M1Falling"
+			"text"		"Whoa"
 		}
 		"North"
 		{
-			"command"	"vocalize ReviveFriendDown"
-			"text"		"Hurt"
+			"command"	"vocalize C6M1_IntotheparkNoHealth"
+			"text"		"Take First Aid"
 		}
 		"NorthEast"
 		{
@@ -354,18 +354,18 @@
 		}
 		"SouthEast"
 		{
-			"command"	"vocalize PlayerHealingOther"
-			"text"		"Healing"
+			"command"	"vocalize C5M3FirstInAlarmField"
+			"text"		"Alarm"
 		}
 		"South"
 		{
-			"command"	"vocalize PlayerHelp"
-			"text"		"Help"
+			"command"	"vocalize C3M1FerryLanded2"
+			"text"		"Boat Spam"
 		}
 		"SouthWest"
 		{
-			"command"	"Vocalize PlayerLedgeSave"
-			"text"		"Ledge Save"
+			"command"	""
+			"text"		""
 		}
 		"West"
 		{
@@ -374,8 +374,8 @@
 		}
 		"NorthWest"
 		{
-			"command"	"vocalize C2M1Falling"
-			"text"		"Whoa"
+			"command"	""
+			"text"		""
 		}
 	}
 
@@ -589,8 +589,8 @@
 		}
 		"North"
 		{
-			"command"	"vocalize C6M1Intro_22g"
-			"text"		"Good luck"
+			"command"	"vocalize IntroCrashR09"
+			"text"		"Seconded"
 		}
 		"NorthEast"
 		{
@@ -599,8 +599,8 @@
 		}
 		"East"
 		{
-			"command"	"vocalize PlaneCrashResponse"
-			"text"		"Holy shit"
+			"command"	"vocalize C6M1Intro_22g"
+			"text"		"Good luck"
 		}
 		"SouthEast"
 		{
@@ -609,8 +609,8 @@
 		}
 		"South"
 		{
-			"command"	"vocalize IntroCrashR09"
-			"text"		"Seconded"
+			"command"	"vocalize PlaneCrashResponse"
+			"text"		"Holy shit"
 		}
 		"SouthWest"
 		{
@@ -3344,23 +3344,23 @@
 		}
 		"NorthEast"
 		{
-			"command"	"vocalize PlayerGoingToDie"
-			"text"		"Going To Die"
-		}
-		"East"
-		{
-			"command"	"vocalize PlayerUsingDefibrillator"
-			"text"		"Using Defib"
-		}
-		"SouthEast"
-		{
 			"command"	"vocalize RevivedByDefibrillatorDelayed"
 			"text"		"Defibbed"
 		}
+		"East"
+		{
+			"command"	"vocalize PlayerLedgeHangStart"
+			"text"		"Slipped"
+		}
+		"SouthEast"
+		{
+			"command"	"vocalize PlayerLedgeHangMiddle"
+			"text"		"Hanging"
+		}
 		"South"
 		{
-			"command"	"vocalize PlayerReviveFriendCritical"
-			"text"		"Critical"
+			"command"	"vocalize PlayerLedgeHangEnd"
+			"text"		"Falling"
 		}
 		"SouthWest"
 		{
@@ -3369,8 +3369,8 @@
 		}
 		"West"
 		{
-			"command"	"vocalize SurvivorJockeyed"
-			"text"		"Jockeyed"
+			"command"	""
+			"text"		""
 		}
 		"NorthWest"
 		{
@@ -3384,13 +3384,13 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize C6M1_IntotheparkNoHealth"
-			"text"		"Health kit"
+			"command"	""
+			"text"		""
 		}
 		"North"
 		{
-			"command"	"vocalize ReviveFriendDownFinal"
-			"text"		"Good"
+			"command"	""
+			"text"		""
 		}
 		"NorthEast"
 		{
@@ -3484,48 +3484,48 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize PlayerHelp"
+			"text"		"Help"
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize ReviveFriendDown"
+			"text"		"Hurt"
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize ReviveFriendDownFinal"
+			"text"		"Good"
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize PlayerHealingOther"
+			"text"		"Healing"
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize PlayerReviveFriendCritical"
+			"text"		"Critical"
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize PlayerUsingDefibrillator"
+			"text"		"Using Defib"
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize PlayerLedgeSave"
+			"text"		"Ledge Save"
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize PlayerReviveFriend"
+			"text"		"Revive"
 		}
 		"NorthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize PlayerGoingToDie"
+			"text"		"Going To Die"
 		}
 	}
 
@@ -3904,18 +3904,18 @@
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize IntroCrashR08"
+			"text"		"Hit my head"
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M1_saferoom05"
+			"text"		"Tell Zoey"
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize InfoRemc7m1_pretank04"
+			"text"		"Zoey said"
 		}
 		"West"
 		{
@@ -4514,18 +4514,18 @@
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M3_saferoom008a"
+			"text"		"Stop eating"
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M3_saferoom010"
+			"text"		"Damn right"
 		}
 		"NorthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize InfoRemc7m2_seebarge01"
+			"text"		"You know?"
 		}
 	}
 
@@ -5399,8 +5399,8 @@
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize WorldIntroC3e1"
+			"text"		"Warning"
 		}
 		"SouthEast"
 		{
@@ -5684,8 +5684,8 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C5M3Bodies02"
+			"text"		"People"
 		}
 		"North"
 		{
