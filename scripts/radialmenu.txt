@@ -3340,8 +3340,8 @@
 		}
 		"North"
 		{
-			"command"	"vocalize CrashFinaleGeneratorSpeak"
-			"text"		"Powering"
+			"command"	"vocalize Playerlockthedoorcheckpoint"
+			"text"		"Door"
 		}
 		"NorthEast"
 		{
@@ -3375,8 +3375,8 @@
 		}
 		"NorthWest"
 		{
-			"command"	"vocalize Player.WarnMegaMobc7m201"
-			"text"		"Chute"
+			"command"	"vocalize PlayerThisWay"
+			"text"		"This Way"
 		}
 	}
 
@@ -3435,38 +3435,38 @@
 	{
 		"Center"
 		{
-			"command"	"Vocalize Playerlockthedoorcheckpoint"
-			"text"		"(SR)Door"
+			"command"	"vocalize WitchGettingAngry"
+			"text"		"Angry Witch"
 		}
 		"North"
 		{
-			"command"	"Vocalize Crashfinalegenerator2onspk"
+			"command"	"vocalize Crashfinalegenerator2onspk"
 			"text"		"Awesome"
 		}
 		"NorthEast"
 		{
-			"command"	"Vocalize C7M3BridgeBreaks"
-			"text"		"(1)Bridge Breaks"
+			"command"	"vocalize C7M3BridgeBreaks"
+			"text"		"Bridge Breaks"
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize CrashFinaleGeneratorSpeak"
+			"text"		"Powering"
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize Player.WarnMegaMobc7m201"
+			"text"		"Chute"
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize PlayerKillThatLight"
+			"text"		"Lights off"
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize WarnSpitterIncoming"
+			"text"		"Spit"
 		}
 		"West"
 		{
@@ -3510,8 +3510,8 @@
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize PlayerHealing"
+			"text"		"I'm Healing"
 		}
 		"SouthWest"
 		{
@@ -3655,18 +3655,18 @@
 		}
 		"SouthEast"
 		{
-			"command"	"vocalize PlayerKillThatLight"
-			"text"		"Lights off"
+			"command"	""
+			"text"		""
 		}
 		"South"
 		{
-			"command"	"vocalize PlayerThisWay"
-			"text"		"This Way"
+			"command"	""
+			"text"		""
 		}
 		"SouthWest"
 		{
-			"command"	"vocalize WitchGettingAngry"
-			"text"		"Angry Witch"
+			"command"	""
+			"text"		""
 		}
 		"West"
 		{
@@ -3690,8 +3690,8 @@
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M2_saferoom01"
+			"text"		"I really don't"
 		}
 		"NorthEast"
 		{
@@ -3715,8 +3715,8 @@
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize CrashFinaleTruckResp02"
+			"text"		"Truck"
 		}
 		"West"
 		{
@@ -3725,8 +3725,8 @@
 		}
 		"NorthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M3_saferoom007"
+			"text"		"In movies"
 		}
 	}
 
@@ -3735,13 +3735,13 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize airport03_barriera"
+			"text"		"Fire"
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize IntroSmalltown2"
+			"text"		"Unless"
 		}
 		"NorthEast"
 		{
@@ -4036,7 +4036,7 @@
 		"Center"
 		{
 			"command"	"vocalize c6m3_outroL4D104b"
-			"text"		"Seriously, what?"
+			"text"		"What?"
 		}
 		"North"
 		{
@@ -4045,8 +4045,8 @@
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M3_saferoom012e"
+			"text"		"Hate plan"
 		}
 		"East"
 		{
@@ -4055,28 +4055,28 @@
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M2_saferoom02c"
+			"text"		"Bill's an idiot"
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M3_saferoom017g"
+			"text"		"Island 1"
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M3_saferoom017e"
+			"text"		"Island 2"
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M3_saferoom016a"
+			"text"		"Louis lunatic"
 		}
 		"NorthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M3_saferoom012a"
+			"text"		"Ever been?"
 		}
 	}
 
@@ -4090,18 +4090,18 @@
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M3_saferoom017a"
+			"text"		"Really hate"
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize ConceptBlock040"
+			"text"		"We can make"
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize ConceptBlock630"
+			"text"		"If we meet"
 		}
 		"SouthEast"
 		{
@@ -4295,13 +4295,13 @@
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M1_saferoom19b"
+			"text"		"Zoey, come on"
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize InfoRemc7m1_tankcar01a"
+			"text"		"Bingo"
 		}
 		"SouthEast"
 		{
@@ -4335,38 +4335,38 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize Airport04_05a"
+			"text"		"Oh no"
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M1_saferoom03a"
+			"text"		"Why's that?"
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M1_saferoom08a"
+			"text"		"I'd like"
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M1_saferoom25"
+			"text"		"If we meet"
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M1_saferoom25b"
+			"text"		"Be sure"
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M3_saferoom004a"
+			"text"		"Get it Francis?"
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize ConceptBlock626"
+			"text"		"Ain't serious"
 		}
 		"West"
 		{
@@ -4635,23 +4635,23 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M1_saferoom06a"
+			"text"		"That's not"
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M3_saferoom006"
+			"text"		"Not far"
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M3_saferoom012b"
+			"text"		"Zombies can't"
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M3_saferoom009"
+			"text"		"A couple"
 		}
 		"SouthEast"
 		{
@@ -4685,23 +4685,23 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M1_saferoom03b"
+			"text"		"I ain't'"
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M1_saferoom04a"
+			"text"		"We ain't"
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M1_saferoom07"
+			"text"		"We're out"
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize Farm05_path07b"
+			"text"		"Settle down"
 		}
 		"SouthEast"
 		{
@@ -4886,12 +4886,12 @@
 		"Center"
 		{
 			"command"	"vocalize DLC1_C6M2_SafeRoomConvo18d"
-			"text"		"Wasn't thinking"
+			"text"		"I wasn't"
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C6M1Intro_20a"
+			"text"		"What the"
 		}
 		"NorthEast"
 		{
@@ -4900,18 +4900,18 @@
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C6M1Intro_17b"
+			"text"		"Can you try?"
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C6M1Intro_12a"
+			"text"		"Ellis answer?"
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C6M1Intro_07c"
+			"text"		"Maybe, but"
 		}
 		"SouthWest"
 		{
@@ -5190,33 +5190,33 @@
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize WorldIntroC31b2"
+			"text"		"Sign"
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize Player.TakeBatR2"
+			"text"		"Bouncer"
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C2M3SafeIntro012"
+			"text"		"Psh"
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C2M3SafeIntro010"
+			"text"		"Memories"
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C2M3SafeIntro005"
+			"text"		"Wish"
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize DLC1_C6M2_SafeRoomConvo13c"
+			"text"		"Hole"
 		}
 		"West"
 		{
@@ -5235,13 +5235,13 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize _C2M1abandoned02"
+			"text"		"Theory"
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C5M3Bodies02"
+			"text"		"Somebody?"
 		}
 		"NorthEast"
 		{
@@ -5505,8 +5505,8 @@
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize DLC1_C6M2_SafeRoomConvo13d"
+			"text"		"Positive"
 		}
 		"South"
 		{
@@ -5535,13 +5535,13 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C5M1_intro008"
+			"text"		"Our goal"
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C5M1_intro010"
+			"text"		"Through hell"
 		}
 		"NorthEast"
 		{
