@@ -325,8 +325,8 @@
 		}
 		"NorthWest"
 		{
-			"command"	"vocalize PlayerCoverMe"
-			"text"		"Cover me"
+			"command"	"vocalize CrashFinaleGeneratorSpeak"
+			"text"		"Powering"
 		}
 	}
 
@@ -3181,57 +3181,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"Characters,Survivor,Alive"
-	{
-		"Center"
-		{
-			"command"	"go_away_from_keyboard; radialmenu none"
-			"text"		"IDLE"
-		}
-		"North"
-		{
-			"command"	"alias +ch1 +mouse_menu Z1; alias +ch2 +mouse_menu Z2; alias +ch3 +mouse_menu Z3; alias +ch4 +mouse_menu Z4; alias +ch5 +mouse_menu Z5; alias +ch6 +mouse_menu Z6; alias +ch7 +mouse_menu Z7; ZM"
-			"text"		"Zoey"
-		}
-		"NorthEast"
-		{
-			"command"	"alias +ch1 +mouse_menu E1; alias +ch2 +mouse_menu E2; alias +ch3 +mouse_menu E3; alias +ch4 +mouse_menu E4; alias +ch5 +mouse_menu E5; alias +ch6 +mouse_menu E6; alias +ch7 +mouse_menu E7; EM"
-			"text"		"Ellis"
-		}
-		"East"
-		{
-			"command"	"alias +ch1 +mouse_menu C1; alias +ch2 +mouse_menu C2; alias +ch3 +mouse_menu C3; alias +ch4 +mouse_menu C4; alias +ch5 +mouse_menu C5; alias +ch6 +mouse_menu C6; alias +ch7 +mouse_menu C7; CM"
-			"text"		"Coach"
-		}
-		"SouthEast"
-		{
-			"command"	"alias +ch1 +mouse_menu N1; alias +ch2 +mouse_menu N2; alias +ch3 +mouse_menu N3; alias +ch4 +mouse_menu N4; alias +ch5 +mouse_menu N5; alias +ch6 +mouse_menu N6; alias +ch7 +mouse_menu N7; NM"
-			"text"		"Nick"
-		}
-		"South"
-		{
-			"command"	"alias +ch1 +mouse_menu R1; alias +ch2 +mouse_menu R2; alias +ch3 +mouse_menu R3; alias +ch4 +mouse_menu R4; alias +ch5 +mouse_menu R5; alias +ch6 +mouse_menu R6; alias +ch7 +mouse_menu R7; RM"
-			"text"		"Rochelle"
-		}
-		"SouthWest"
-		{
-			"command"	"alias +ch1 +mouse_menu B1; alias +ch2 +mouse_menu B2; alias +ch3 +mouse_menu B3; alias +ch4 +mouse_menu B4; alias +ch5 +mouse_menu B5; alias +ch6 +mouse_menu B6; alias +ch7 +mouse_menu B7; BM"
-			"text"		"Bill"
-		}
-		"West"
-		{
-			"command"	"alias +ch1 +mouse_menu L1; alias +ch2 +mouse_menu L2; alias +ch3 +mouse_menu L3; alias +ch4 +mouse_menu L4; alias +ch5 +mouse_menu L5; alias +ch6 +mouse_menu L6; alias +ch7 +mouse_menu L7; LM"
-			"text"		"Louis"
-		}
-		"NorthWest"
-		{
-			"command"	"alias +ch1 +mouse_menu F1; alias +ch2 +mouse_menu F2; alias +ch3 +mouse_menu F3; alias +ch4 +mouse_menu F4; alias +ch5 +mouse_menu F5; alias +ch6 +mouse_menu F6; alias +ch7 +mouse_menu F7; FM"
-			"text"		"Francis"
-		}
-	}
-
-	//--------------------------------------------------------------
-	"Characters,Survivor,Dead"
+	"Characters"
 	{
 		"Center"
 		{
@@ -3276,56 +3226,6 @@
 		"NorthWest"
 		{
 			"command"	"alias +ch1 +mouse_menu F1; alias +ch2 +mouse_menu F2; alias +ch3 +mouse_menu F3; alias +ch4 +mouse_menu F4; alias +ch5 +mouse_menu F5; alias +ch6 +mouse_menu F6; alias +ch7 +mouse_menu F7; FM"
-			"text"		"Francis"
-		}
-	}
-
-	//--------------------------------------------------------------
-	"Characters,Spectator"
-	{
-		"Center"
-		{
-			"command"	"-mouse_menu"
-			"text"		""
-		}
-		"North"
-		{
-			"command"	"alias +ch1 +mouse_menu Z1; alias +ch2 +mouse_menu Z2; alias +ch3 +mouse_menu Z3; alias +ch4 +mouse_menu Z4; alias +ch5 +mouse_menu Z5; alias +ch6 +mouse_menu Z6; alias +ch7 +mouse_menu Z7; jointeam 2 zoey; radialmenu none; ZM"
-			"text"		"Zoey"
-		}
-		"NorthEast"
-		{
-			"command"	"alias +ch1 +mouse_menu E1; alias +ch2 +mouse_menu E2; alias +ch3 +mouse_menu E3; alias +ch4 +mouse_menu E4; alias +ch5 +mouse_menu E5; alias +ch6 +mouse_menu E6; alias +ch7 +mouse_menu E7; jointeam 2 ellis; radialmenu none; EM"
-			"text"		"Ellis"
-		}
-		"East"
-		{
-			"command"	"alias +ch1 +mouse_menu C1; alias +ch2 +mouse_menu C2; alias +ch3 +mouse_menu C3; alias +ch4 +mouse_menu C4; alias +ch5 +mouse_menu C5; alias +ch6 +mouse_menu C6; alias +ch7 +mouse_menu C7; jointeam 2 coach; radialmenu none; CM"
-			"text"		"Coach"
-		}
-		"SouthEast"
-		{
-			"command"	"alias +ch1 +mouse_menu N1; alias +ch2 +mouse_menu N2; alias +ch3 +mouse_menu N3; alias +ch4 +mouse_menu N4; alias +ch5 +mouse_menu N5; alias +ch6 +mouse_menu N6; alias +ch7 +mouse_menu N7; jointeam 2 nick; radialmenu none; NM"
-			"text"		"Nick"
-		}
-		"South"
-		{
-			"command"	"alias +ch1 +mouse_menu R1; alias +ch2 +mouse_menu R2; alias +ch3 +mouse_menu R3; alias +ch4 +mouse_menu R4; alias +ch5 +mouse_menu R5; alias +ch6 +mouse_menu R6; alias +ch7 +mouse_menu R7; jointeam 2 rochelle; radialmenu none; RM"
-			"text"		"Rochelle"
-		}
-		"SouthWest"
-		{
-			"command"	"alias +ch1 +mouse_menu B1; alias +ch2 +mouse_menu B2; alias +ch3 +mouse_menu B3; alias +ch4 +mouse_menu B4; alias +ch5 +mouse_menu B5; alias +ch6 +mouse_menu B6; alias +ch7 +mouse_menu B7; jointeam 2 bill; radialmenu none; BM"
-			"text"		"Bill"
-		}
-		"West"
-		{
-			"command"	"alias +ch1 +mouse_menu L1; alias +ch2 +mouse_menu L2; alias +ch3 +mouse_menu L3; alias +ch4 +mouse_menu L4; alias +ch5 +mouse_menu L5; alias +ch6 +mouse_menu L6; alias +ch7 +mouse_menu L7; jointeam 2 louis; radialmenu none; LM"
-			"text"		"Louis"
-		}
-		"NorthWest"
-		{
-			"command"	"alias +ch1 +mouse_menu F1; alias +ch2 +mouse_menu F2; alias +ch3 +mouse_menu F3; alias +ch4 +mouse_menu F4; alias +ch5 +mouse_menu F5; alias +ch6 +mouse_menu F6; alias +ch7 +mouse_menu F7; jointeam 2 francis; radialmenu none; FM"
 			"text"		"Francis"
 		}
 	}
@@ -3340,8 +3240,8 @@
 		}
 		"North"
 		{
-			"command"	"vocalize Playerlockthedoorcheckpoint"
-			"text"		"Door"
+			"command"	"vocalize PlayerCoverMe"
+			"text"		"Cover me"
 		}
 		"NorthEast"
 		{
@@ -3450,8 +3350,8 @@
 		}
 		"East"
 		{
-			"command"	"vocalize CrashFinaleGeneratorSpeak"
-			"text"		"Powering"
+			"command"	"vocalize Playerlockthedoorcheckpoint"
+			"text"		"Door"
 		}
 		"SouthEast"
 		{
@@ -4040,8 +3940,8 @@
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M2_saferoom03"
+			"text"		"Sink"
 		}
 		"NorthEast"
 		{
@@ -5535,13 +5435,13 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize C5M1_intro008"
-			"text"		"Our goal"
+			"command"	""
+			"text"		""
 		}
 		"North"
 		{
-			"command"	"vocalize C5M1_intro010"
-			"text"		"Through hell"
+			"command"	""
+			"text"		""
 		}
 		"NorthEast"
 		{
@@ -6079,5 +5979,4 @@
 			"text"		""
 		}
 	}
-
 }
