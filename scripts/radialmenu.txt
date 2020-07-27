@@ -3285,8 +3285,8 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize PlayerReviveFriend"
-			"text"		"Revive"
+			"command"	"vocalize PlayerHealingOther"
+			"text"		"Healing"
 		}
 		"North"
 		{
@@ -3300,8 +3300,8 @@
 		}
 		"East"
 		{
-			"command"	"vocalize PlayerHealingOther"
-			"text"		"Healing"
+			"command"	"vocalize PlayerReviveFriend"
+			"text"		"Revive"
 		}
 		"SouthEast"
 		{
@@ -3482,56 +3482,6 @@
 
 	//--------------------------------------------------------------
 	"My6"
-	{
-		"Center"
-		{
-			"command"	""
-			"text"		""
-		}
-		"North"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"East"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"South"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-		"West"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-	}
-
-	//--------------------------------------------------------------
-	"My7"
 	{
 		"Center"
 		{
@@ -3950,8 +3900,8 @@
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C6M1Intro_10c"
+			"text"		"*YOU*"
 		}
 		"SouthEast"
 		{
@@ -3985,8 +3935,8 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize c6m3_outroL4D1010a"
+			"text"		"Yeah.."
 		}
 		"North"
 		{
@@ -4005,8 +3955,8 @@
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C6M1Intro_05b"
+			"text"		"Sorry, no ma'am"
 		}
 		"South"
 		{
