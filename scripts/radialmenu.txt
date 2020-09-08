@@ -3885,13 +3885,13 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize c6m3_outroL4D104b"
+			"command"	"vocalize InfoRemc7m1_pretank03"
 			"text"		"What?"
 		}
 		"North"
 		{
-			"command"	"vocalize C7M2_saferoom03"
-			"text"		"Sink"
+			"command"	"vocalize c6m3_outroL4D104b"
+			"text"		"Seriously, what?"
 		}
 		"NorthEast"
 		{
@@ -3950,8 +3950,8 @@
 		}
 		"East"
 		{
-			"command"	"vocalize ConceptBlock630"
-			"text"		"If we meet"
+			"command"	"vocalize C7M2_saferoom03"
+			"text"		"Sink"
 		}
 		"SouthEast"
 		{
@@ -3960,13 +3960,13 @@
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M1_saferoom01"
+			"text"		"Is this?"
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C7M3_saferoom017c"
+			"text"		"Condition"
 		}
 		"West"
 		{
@@ -4745,8 +4745,8 @@
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize c2m5_intro003"
+			"text"		"Smart Coach"
 		}
 		"East"
 		{
@@ -5070,8 +5070,8 @@
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C1M4SafeRoom2a2"
+			"text"		"Getting sick"
 		}
 		"NorthWest"
 		{
@@ -5095,28 +5095,28 @@
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C1M1_ElevatorHello01_03a6"
+			"text"		"Rochelle?"
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C1M1_ElevatorHello01_02C7"
+			"text"		"Coach?"
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C1M1_ElevatorHello01_02C3"
+			"text"		"Name?"
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C1M1_ElevatorHello01_02C2"
+			"text"		"Name's Nick"
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C1M1_ElevatorHello01_02C1"
+			"text"		"Three"
 		}
 		"West"
 		{
@@ -5645,8 +5645,8 @@
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize c2m5_intro008"
+			"text"		"Coach, you are"
 		}
 		"East"
 		{
