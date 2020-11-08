@@ -131,7 +131,107 @@
 	}
 
 	//--------------------------------------------------------------
-	"Reactions"
+	"Enemies_See"
+	{
+		"Center"
+		{
+			"command"	"vocalize AskWhat"
+			"text"		"What?"
+		}
+		"North"
+		{
+			"command"	"vocalize PlayerWarnTank"
+			"text"		"Tank"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize PlayerWarnBoomer"
+			"text"		"Boomer"
+		}
+		"East"
+		{
+			"command"	"vocalize PlayerWarnHunter"
+			"text"		"Hunter"
+		}
+		"SouthEast"
+		{
+			"command"	"vocalize PlayerWarnSmoker"
+			"text"		"Smoker"
+		}
+		"South"
+		{
+			"command"	"vocalize PlayerWarnWitch"
+			"text"		"Witch"
+		}
+		"SouthWest"
+		{
+			"command"	"vocalize PlayerWarnSpitter"
+			"text"		"Spitter"
+		}
+		"West"
+		{
+			"command"	"vocalize PlayerWarnJockey"
+			"text"		"Jockey"
+		}
+		"NorthWest"
+		{
+			"command"	"vocalize PlayerWarnCharger"
+			"text"		"Charger"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"Enemies_Hear"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	"vocalize WitchGettingAngry"
+			"text"		"Angry Witch"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize PlayerHeardBoomer"
+			"text"		"Hear Boomer"
+		}
+		"East"
+		{
+			"command"	"vocalize PlayerHeardHunter"
+			"text"		"Hear Hunter"
+		}
+		"SouthEast"
+		{
+			"command"	"vocalize PlayerHeardSmoker"
+			"text"		"Hear Smoker"
+		}
+		"South"
+		{
+			"command"	"vocalize PlayerHeardWitch"
+			"text"		"Hear Witch"
+		}
+		"SouthWest"
+		{
+			"command"	"vocalize PlayerHeardSpitter"
+			"text"		"Hear Spitter"
+		}
+		"West"
+		{
+			"command"	"vocalize PlayerHeardJockey"
+			"text"		"Hear Jockey"
+		}
+		"NorthWest"
+		{
+			"command"	"vocalize PlayerHeardCharger"
+			"text"		"Hear Charger"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"Events"
 	{
 		"Center"
 		{
@@ -181,37 +281,87 @@
 	}
 
 	//--------------------------------------------------------------
-	"Enemies"
+	"Reactions"
+	{
+		"Center"
+		{
+			"command"	"vocalize PlayerDeath"
+			"text"		"Scream"
+		}
+		"North"
+		{
+			"command"	"vocalize PlayerVomitInFace"
+			"text"		"Vomited"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize CallForRescue"
+			"text"		"Trapped"
+		}
+		"East"
+		{
+			"command"	"vocalize PlayerChoke"
+			"text"		"Choked"
+		}
+		"SouthEast"
+		{
+			"command"	"vocalize SurvivorJockeyed"
+			"text"		"Ridden"
+		}
+		"South"
+		{
+			"command"	"vocalize ScreamWhilePounced"
+			"text"		"Pounced"
+		}
+		"SouthWest"
+		{
+			"command"	"vocalize PlayerGroundPoundedByTank"
+			"text"		"Crushed"
+		}
+		"West"
+		{
+			"command"	"vocalize PlayerGrabbedByTongue"
+			"text"		"Pulled"
+		}
+		"NorthWest"
+		{
+			"command"	"vocalize PlayerLostCall"
+			"text"		"Alone"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"Sighs"
 	{
 		"Center"
 		{
 			"command"	"vocalize PlayerAlertGiveItem"
-			"text"		"Take this"
+			"text"		"Take This"
 		}
 		"North"
 		{
-			"command"	"vocalize PlayerAlsoWarnTank"
-			"text"		"Tank"
+			"command"	"vocalize PlayerHelp"
+			"text"		"Help!"
 		}
 		"NorthEast"
 		{
-			"command"	"vocalize PlayerAlsoWarnBoomer"
-			"text"		"Boomer"
+			"command"	"vocalize PlayerThisWay"
+			"text"		"This way"
 		}
 		"East"
 		{
-			"command"	"vocalize PlayerAlsoWarnHunter"
-			"text"		"Hunter"
+			"command"	"vocalize PlayerLookOut"
+			"text"		"Look out"
 		}
 		"SouthEast"
 		{
-			"command"	"vocalize PlayerAlsoWarnSmoker"
-			"text"		"Smoker"
+			"command"	""
+			"text"		""
 		}
 		"South"
 		{
-			"command"	"vocalize PlayerAlsoWarnWitch"
-			"text"		"Witch"
+			"command"	"vocalize PlayerCoverMe"
+			"text"		"Cover me"
 		}
 		"SouthWest"
 		{
@@ -227,56 +377,6 @@
 		{
 			"command"	"vocalize UseAdrenaline"
 			"text"		"Adrenaline"
-		}
-	}
-
-	//--------------------------------------------------------------
-	"Events"
-	{
-		"Center"
-		{
-			"command"	"vocalize PlayerDeath"
-			"text"		"Scream"
-		}
-		"North"
-		{
-			"command"	"vocalize PlayerVomitInFace"
-			"text"		"Vomited"
-		}
-		"NorthEast"
-		{
-			"command"	"vocalize CallForRescue"
-			"text"		"Closet"
-		}
-		"East"
-		{
-			"command"	"vocalize PlayerChoke"
-			"text"		"Choked"
-		}
-		"SouthEast"
-		{
-			"command"	"vocalize SurvivorJockeyed"
-			"text"		"Jockeyed"
-		}
-		"South"
-		{
-			"command"	"vocalize ScreamWhilePounced"
-			"text"		"Pounced"
-		}
-		"SouthWest"
-		{
-			"command"	"vocalize PlayerGroundPoundedByTank"
-			"text"		"Crushed"
-		}
-		"West"
-		{
-			"command"	"vocalize PlayerTonguePullStart"
-			"text"		"Nooooo!"
-		}
-		"NorthWest"
-		{
-			"command"	"vocalize PlayerLostCall"
-			"text"		"Anyone?"
 		}
 	}
 
@@ -3185,47 +3285,47 @@
 	{
 		"Center"
 		{
-			"command"	"-mouse_menu"
+			"command"	""
 			"text"		""
 		}
 		"North"
 		{
-			"command"	"alias +ch1 +mouse_menu Z1; alias +ch2 +mouse_menu Z2; alias +ch3 +mouse_menu Z3; alias +ch4 +mouse_menu Z4; alias +ch5 +mouse_menu Z5; alias +ch6 +mouse_menu Z6; alias +ch7 +mouse_menu Z7; ZM"
+			"command"	"alias +ch1 +mouse_menu Z1; alias +ch2 +mouse_menu Z2; alias +ch3 +mouse_menu Z3; alias +ch4 +mouse_menu Z4; alias +ch5 +mouse_menu Z5; alias +ch6 +mouse_menu Z6; alias +ch7 +mouse_menu Z7; ZMy; ZAdm;"
 			"text"		"Zoey"
 		}
 		"NorthEast"
 		{
-			"command"	"alias +ch1 +mouse_menu E1; alias +ch2 +mouse_menu E2; alias +ch3 +mouse_menu E3; alias +ch4 +mouse_menu E4; alias +ch5 +mouse_menu E5; alias +ch6 +mouse_menu E6; alias +ch7 +mouse_menu E7; EM"
+			"command"	"alias +ch1 +mouse_menu E1; alias +ch2 +mouse_menu E2; alias +ch3 +mouse_menu E3; alias +ch4 +mouse_menu E4; alias +ch5 +mouse_menu E5; alias +ch6 +mouse_menu E6; alias +ch7 +mouse_menu E7; EMy; EAdm;"
 			"text"		"Ellis"
 		}
 		"East"
 		{
-			"command"	"alias +ch1 +mouse_menu C1; alias +ch2 +mouse_menu C2; alias +ch3 +mouse_menu C3; alias +ch4 +mouse_menu C4; alias +ch5 +mouse_menu C5; alias +ch6 +mouse_menu C6; alias +ch7 +mouse_menu C7; CM"
+			"command"	"alias +ch1 +mouse_menu C1; alias +ch2 +mouse_menu C2; alias +ch3 +mouse_menu C3; alias +ch4 +mouse_menu C4; alias +ch5 +mouse_menu C5; alias +ch6 +mouse_menu C6; alias +ch7 +mouse_menu C7; CMy; CAdm;"
 			"text"		"Coach"
 		}
 		"SouthEast"
 		{
-			"command"	"alias +ch1 +mouse_menu N1; alias +ch2 +mouse_menu N2; alias +ch3 +mouse_menu N3; alias +ch4 +mouse_menu N4; alias +ch5 +mouse_menu N5; alias +ch6 +mouse_menu N6; alias +ch7 +mouse_menu N7; NM"
+			"command"	"alias +ch1 +mouse_menu N1; alias +ch2 +mouse_menu N2; alias +ch3 +mouse_menu N3; alias +ch4 +mouse_menu N4; alias +ch5 +mouse_menu N5; alias +ch6 +mouse_menu N6; alias +ch7 +mouse_menu N7; NMy; NAdm;"
 			"text"		"Nick"
 		}
 		"South"
 		{
-			"command"	"alias +ch1 +mouse_menu R1; alias +ch2 +mouse_menu R2; alias +ch3 +mouse_menu R3; alias +ch4 +mouse_menu R4; alias +ch5 +mouse_menu R5; alias +ch6 +mouse_menu R6; alias +ch7 +mouse_menu R7; RM"
+			"command"	"alias +ch1 +mouse_menu R1; alias +ch2 +mouse_menu R2; alias +ch3 +mouse_menu R3; alias +ch4 +mouse_menu R4; alias +ch5 +mouse_menu R5; alias +ch6 +mouse_menu R6; alias +ch7 +mouse_menu R7; RMy; RAdm;"
 			"text"		"Rochelle"
 		}
 		"SouthWest"
 		{
-			"command"	"alias +ch1 +mouse_menu B1; alias +ch2 +mouse_menu B2; alias +ch3 +mouse_menu B3; alias +ch4 +mouse_menu B4; alias +ch5 +mouse_menu B5; alias +ch6 +mouse_menu B6; alias +ch7 +mouse_menu B7; BM"
+			"command"	"alias +ch1 +mouse_menu B1; alias +ch2 +mouse_menu B2; alias +ch3 +mouse_menu B3; alias +ch4 +mouse_menu B4; alias +ch5 +mouse_menu B5; alias +ch6 +mouse_menu B6; alias +ch7 +mouse_menu B7; BMy; BAdm;"
 			"text"		"Bill"
 		}
 		"West"
 		{
-			"command"	"alias +ch1 +mouse_menu L1; alias +ch2 +mouse_menu L2; alias +ch3 +mouse_menu L3; alias +ch4 +mouse_menu L4; alias +ch5 +mouse_menu L5; alias +ch6 +mouse_menu L6; alias +ch7 +mouse_menu L7; LM"
+			"command"	"alias +ch1 +mouse_menu L1; alias +ch2 +mouse_menu L2; alias +ch3 +mouse_menu L3; alias +ch4 +mouse_menu L4; alias +ch5 +mouse_menu L5; alias +ch6 +mouse_menu L6; alias +ch7 +mouse_menu L7; LMy; LAdm;"
 			"text"		"Louis"
 		}
 		"NorthWest"
 		{
-			"command"	"alias +ch1 +mouse_menu F1; alias +ch2 +mouse_menu F2; alias +ch3 +mouse_menu F3; alias +ch4 +mouse_menu F4; alias +ch5 +mouse_menu F5; alias +ch6 +mouse_menu F6; alias +ch7 +mouse_menu F7; FM"
+			"command"	"alias +ch1 +mouse_menu F1; alias +ch2 +mouse_menu F2; alias +ch3 +mouse_menu F3; alias +ch4 +mouse_menu F4; alias +ch5 +mouse_menu F5; alias +ch6 +mouse_menu F6; alias +ch7 +mouse_menu F7; FMy; FAdm;"
 			"text"		"Francis"
 		}
 	}
@@ -3235,18 +3335,18 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize PlayerHelp"
-			"text"		"Help!"
+			"command"	"vocalize PlayerSpotAmmo"
+			"text"		"Ammo"
 		}
 		"North"
 		{
-			"command"	"vocalize PlayerCoverMe"
-			"text"		"Cover me"
+			"command"	""
+			"text"		""
 		}
 		"NorthEast"
 		{
 			"command"	"vocalize RevivedByDefibrillatorDelayed"
-			"text"		"Defibbed"
+			"text"		"Defibbed Delayed"
 		}
 		"East"
 		{
@@ -3270,13 +3370,13 @@
 		}
 		"West"
 		{
-			"command"	"vocalize PlayerLookOut"
-			"text"		"Look out"
+			"command"	"vocalize SurvivorCoughing"
+			"text"		"Coughing"
 		}
 		"NorthWest"
 		{
-			"command"	"vocalize PlayerThisWay"
-			"text"		"This Way"
+			"command"	""
+			"text"		""
 		}
 	}
 
@@ -3335,8 +3435,8 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize WitchGettingAngry"
-			"text"		"Angry Witch"
+			"command"	"vocalize C7M3BridgeBreaks"
+			"text"		"Bridge Breaks"
 		}
 		"North"
 		{
@@ -3345,8 +3445,8 @@
 		}
 		"NorthEast"
 		{
-			"command"	"vocalize C7M3BridgeBreaks"
-			"text"		"Bridge Breaks"
+			"command"	"vocalize C7M2CrowsFlySpeak"
+			"text"		"Crows"
 		}
 		"East"
 		{
@@ -3450,18 +3550,18 @@
 		}
 		"East"
 		{
-			"command"	"vocalize PlayerHeardBoomer"
-			"text"		"Hear Boomer"
+			"command"	""
+			"text"		""
 		}
 		"SouthEast"
 		{
-			"command"	"vocalize PlayerHeardHunter"
-			"text"		"Hear Hunter"
+			"command"	""
+			"text"		""
 		}
 		"South"
 		{
-			"command"	"vocalize PlayerHeardSmoker"
-			"text"		"Hear Smoker"
+			"command"	""
+			"text"		""
 		}
 		"SouthWest"
 		{
@@ -3520,8 +3620,8 @@
 		}
 		"West"
 		{
-			"command"	"vocalize PlayerSpotAmmo"
-			"text"		"Spot Ammo"
+			"command"	""
+			"text"		""
 		}
 		"NorthWest"
 		{
@@ -3682,106 +3782,6 @@
 
 	//--------------------------------------------------------------
 	"ZMy4"
-	{
-		"Center"
-		{
-			"command"	""
-			"text"		""
-		}
-		"North"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"East"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"South"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-		"West"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-	}
-
-	//--------------------------------------------------------------
-	"ZMy5"
-	{
-		"Center"
-		{
-			"command"	""
-			"text"		""
-		}
-		"North"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"East"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"South"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-		"West"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-	}
-
-	//--------------------------------------------------------------
-	"ZMy6"
 	{
 		"Center"
 		{
@@ -4031,106 +4031,6 @@
 	}
 
 	//--------------------------------------------------------------
-	"FMy5"
-	{
-		"Center"
-		{
-			"command"	""
-			"text"		""
-		}
-		"North"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"East"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"South"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-		"West"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-	}
-
-	//--------------------------------------------------------------
-	"FMy6"
-	{
-		"Center"
-		{
-			"command"	""
-			"text"		""
-		}
-		"North"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"East"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"South"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-		"West"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-	}
-
-	//--------------------------------------------------------------
 	"LMy1"
 	{
 		"Center"
@@ -4282,106 +4182,6 @@
 
 	//--------------------------------------------------------------
 	"LMy4"
-	{
-		"Center"
-		{
-			"command"	""
-			"text"		""
-		}
-		"North"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"East"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"South"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-		"West"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-	}
-
-	//--------------------------------------------------------------
-	"LMy5"
-	{
-		"Center"
-		{
-			"command"	""
-			"text"		""
-		}
-		"North"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"East"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"South"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-		"West"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-	}
-
-	//--------------------------------------------------------------
-	"LMy6"
 	{
 		"Center"
 		{
@@ -4631,106 +4431,6 @@
 	}
 
 	//--------------------------------------------------------------
-	"BMy5"
-	{
-		"Center"
-		{
-			"command"	""
-			"text"		""
-		}
-		"North"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"East"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"South"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-		"West"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-	}
-
-	//--------------------------------------------------------------
-	"BMy6"
-	{
-		"Center"
-		{
-			"command"	""
-			"text"		""
-		}
-		"North"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"East"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"South"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-		"West"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-	}
-
-	//--------------------------------------------------------------
 	"RMy1"
 	{
 		"Center"
@@ -4765,13 +4465,13 @@
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C5M1_intro004"
+			"text"		"Tits"
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize HistoricTour02b"
+			"text"		"Good enough"
 		}
 		"NorthWest"
 		{
@@ -4795,38 +4495,38 @@
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C1M2SafeRooma3"
+			"text"		"Well, no"
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C1M2SafeRooma4"
+			"text"		"Eh"
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C6M1Intro_05e"
+			"text"		"Great"
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C6M1Intro_09e"
+			"text"		"He's talking"
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize DLC1_C6M2_SafeRoomConvo10c"
+			"text"		"You'll like"
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize WorldC6M2_Tattoo02a"
+			"text"		"Where?"
 		}
 		"NorthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize WorldC6M2_Tattoo02c"
+			"text"		"Please be"
 		}
 	}
 
@@ -4882,106 +4582,6 @@
 
 	//--------------------------------------------------------------
 	"RMy4"
-	{
-		"Center"
-		{
-			"command"	""
-			"text"		""
-		}
-		"North"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"East"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"South"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-		"West"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-	}
-
-	//--------------------------------------------------------------
-	"RMy5"
-	{
-		"Center"
-		{
-			"command"	""
-			"text"		""
-		}
-		"North"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"East"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"South"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-		"West"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-	}
-
-	//--------------------------------------------------------------
-	"RMy6"
 	{
 		"Center"
 		{
@@ -5231,106 +4831,6 @@
 	}
 
 	//--------------------------------------------------------------
-	"NMy5"
-	{
-		"Center"
-		{
-			"command"	""
-			"text"		""
-		}
-		"North"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"East"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"South"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-		"West"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-	}
-
-	//--------------------------------------------------------------
-	"NMy6"
-	{
-		"Center"
-		{
-			"command"	""
-			"text"		""
-		}
-		"North"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"East"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"South"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-		"West"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-	}
-
-	//--------------------------------------------------------------
 	"CMy1"
 	{
 		"Center"
@@ -5531,106 +5031,6 @@
 	}
 
 	//--------------------------------------------------------------
-	"CMy5"
-	{
-		"Center"
-		{
-			"command"	""
-			"text"		""
-		}
-		"North"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"East"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"South"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-		"West"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-	}
-
-	//--------------------------------------------------------------
-	"CMy6"
-	{
-		"Center"
-		{
-			"command"	""
-			"text"		""
-		}
-		"North"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"East"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthEast"
-		{
-			"command"	""
-			"text"		""
-		}
-		"South"
-		{
-			"command"	""
-			"text"		""
-		}
-		"SouthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-		"West"
-		{
-			"command"	""
-			"text"		""
-		}
-		"NorthWest"
-		{
-			"command"	""
-			"text"		""
-		}
-	}
-
-	//--------------------------------------------------------------
 	"EMy1"
 	{
 		"Center"
@@ -5685,13 +5085,13 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C1M2SafeRooma4"
+			"text"		"He is?"
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C1M2SafeRooma3"
+			"text"		"I am?"
 		}
 		"NorthEast"
 		{
@@ -5831,7 +5231,257 @@
 	}
 
 	//--------------------------------------------------------------
-	"EMy5"
+	"ZAdm1"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/DLC1_C6M3_L4D1FinaleCinematic15.vcd"
+			"text"		"Proclaim"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/DLC1_C6M3_L4D1FinaleCinematic16.vcd"
+			"text"		"You maniacs!"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/DLC1_C6M3_L4D1FinaleCinematic17.vcd"
+			"text"		"Soylent green"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/DLC1_C6M3_L4D1FinaleCinematic19.vcd"
+			"text"		"Y'all come back"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/C6DLC3JUMPINGOFFBRIDGE07.vcd"
+			"text"		"These.. Guns"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/C6DLC3TANKINTRAINYARD10.vcd"
+			"text"		"Girl deathtrap"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/WorldAirport0404.vcd"
+			"text"		"Killed god"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/C6DLC3OPENINGDOOR06.vcd"
+			"text"		"Chickenshits"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"ZAdm2"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/ReactionDisgusted04.vcd"
+			"text"		"Eww"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/DLC1_C6M3_FinaleChat08.vcd"
+			"text"		"Throw Up"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/C6DLC3JUMPINGOFFBRIDGE17.vcd"
+			"text"		"I'll be back!"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/C6DLC3GRAVELHILL04.vcd"
+			"text"		"Shut. Up."
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/WorldAirport0407.vcd"
+			"text"		"Louis lost"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/DLC2GasTanks02.vcd"
+			"text"		"Farting"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/DLC2M2FinaleButtonPressGen201.vcd"
+			"text"		"Real brave"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/DLC2BulletinBoard01.vcd"
+			"text"		"Zombie killer"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/DLC2GasTanks01.vcd"
+			"text"		"Passing gas"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"ZAdm3"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/YouAreWelcome13.vcd"
+			"text"		"Pleasure"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/GriefVet02.vcd"
+			"text"		"Ah oh Bill"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/C6DLC3BILLDIES09.vcd"
+			"text"		"Bill love 1"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/C6DLC3BILLDIES10.vcd"
+			"text"		"Bill love 2"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/ReactionPositive27.vcd"
+			"text"		"Sexy"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/WorldSmallTown0112.vcd"
+			"text"		"Blocked"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/ReactionNegative16.vcd"
+			"text"		"Oh man"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/ReactionNegative17.vcd"
+			"text"		"Shit"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/C6DLC3OPENINGDOOR05.vcd"
+			"text"		"Can't believe"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"ZAdm4"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/GoingToDieLight11.vcd"
+			"text"		"Toothmarks"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/ExertionCritical01.vcd"
+			"text"		"Critical 01"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/ExertionCritical02.vcd"
+			"text"		"Critical 02"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/ExertionCritical03.vcd"
+			"text"		"Critical 03"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/ExertionCritical04.vcd"
+			"text"		"Critical 04"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/exertionmajor01.vcd"
+			"text"		"Major 01"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/exertionmajor02.vcd"
+			"text"		"Major 02"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/exertionminor01.vcd"
+			"text"		"Minor 01"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/exertionminor02.vcd"
+			"text"		"Minor 02"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"ZAdm5"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/DLC2M2FinaleButtonPressLift01.vcd"
+			"text"		"Come to mama"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/BoomerReaction15.vcd"
+			"text"		"Spitting 1"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/BoomerReaction16.vcd"
+			"text"		"Spitting 2"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/LedgeHangEnd06.vcd"
+			"text"		"No behind"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/C6DLC3FIRSTSAFEROOM01.vcd"
+			"text"		"Don't want"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/AnswerReady03.vcd"
+			"text"		"Ready"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/TeenGirl/DLC2M2FinaleButtonPressGen301.vcd"
+			"text"		"Stinking"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"ZAdm6"
 	{
 		"Center"
 		{
@@ -5881,7 +5531,207 @@
 	}
 
 	//--------------------------------------------------------------
-	"EMy6"
+	"FAdm1"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/C6DLC3INTANKTRAINCAR03.vcd"
+			"text"		"Bill beard smell"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/C6DLC3JUMPINGOFFBRIDGE04.vcd"
+			"text"		"Save everybody"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/dlc1_c6m3_finalechat33.vcd"
+			"text"		"Slow"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/dlc1_c6m3_finalechat32.vcd"
+			"text"		"Woman of taste"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/dlc1_c6m3_finalechat25.vcd"
+			"text"		"Witch??"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/C6DLC3OTHERBOATS13.vcd"
+			"text"		"Boat with wheels"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/C6DLC3JUMPINGOFFBRIDGE01.vcd"
+			"text"		"Brave"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/WorldAirport05NPC10.vcd"
+			"text"		"A hero"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"FAdm2"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/DLC1_C6M3_FinaleChat21.vcd"
+			"text"		"I'm a cop"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/C6DLC3BILLDIES06.vcd"
+			"text"		"Old bastard"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/C6DLC3JUMPINGOFFBRIDGE10.vcd"
+			"text"		"Plan"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/dlc1_c6m3_finalechat19.vcd"
+			"text"		"Fancy ass"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/AnswerReady05.vcd"
+			"text"		"Kill something"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/AnswerReady04.vcd"
+			"text"		"Break stuff"
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"FAdm3"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/Swear19.vcd"
+			"text"		"Ah bullshit"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/DLC1_CommunityL4D101.vcd"
+			"text"		"Frozen beard"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/C6DLC3InTankTrainCar02.vcd"
+			"text"		"Sailboat smells"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/DLC2Waterworks01.vcd"
+			"text"		"Waterworks"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/WorldAirport0426.vcd"
+			"text"		"God's dead"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/Generic16.vcd"
+			"text"		"Deer"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/C6DLC3LouisDies01.vcd"
+			"text"		"Predicted"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/DLC1_C6M3_FinaleChat42.vcd"
+			"text"		"Dog 1"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/DLC1_C6M3_FinaleChat43.vcd"
+			"text"		"Dog 2"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"FAdm4"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/GenericResponses12.vcd"
+			"text"		"Go to hell"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/ExertionCritical01.vcd"
+			"text"		"Critical 01"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/ExertionCritical02.vcd"
+			"text"		"Critical 02"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/ExertionCritical03.vcd"
+			"text"		"Critical 03"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/ExertionMajor01.vcd"
+			"text"		"Major 01"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/ExertionMajor02.vcd"
+			"text"		"Major 02"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/ExertionMinor01.vcd"
+			"text"		"Minor 01"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/ExertionMinor02.vcd"
+			"text"		"Minor 02"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Biker/ExertionMinor03.vcd"
+			"text"		"Minor 03"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"FAdm5"
 	{
 		"Center"
 		{
@@ -5927,6 +5777,2056 @@
 		{
 			"command"	""
 			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"FAdm6"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"LAdm1"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/DLC2M2FinaleButtonPressGen102.vcd"
+			"text"		"Start Baby"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/NegativeNoise03.vcd"
+			"text"		"Plprrr"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/C6DLC3JUMPINGOFFBRIDGE17.vcd"
+			"text"		"Don't save"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/C6DLC3INTANKTRAINCAR07.vcd"
+			"text"		"Gross shit"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/dlc2swearcoupdegrace17.vcd"
+			"text"		"Bitch apocalypse"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/DLC1_L4D1Tank01.vcd"
+			"text"		"Lead those puppies"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/Manager_FriendlyFireBill02.vcd"
+			"text"		"Whoah, whoah!"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/Generic14.vcd"
+			"text"		"Belche"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"LAdm2"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/C6DLC3SECONDSAFEROOM05.vcd"
+			"text"		"Oldest man"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/DLC2M2Misc02.vcd"
+			"text"		"Farting"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/C6DLC3TANKINTRAINYARD04.vcd"
+			"text"		"Me"
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"LAdm3"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"LAdm4"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/ExertionCritical01.vcd"
+			"text"		"Critical 01"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/ExertionCritical02.vcd"
+			"text"		"Critical 02"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/ExertionCritical03.vcd"
+			"text"		"Critical 03"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/ExertionMajor01.vcd"
+			"text"		"Major 01"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/ExertionMajor02.vcd"
+			"text"		"Major 02"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/ExertionMinor01.vcd"
+			"text"		"Minor 01"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/ExertionMinor02.vcd"
+			"text"		"Minor 02"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Manager/ExertionMinor03.vcd"
+			"text"		"Minor 03"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"LAdm5"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"LAdm6"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"BAdm1"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/GettingRevived11.vcd"
+			"text"		"Who?"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/totherescuethanks03.vcd"
+			"text"		"Lonely"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/ReviveFriendB13.vcd"
+			"text"		"Big mouth"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/c6dlc3communitylines04.vcd"
+			"text"		"10 miles"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/TeamKillAccident02.vcd"
+			"text"		"Lost mind?"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/C6DLC3FIRSTSAFEROOM01.vcd"
+			"text"		"Zoey mad"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/C6DLC3INTRO26.vcd"
+			"text"		"Zoey mad?"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/C6DLC3INTANKTRAINCAR03.vcd"
+			"text"		"Stinks like shit"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/c6dlc3communitylines02.vcd"
+			"text"		"Hat"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"BAdm2"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/WorldHospital0313.vcd"
+			"text"		"Already smell"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/WorldHospital0316.vcd"
+			"text"		"Francis sewer"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"BAdm3"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/C6DLC3MOVIELINE09.vcd"
+			"text"		"I'm ready"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/WorldFarmHouse0102.vcd"
+			"text"		"Francis home"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/InsideSafeRoom03.vcd"
+			"text"		"Know Louis"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/C6DLC3GRAVELHILL05.vcd"
+			"text"		"Shut up"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/YouAreWelcome14.vcd"
+			"text"		"Not married"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/YouAreWelcome15.vcd"
+			"text"		"No hugs"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/C6DLC3ZOEYDIES05.vcd"
+			"text"		"Zoey did it"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/C6DLC3ZOEYDIES01.vcd"
+			"text"		"Zoey, noo"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/C6DLC3ZOEYDIES06.vcd"
+			"text"		"Zoey end"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"BAdm4"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/GoingToDieLight08.vcd"
+			"text"		"Old"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/ExertionCritical01.vcd"
+			"text"		"Critical 01"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/ExertionCritical02.vcd"
+			"text"		"Critical 02"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/ExertionCritical03.vcd"
+			"text"		"Critical 03"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/ExertionCritical04.vcd"
+			"text"		"Critical 04"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/ExertionMajor01.vcd"
+			"text"		"Major 01"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/ExertionMajor02.vcd"
+			"text"		"Major 02"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/ExertionMinor01.vcd"
+			"text"		"Minor 01"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/ExertionMinor02.vcd"
+			"text"		"Minor 02"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"BAdm5"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/ReactionNegative09.vcd"
+			"text"		"Son of a bitch 1"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/Swears03.vcd"
+			"text"		"Son of a bitch 2"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/Swears04.vcd"
+			"text"		"Horseshit"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/Swears05.vcd"
+			"text"		"Mother. Humper."
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/GenericResponses12.vcd"
+			"text"		"Idiot"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/Thanks01.vcd"
+			"text"		"I'm behind 1"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/Thanks08.vcd"
+			"text"		"I'm behind 2"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/NamVet/Hurrah18.vcd"
+			"text"		"Big surprise"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"BAdm6"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"RAdm1"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/ReviveFriendA16.vcd"
+			"text"		"Crying"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/DLC1_C6M2_InWaterFindLadder01.vcd"
+			"text"		"Turd"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/WorldC1M2B50.vcd"
+			"text"		"New favorite"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/DLC1_CommunityR13.vcd"
+			"text"		"All aboard"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/DLC1_C6M3_SafeRoomConvo11.vcd"
+			"text"		"Nick leave him alone"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/WorldC2M2B22.vcd"
+			"text"		"Unhappy"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/DLC1_C6M1_WeddingWitch11.vcd"
+			"text"		"Ellis, angel"
+		}
+		"West"
+		{
+			"command"	"vocalize WorldC6M2_Tattoo02d"
+			"text"		"Ughhh"
+		}
+		"NorthWest"
+		{
+			"command"	"vocalize C6M1Intro_24_alien"
+			"text"		"Aliens"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"RAdm2"
+	{
+		"Center"
+		{
+			"command"	"vocalize _what"
+			"text"		"What?"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/DLC1_M6005.vcd"
+			"text"		"Big gun 1"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/DLC1_M6009.vcd"
+			"text"		"Big gun 2"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/WarnTankC103.vcd"
+			"text"		"Goddamn big"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/TakeMelee05.vcd"
+			"text"		"I know"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/DLC1_M6010.vcd"
+			"text"		"Favorite gun"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/WorldC1M2B18.vcd"
+			"text"		"Oh... my... GOD"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/WorldC1M2B21.vcd"
+			"text"		"LOOK"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/WorldC3M219.vcd"
+			"text"		"Always wanted"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"RAdm3"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/ScreamWhilePounced02a.vcd"
+			"text"		"Agh! 1"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/ScreamWhilePounced03.vcd"
+			"text"		"Agh! 2"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/PositiveNoise01.vcd"
+			"text"		"Hmm 01"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/PositiveNoise02.vcd"
+			"text"		"Hmm 02"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/PositiveNoise03.vcd"
+			"text"		"Hmm 03"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/PositiveNoise04.vcd"
+			"text"		"Hmm 04"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/PositiveNoise05.vcd"
+			"text"		"Hmm 05"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/PositiveNoise07.vcd"
+			"text"		"Hmm 07"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/PositiveNoise09.vcd"
+			"text"		"Hmm 09"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"RAdm4"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/ReviveFriendA05.vcd"
+			"text"		"What's up?"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/DLC1_C6M1_InitialMeeting43.vcd"
+			"text"		"Kiss"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/DLC1_C6M3_SafeRoomConvo14.vcd"
+			"text"		"Woman for Nick"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/YouAreWelcome09.vcd"
+			"text"		"Head"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/DLC1_C6M3_FinaleL4D1Items08.vcd"
+			"text"		"Thanks sexy"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/World04.vcd"
+			"text"		"Tits"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/World05.vcd"
+			"text"		"Smell"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/AlertGiveItemCombat01.vcd"
+			"text"		"Here!"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/WorldC1M4B39.vcd"
+			"text"		"Punch it!"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"RAdm5"
+	{
+		"Center"
+		{
+			"command"	"vocalize SingTheSong"
+			"text"		"Song"
+		}
+		"North"
+		{
+			"command"	"vocalize IHate"
+			"text"		"Hate"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/FriendlyFire04.vcd"
+			"text"		"Lost your mind?"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/WorldGenericProducer38.vcd"
+			"text"		"Size"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/WorldGenericProducer39.vcd"
+			"text"		"Big, beautiful"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/WorldC1M2B58.vcd"
+			"text"		"You want what?"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/WorldC1M3B10.vcd"
+			"text"		"Coach's stomach"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/WorldC1M4B11.vcd"
+			"text"		"I'll do it"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Producer/WorldC1M2B47.vcd"
+			"text"		"BOOM"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"RAdm6"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"NAdm1"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/DLC1_C6M2_MidnightRiders04.vcd"
+			"text"		"Dreaming"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/ReactionNegative30.vcd"
+			"text"		"Bitch"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/DLC1_C6M2_Tattoo02.vcd"
+			"text"		"Ellis tattoo"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/DLC1_C6M3_FinaleL4D1Items06.vcd"
+			"text"		"Thanks, babe!"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/DLC1_C6M1_WeddingWitchDead11.vcd"
+			"text"		"Honeymoon's over"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/DLC1_C6M1_WeddingWitchDead04.vcd"
+			"text"		"Too weird"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/DLC1_C6M1_WeddingWitchDead01.vcd"
+			"text"		"Fantasy"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/WorldC1M1B121.vcd"
+			"text"		"Call 911"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/DLC1_C6M2_Phase2InWater19.vcd"
+			"text"		"Bad advice"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"NAdm2"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/WorldMisc11.vcd"
+			"text"		"Smell"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/WitchGettingAngryEllis01.vcd"
+			"text"		"Ellis witch"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/DLC1_C6M1_WeddingWitch08.vcd"
+			"text"		"Kiss the bride"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/Taunt04.vcd"
+			"text"		"Stick"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/Taunt01.vcd"
+			"text"		"Suck"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/NickOcd04.vcd"
+			"text"		"Smell"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/DLC1_C6M2_Bridge2Up02.vcd"
+			"text"		"Ellis first"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/dlc1_c6m3_finalechat09.vcd"
+			"text"		"Leave you two"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/dlc1_c6m3_finalechat12.vcd"
+			"text"		"Get a room"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"NAdm3"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/worldc1m2b01.vcd"
+			"text"		"I like"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/LeadOn06.vcd"
+			"text"		"Behind 1"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/LeadOn09.vcd"
+			"text"		"Behind 2"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/WorldC2M3B07.vcd"
+			"text"		"Don't drink it"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/WorldC1M4B09.vcd"
+			"text"		"Come on 1"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/WorldC1M4B10.vcd"
+			"text"		"Come on 2"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/WorldC1M4B11.vcd"
+			"text"		"Come on 3"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/WorldC1M4B16.vcd"
+			"text"		"How big"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/DLC1_C6M1_WeddingWitch10.vcd"
+			"text"		"Ellis angel"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"NAdm4"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/WorldC1M2B12.vcd"
+			"text"		"Scared?"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/NiceShotProducer02.vcd"
+			"text"		"Rochelle.. damn"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/NiceShotProducer01.vcd"
+			"text"		"Damn, Rochelle"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/NiceShotProducer03.vcd"
+			"text"		"Rochelle, nice"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/WorldC1M1B51.vcd"
+			"text"		"You did good, Rochelle"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/WorldC1M1B122.vcd"
+			"text"		"I trust you"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/DLC1_C6M3_FinaleCinematic03.vcd"
+			"text"		"Plenty of fish"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/worldc1m1b10.vcd"
+			"text"		"Fat 1"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/worldc1m1b73.vcd"
+			"text"		"Fat 2"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"NAdm5"
+	{
+		"Center"
+		{
+			"command"	"vocalize SingTheSong"
+			"text"		"Song"
+		}
+		"North"
+		{
+			"command"	"vocalize IHate"
+			"text"		"Hate"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/HeardBoomer05.vcd"
+			"text"		"Boomer 1"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/AlertGiveItem01.vcd"
+			"text"		"To give"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/HeardSpecialC101.vcd"
+			"text"		"Beating a horse 1"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Gambler/HeardSpecialC102.vcd"
+			"text"		"Beating a horse 2"
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"NAdm6"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"CAdm1"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/Coach/DLC1_C6M2_MidnightRiders02.vcd"
+			"text"		"Dreaming"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/Coach/dlc1_community04.vcd"
+			"text"		"Live or Die"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Coach/dlc1_community11.vcd"
+			"text"		"Night"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Coach/dlc1_community13.vcd"
+			"text"		"Health class"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Coach/DLC1_C6M1_WeddingWitchChasing02.vcd"
+			"text"		"Ugly bride"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Coach/DLC1_C6M3_FinaleChat08.vcd"
+			"text"		"Live up here"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Coach/DLC1_C6M3_FinaleCinematic03.vcd"
+			"text"		"Ride"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/Coach/DLC1_C6M3_SafeRoomConvo01.vcd"
+			"text"		"Faith Nick"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Coach/DLC1_C6M2_Phase2InWater03.vcd"
+			"text"		"Don't trip Nick"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"CAdm2"
+	{
+		"Center"
+		{
+			"command"	"vocalize _what"
+			"text"		"What?"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/Coach/GettingRevived17.vcd"
+			"text"		"Looking at shoes"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Coach/TeaserIntroMovie02.vcd"
+			"text"		"Neighborhood"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Coach/DLC1_C6M2_Tattoo04.vcd"
+			"text"		"Coach secrets"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Coach/WorldC1M1B108.vcd"
+			"text"		"Call me Coach"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Coach/No12.vcd"
+			"text"		"You crazy?"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Coach/BattleCry01.vcd"
+			"text"		"EAT THAT SHIT!"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/Coach/WorldC2M133.vcd"
+			"text"		"Crazy Ellis"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Coach/WarnSpitterC101.vcd"
+			"text"		"Crazy woman!"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"CAdm3"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/Coach/Defibrillator17.vcd"
+			"text"		"Mouth to mouth"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Coach/Defibrillator15.vcd"
+			"text"		"Electric"
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"CAdm4"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"CAdm5"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"CAdm6"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"EAdm1"
+	{
+		"Center"
+		{
+			"command"	"sm_vocalize @me scenes/Mechanic/World121.vcd"
+			"text"		"Sick man"
+		}
+		"North"
+		{
+			"command"	"sm_vocalize @me scenes/Mechanic/SeeDeadSpitter06.vcd"
+			"text"		"Nick's GF"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Mechanic/DLC1_C6M2_Phase2InWater02.vcd"
+			"text"		"Candy bar"
+		}
+		"East"
+		{
+			"command"	"sm_vocalize @me scenes/Mechanic/DLC1_C6M2_Tattoo01.vcd"
+			"text"		"Tattoos"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_vocalize @me scenes/Mechanic/World304.vcd"
+			"text"		"Ro hustle"
+		}
+		"South"
+		{
+			"command"	"sm_vocalize @me scenes/Mechanic/WorldC1M1B74.vcd"
+			"text"		"Breaking"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Mechanic/WorldC2M123.vcd"
+			"text"		"Coach breathe"
+		}
+		"West"
+		{
+			"command"	"sm_vocalize @me scenes/Mechanic/WorldC5M2B01.vcd"
+			"text"		"Horse"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_vocalize @me scenes/Mechanic/DLC1_CommunityE16.vcd"
+			"text"		"All aboard"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"EAdm2"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"EAdm3"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"EAdm4"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"EAdm5"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		"Song"
+		}
+		"North"
+		{
+			"command"	""
+			"text"		"Hate"
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"EAdm6"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"East"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthEast"
+		{
+			"command"	""
+			"text"		""
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+		"West"
+		{
+			"command"	""
+			"text"		""
+		}
+		"NorthWest"
+		{
+			"command"	""
+			"text"		""
+		}
+	}
+
+	//--------------------------------------------------------------
+	"Adm1"
+	{
+		"Center"
+		{
+			"command"	"sm_spawnprop models/props_junk/wood_crate001a.mdl physics cursor;sm_prop_move z 20;"
+			"text"		"Small crate"
+		}
+		"North"
+		{
+			"command"	"sm_spawnprop models/props_junk/wood_crate002a.mdl physics cursor;sm_prop_move z 20;"
+			"text"		"Big crate"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_spawnprop models/props_unique/airport/atlas_break_ball.mdl physics cursor;"
+			"text"		"Big ball"
+		}
+		"East"
+		{
+			"command"	"sm_spawnprop models/props_foliage/swamp_fallentree01_bare.mdl physics cursor;sm_prop_move z 10;"
+			"text"		"Tree"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_spawnprop models/props_urban/shopping_cart001.mdl physics cursor;"
+			"text"		"Shopping cart"
+		}
+		"South"
+		{
+			"command"	"sm_spawnprop models/props_junk/wood_pallet001a.mdl physics cursor;sm_prop_move z 10;"
+			"text"		"Wood pallet"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_spawnprop models/props_junk/dumpster_2.mdl physics cursor;"
+			"text"		"Dumpster"
+		}
+		"West"
+		{
+			"command"	"sm_spawnprop models/props_fairgrounds/bumpercar.mdl physics cursor;sm_prop_move z 1;"
+			"text"		"Bumper car"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_spawnprop models/props_vehicles/cara_95sedan.mdl physics cursor;sm_prop_move z 5;"
+			"text"		"Car"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"Adm2"
+	{
+		"Center"
+		{
+			"command"	"sm_prop_removelook"
+			"text"		"Remove"
+		}
+		"North"
+		{
+			"command"	"sm_spawnprop models/props_interiors/sofa.mdl physics cursor;"
+			"text"		"Sofa"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_spawnprop models/props_wasteland/exterior_fence002b.mdl static cursor;sm_prop_move z 75;"
+			"text"		"Fence small"
+		}
+		"East"
+		{
+			"command"	"sm_spawnprop models/props_wasteland/exterior_fence002c.mdl static cursor;sm_prop_move z 75;"
+			"text"		"Fence big"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_spawnprop models/props_interiors/toilet.mdl static cursor;"
+			"text"		"Toilet"
+		}
+		"South"
+		{
+			"command"	"sm_prop_removeall"
+			"text"		"Remove all"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_spawnlight 0"
+			"text"		"Light unbr"
+		}
+		"West"
+		{
+			"command"	"sm_spawnlight 1"
+			"text"		"Light br"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_spawnprop models/props_interiors/tv.mdl physics cursor; sm_prop_rotate y 270;"
+			"text"		"TV"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"Adm3"
+	{
+		"Center"
+		{
+			"command"	"sm_admin"
+			"text"		"Menu"
+		}
+		"North"
+		{
+			"command"	"sm_lock"
+			"text"		"Lock"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_removedoor"
+			"text"		"Remove door"
+		}
+		"East"
+		{
+			"command"	"sm_vdefib"
+			"text"		"Defib"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_telebody"
+			"text"		"Teleport bodies"
+		}
+		"South"
+		{
+			"command"	"sm_unlock"
+			"text"		"Unlock"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_noclip @me"
+			"text"		"Noclip"
+		}
+		"West"
+		{
+			"command"	"sm_spawndoor"
+			"text"		"Door"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_spawnprop models/props_interiors/teddy_bear.mdl static cursor;"
+			"text"		"Bear"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"Adm4"
+	{
+		"Center"
+		{
+			"command"	"sm_spawnprop models/props_urban/fence_cover001_256.mdl static cursor;"
+			"text"		"Fence"
+		}
+		"North"
+		{
+			"command"	"sm_spawnprop models/props_vehicles/airport_fuel_truck.mdl static cursor;"
+			"text"		"Fuel Truck"
+		}
+		"NorthEast"
+		{
+			"command"	"sm_spawnprop models/props_interiors/clawfoot_tub.mdl static cursor;"
+			"text"		"Tub"
+		}
+		"East"
+		{
+			"command"	"sm_spawnprop models/props_equipment/cargo_container02.mdl static cursor;"
+			"text"		"Container"
+		}
+		"SouthEast"
+		{
+			"command"	"sm_spawnprop models/props_fortifications/sandbags_line2.mdl static cursor;"
+			"text"		"Sandbags"
+		}
+		"South"
+		{
+			"command"	"sm_spawnprop models/props_interiors/baby_crib.mdl static cursor;"
+			"text"		"Crib"
+		}
+		"SouthWest"
+		{
+			"command"	"sm_spawnprop models/props_vehicles/bus01_2.mdl static cursor;"
+			"text"		"Bus"
+		}
+		"West"
+		{
+			"command"	"sm_spawnprop models/props_vehicles/train_box_open.mdl static cursor;"
+			"text"		"Train Box"
+		}
+		"NorthWest"
+		{
+			"command"	"sm_spawnprop models/props/cs_office/shelves_metal.mdl static cursor;"
+			"text"		"Shelves"
 		}
 	}
 }
