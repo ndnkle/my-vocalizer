@@ -2991,7 +2991,7 @@
 		"South"
 		{
 			"command"	"vocalize PlayerAnswerLostCall"
-			"text"		"Swear"
+			"text"		"I'm here"
 		}
 		"SouthWest"
 		{
