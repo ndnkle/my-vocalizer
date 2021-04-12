@@ -765,8 +765,8 @@
 		}
 		"West"
 		{
-			"command"	"vocalize C1M1Crumbs"
-			"text"		"Crumbs"
+			"command"	"vocalize WeddingWitchDead04"
+			"text"		"Honey"
 		}
 		"NorthWest"
 		{
@@ -1097,7 +1097,7 @@
 		}
 		"SouthEast"
 		{
-			"command"	"vocalize WeddingWitchDead04"
+			"command"	"vocalize WeddingWitchDead02"
 			"text"		"Uncomfortable"
 		}
 		"South"
@@ -3159,6 +3159,56 @@
 			"text"		"Hear Charger"
 		}
 	}
+	
+	//--------------------------------------------------------------
+	"Enemies_Know"
+	{
+		"Center"
+		{
+			"command"	""
+			"text"		""
+		}
+		"North"
+		{
+			"command"	"vocalize C1M2TankInfo"
+			"text"		"Tank?"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize Player.KnowBoomer"
+			"text"		"Boomer?"
+		}
+		"East"
+		{
+			"command"	"vocalize Player.KnowHunter"
+			"text"		"Hunter?"
+		}
+		"SouthEast"
+		{
+			"command"	"vocalize Player.KnowSmoker"
+			"text"		"Smoker?"
+		}
+		"South"
+		{
+			"command"	""
+			"text"		""
+		}
+		"SouthWest"
+		{
+			"command"	"vocalize Player.KnowSpitter"
+			"text"		"Spitter?"
+		}
+		"West"
+		{
+			"command"	"vocalize Player.KnowJockey"
+			"text"		"Jockey?"
+		}
+		"NorthWest"
+		{
+			"command"	"vocalize Player.KnowCharger"
+			"text"		"Charger?"
+		}
+	}
 
 	//--------------------------------------------------------------
 	"L4D1_1"
@@ -3808,13 +3858,13 @@
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C6M1Intro_18e"
+			"text"		"Yeah it is"
 		}
 		"NorthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C6M1Intro_19a"
+			"text"		"Kissing time"
 		}
 	}
 
@@ -3823,8 +3873,8 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C6M1Intro_21f"
+			"text"		"Not talking"
 		}
 		"North"
 		{
@@ -4373,48 +4423,48 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C6M1Intro_24b"
+			"text"		"Aliens"
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize _C3M2Pirogue2"
+			"text"		"You got me"
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C3M2Disgust"
+			"text"		"Argghh!"
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize WorldC3M1FerryCrossingJ2"
+			"text"		"Maybe?"
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C2M3SafeIntro006"
+			"text"		"Tunnel of Love Nick"
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize WorldC3M1FerryCrossingL2"
+			"text"		"Chickens?"
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C1M2GunRoomDoorResponseGod"
+			"text"		"Okay… God"
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C1M2InsideGunShop2"
+			"text"		"Guns"
 		}
 		"NorthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize DLC1_C6M2_SafeRoomConvo19f"
+			"text"		"Weight"
 		}
 	}
 
@@ -4423,28 +4473,28 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C6M1Intro_10e"
+			"text"		"THANKS!"
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C6M1Intro_07b"
+			"text"		"OKAY!"
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize c1m4escape"
+			"text"		"Woooo!"
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C1M4FinaleStartResponse"
+			"text"		"I'll do it"
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize _C3M2Pirogue"
+			"text"		"A pirogue?"
 		}
 		"South"
 		{
@@ -4473,43 +4523,43 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C2M3SafeIntro012"
+			"text"		"Psh"
 		}
 		"North"
-		{
-			"command"	"vocalize WorldIntroC31b2"
-			"text"		"Sign"
-		}
-		"NorthEast"
 		{
 			"command"	"vocalize Player.TakeBatR2"
 			"text"		"Bouncer"
 		}
-		"East"
-		{
-			"command"	"vocalize C2M3SafeIntro012"
-			"text"		"Psh"
-		}
-		"SouthEast"
-		{
-			"command"	"vocalize C2M3SafeIntro010"
-			"text"		"Memories"
-		}
-		"South"
-		{
-			"command"	"vocalize C2M3SafeIntro005"
-			"text"		"Wish"
-		}
-		"SouthWest"
+		"NorthEast"
 		{
 			"command"	"vocalize DLC1_C6M2_SafeRoomConvo13c"
 			"text"		"Hole"
 		}
-		"West"
+		"East"
 		{
 			"command"	"vocalize C1M4SafeRoom2a2"
 			"text"		"Getting sick"
+		}
+		"SouthEast"
+		{
+			"command"	"vocalize _C2M1abandoned02"
+			"text"		"Theory"
+		}
+		"South"
+		{
+			"command"	"vocalize C5M3Bodies02"
+			"text"		"Somebody?"
+		}
+		"SouthWest"
+		{
+			"command"	"vocalize _C2M1_Fall03"
+			"text"		"Neck"
+		}
+		"West"
+		{
+			"command"	"vocalize _c2m3_water01"
+			"text"		"Don't drink"
 		}
 		"NorthWest"
 		{
@@ -4523,48 +4573,48 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize _C2M1abandoned02"
-			"text"		"Theory"
+			"command"	"vocalize C6M1Intro_14a"
+			"text"		"Listen"
 		}
 		"North"
 		{
-			"command"	"vocalize C5M3Bodies02"
-			"text"		"Somebody?"
+			"command"	"vocalize C6M1Intro_07b"
+			"text"		"Not a cop"
 		}
 		"NorthEast"
 		{
-			"command"	"vocalize C1M1_ElevatorHello01_03a6"
-			"text"		"Rochelle?"
+			"command"	"vocalize C6M1Intro_14c"
+			"text"		"Don't believe"
 		}
 		"East"
 		{
-			"command"	"vocalize C1M1_ElevatorHello01_02C7"
-			"text"		"Coach?"
+			"command"	"vocalize WorldC6M2_Tattoo03a"
+			"text"		"Tattoo"
 		}
 		"SouthEast"
 		{
-			"command"	"vocalize C1M1_ElevatorHello01_02C3"
-			"text"		"Name?"
+			"command"	"vocalize C6M2_OpenGate1"
+			"text"		"I hit it!"
 		}
 		"South"
 		{
-			"command"	"vocalize C1M1_ElevatorHello01_02C2"
-			"text"		"Name's Nick"
+			"command"	"vocalize DLC1_C6M2_SafeRoomConvo10b"
+			"text"		"Sanitizer"
 		}
 		"SouthWest"
 		{
-			"command"	"vocalize C1M1_ElevatorHello01_02C1"
-			"text"		"Three"
+			"command"	"vocalize WorldC6M2_InSewerLadder101a"
+			"text"		"Bad advice"
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize WorldC6M2_OnTourWalk102a"
+			"text"		"Told you"
 		}
 		"NorthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize DLC1_C6M3_SafeRoomConvo05b"
+			"text"		"Nick take care"
 		}
 	}
 
@@ -4698,8 +4748,8 @@
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize Player.TakeBatR"
+			"text"		"Play ball?"
 		}
 		"SouthWest"
 		{
@@ -4873,13 +4923,13 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize C5M3Bodies02"
-			"text"		"People"
+			"command"	"vocalize C2M4PenSmell001"
+			"text"		"Smells"
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C5M3Bodies02"
+			"text"		"People"
 		}
 		"NorthEast"
 		{
@@ -4888,23 +4938,23 @@
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize _c2m3_howcool"
+			"text"		"Fly"
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize WorldIntroC31e2a"
+			"text"		"Ain't friendly"
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize WorldIntroC31g1"
+			"text"		"Don't like"
 		}
 		"SouthWest"
 		{
-			"command"	"vocalize C2M1Intro_401"
-			"text"		"Beauty sat between"
+			"command"	""
+			"text"		""
 		}
 		"West"
 		{
@@ -4913,8 +4963,8 @@
 		}
 		"NorthWest"
 		{
-			"command"	"vocalize C2M1Intro_402"
-			"text"		"Love you"
+			"command"	""
+			"text"		""
 		}
 	}
 
@@ -4938,8 +4988,8 @@
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize _C3M2Pirogue2"
+			"text"		"Pirogue"
 		}
 		"SouthEast"
 		{
@@ -4948,23 +4998,23 @@
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize WorldC3M1FerryCrossingM4"
+			"text"		"Fun"
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize WorldC3M1FerryCrossingM2"
+			"text"		"Remember"
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize _C3M2BloodFarmers"
+			"text"		"Kiss"
 		}
 		"NorthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C13M3Airstrike"
+			"text"		"Woah!"
 		}
 	}
 
@@ -5023,28 +5073,28 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize Player.CoverMeC1RCoach1"
+			"text"		"Coach?"
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize Player.CoverMeC1R"
+			"text"		"I see"
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C2M1Intro_401"
+			"text"		"Beauty sat between"
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C2M1Intro_402"
+			"text"		"Love you"
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C2M1Intro_408"
+			"text"		"Good"
 		}
 		"South"
 		{
@@ -6512,13 +6562,13 @@
 		}
 		"West"
 		{
-			"command"	"vocalize WorldC6M2_Tattoo02d"
-			"text"		"Ughhh"
+			"command"	""
+			"text"		""
 		}
 		"NorthWest"
 		{
-			"command"	"vocalize C6M1Intro_24_alien"
-			"text"		"Aliens"
+			"command"	""
+			"text"		""
 		}
 	}
 
@@ -6527,8 +6577,8 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize _what"
-			"text"		"What?"
+			"command"	""
+			"text"		""
 		}
 		"North"
 		{
@@ -6677,13 +6727,13 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize SingTheSong"
-			"text"		"Song"
+			"command"	""
+			"text"		""
 		}
 		"North"
 		{
-			"command"	"vocalize IHate"
-			"text"		"Hate"
+			"command"	""
+			"text"		""
 		}
 		"NorthEast"
 		{
@@ -6977,13 +7027,13 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize SingTheSong"
-			"text"		"Song"
+			"command"	"sm_vocalize @me scenes/Gambler/ReactionNegative28.vcd"
+			"text"		"Ass"
 		}
 		"North"
 		{
-			"command"	"vocalize IHate"
-			"text"		"Hate"
+			"command"	"sm_vocalize @me scenes/Gambler/World119.vcd"
+			"text"		"Ever eat?"
 		}
 		"NorthEast"
 		{
@@ -7127,8 +7177,8 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize _what"
-			"text"		"What?"
+			"command"	""
+			"text"		""
 		}
 		"North"
 		{
@@ -7578,12 +7628,12 @@
 		"Center"
 		{
 			"command"	""
-			"text"		"Song"
+			"text"		""
 		}
 		"North"
 		{
 			"command"	""
-			"text"		"Hate"
+			"text"		""
 		}
 		"NorthEast"
 		{
