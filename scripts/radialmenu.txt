@@ -1,7 +1,7 @@
 "RadialMenu"
 {
 	//--------------------------------------------------------------
-	"Orders"
+	"Orders,Survivor"
 	{
 		"Center"
 		{
@@ -51,7 +51,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"QA"
+	"QA,Survivor"
 	{
 		"Center"
 		{
@@ -134,7 +134,7 @@
 // Coach
 //--------------------------------------------------------------------------------------------------------------
 
-	"C1,Survivor,Alive"
+	"C1,Survivor"
 	{
 		"Center"
 		{
@@ -183,7 +183,7 @@
 		}
 	}
 
-	"C2,Survivor,Alive"
+	"C2,Survivor"
 	{
 		"Center"
 		{
@@ -232,7 +232,7 @@
 		}
 	}
 
-	"C3,Survivor,Alive"
+	"C3,Survivor"
 	{
 		"Center"
 		{
@@ -281,7 +281,7 @@
 		}
 	}
 
-	"C4,Survivor,Alive"
+	"C4,Survivor"
 	{
 		"Center"
 		{
@@ -330,7 +330,7 @@
 		}
 	}
 
-	"C5,Survivor,Alive"
+	"C5,Survivor"
 	{
 		"Center"
 		{
@@ -379,7 +379,7 @@
 		}
 	}
 
-	"C6,Survivor,Alive"
+	"C6,Survivor"
 	{
 		"Center"
 		{
@@ -428,7 +428,7 @@
 		}
 	}
 
-	"C7,Survivor,Alive"
+	"C7,Survivor"
 	{
 		"Center"
 		{
@@ -481,7 +481,7 @@
 // Nick
 //--------------------------------------------------------------------------------------------------------------
 
-	"N1,Survivor,Alive"
+	"N1,Survivor"
 	{
 		"Center"
 		{
@@ -530,7 +530,7 @@
 		}
 	}
 
-	"N2,Survivor,Alive"
+	"N2,Survivor"
 	{
 		"Center"
 		{
@@ -579,7 +579,7 @@
 		}
 	}
 
-	"N3,Survivor,Alive"
+	"N3,Survivor"
 	{
 		"Center"
 		{
@@ -628,7 +628,7 @@
 		}
 	}
 
-	"N4,Survivor,Alive"
+	"N4,Survivor"
 	{
 		"Center"
 		{
@@ -677,7 +677,7 @@
 		}
 	}
 
-	"N5,Survivor,Alive"
+	"N5,Survivor"
 	{
 		"Center"
 		{
@@ -726,7 +726,7 @@
 		}
 	}
 
-	"N6,Survivor,Alive"
+	"N6,Survivor"
 	{
 		"Center"
 		{
@@ -775,7 +775,7 @@
 		}
 	}
 
-	"N7,Survivor,Alive"
+	"N7,Survivor"
 	{
 		"Center"
 		{
@@ -828,7 +828,7 @@
 // Ellis
 //--------------------------------------------------------------------------------------------------------------
 
-	"E1,Survivor,Alive"
+	"E1,Survivor"
 	{
 		"Center"
 		{
@@ -877,7 +877,7 @@
 		}
 	}
 
-	"E2,Survivor,Alive"
+	"E2,Survivor"
 	{
 		"Center"
 		{
@@ -926,7 +926,7 @@
 		}
 	}
 
-	"E3,Survivor,Alive"
+	"E3,Survivor"
 	{
 		"Center"
 		{
@@ -975,7 +975,7 @@
 		}
 	}
 
-	"E4,Survivor,Alive"
+	"E4,Survivor"
 	{
 		"Center"
 		{
@@ -1024,7 +1024,7 @@
 		}
 	}
 
-	"E5,Survivor,Alive"
+	"E5,Survivor"
 	{
 		"Center"
 		{
@@ -1073,7 +1073,7 @@
 		}
 	}
 
-	"E6,Survivor,Alive"
+	"E6,Survivor"
 	{
 		"Center"
 		{
@@ -1122,7 +1122,7 @@
 		}
 	}
 
-	"E7,Survivor,Alive"
+	"E7,Survivor"
 	{
 		"Center"
 		{
@@ -1175,7 +1175,7 @@
 // Rochelle
 //--------------------------------------------------------------------------------------------------------------
 
-	"R1,Survivor,Alive"
+	"R1,Survivor"
 	{
 		"Center"
 		{
@@ -1224,7 +1224,7 @@
 		}
 	}
 
-	"R2,Survivor,Alive"
+	"R2,Survivor"
 	{
 		"Center"
 		{
@@ -1273,7 +1273,7 @@
 		}
 	}
 
-	"R3,Survivor,Alive"
+	"R3,Survivor"
 	{
 		"Center"
 		{
@@ -1322,7 +1322,7 @@
 		}
 	}
 
-	"R4,Survivor,Alive"
+	"R4,Survivor"
 	{
 		"Center"
 		{
@@ -1371,7 +1371,7 @@
 		}
 	}
 
-	"R5,Survivor,Alive"
+	"R5,Survivor"
 	{
 		"Center"
 		{
@@ -1420,7 +1420,7 @@
 		}
 	}
 
-	"R6,Survivor,Alive"
+	"R6,Survivor"
 	{
 		"Center"
 		{
@@ -1469,7 +1469,7 @@
 		}
 	}
 
-	"R7,Survivor,Alive"
+	"R7,Survivor"
 	{
 		"Center"
 		{
@@ -1522,7 +1522,7 @@
 // Francis
 //--------------------------------------------------------------------------------------------------------------
 
-	"F1,Survivor,Alive"
+	"F1,Survivor"
 	{
 		"Center"
 		{
@@ -1571,7 +1571,7 @@
 		}
 	}
 
-	"F2,Survivor,Alive"
+	"F2,Survivor"
 	{
 		"Center"
 		{
@@ -1620,7 +1620,7 @@
 		}
 	}
 
-	"F3,Survivor,Alive"
+	"F3,Survivor"
 	{
 		"Center"
 		{
@@ -1669,7 +1669,7 @@
 		}
 	}
 
-	"F4,Survivor,Alive"
+	"F4,Survivor"
 	{
 		"Center"
 		{
@@ -1718,7 +1718,7 @@
 		}
 	}
 
-	"F5,Survivor,Alive"
+	"F5,Survivor"
 	{
 		"Center"
 		{
@@ -1767,7 +1767,7 @@
 		}
 	}
 
-	"F6,Survivor,Alive"
+	"F6,Survivor"
 	{
 		"Center"
 		{
@@ -1816,7 +1816,7 @@
 		}
 	}
 
-	"F7,Survivor,Alive"
+	"F7,Survivor"
 	{
 		"Center"
 		{
@@ -1869,7 +1869,7 @@
 // Louis
 //--------------------------------------------------------------------------------------------------------------
 
-	"L1,Survivor,Alive"
+	"L1,Survivor"
 	{
 		"Center"
 		{
@@ -1918,7 +1918,7 @@
 		}
 	}
 
-	"L2,Survivor,Alive"
+	"L2,Survivor"
 	{
 		"Center"
 		{
@@ -1967,7 +1967,7 @@
 		}
 	}
 
-	"L3,Survivor,Alive"
+	"L3,Survivor"
 	{
 		"Center"
 		{
@@ -2016,7 +2016,7 @@
 		}
 	}
 
-	"L4,Survivor,Alive"
+	"L4,Survivor"
 	{
 		"Center"
 		{
@@ -2065,7 +2065,7 @@
 		}
 	}
 
-	"L5,Survivor,Alive"
+	"L5,Survivor"
 	{
 		"Center"
 		{
@@ -2114,7 +2114,7 @@
 		}
 	}
 
-	"L6,Survivor,Alive"
+	"L6,Survivor"
 	{
 		"Center"
 		{
@@ -2163,7 +2163,7 @@
 		}
 	}
 
-	"L7,Survivor,Alive"
+	"L7,Survivor"
 	{
 		"Center"
 		{
@@ -2216,7 +2216,7 @@
 // Bill
 //--------------------------------------------------------------------------------------------------------------
 
-	"B1,Survivor,Alive"
+	"B1,Survivor"
 	{
 		"Center"
 		{
@@ -2265,7 +2265,7 @@
 		}
 	}
 
-	"B2,Survivor,Alive"
+	"B2,Survivor"
 	{
 		"Center"
 		{
@@ -2314,7 +2314,7 @@
 		}
 	}
 
-	"B3,Survivor,Alive"
+	"B3,Survivor"
 	{
 		"Center"
 		{
@@ -2363,7 +2363,7 @@
 		}
 	}
 
-	"B4,Survivor,Alive"
+	"B4,Survivor"
 	{
 		"Center"
 		{
@@ -2412,7 +2412,7 @@
 		}
 	}
 
-	"B5,Survivor,Alive"
+	"B5,Survivor"
 	{
 		"Center"
 		{
@@ -2461,7 +2461,7 @@
 		}
 	}
 
-	"B6,Survivor,Alive"
+	"B6,Survivor"
 	{
 		"Center"
 		{
@@ -2510,7 +2510,7 @@
 		}
 	}
 
-	"B7,Survivor,Alive"
+	"B7,Survivor"
 	{
 		"Center"
 		{
@@ -2563,7 +2563,7 @@
 // Zoey
 //--------------------------------------------------------------------------------------------------------------
 
-	"Z1,Survivor,Alive"
+	"Z1,Survivor"
 	{
 		"Center"
 		{
@@ -2612,7 +2612,7 @@
 		}
 	}
 
-	"Z2,Survivor,Alive"
+	"Z2,Survivor"
 	{
 		"Center"
 		{
@@ -2661,7 +2661,7 @@
 		}
 	}
 
-	"Z3,Survivor,Alive"
+	"Z3,Survivor"
 	{
 		"Center"
 		{
@@ -2710,7 +2710,7 @@
 		}
 	}
 
-	"Z4,Survivor,Alive"
+	"Z4,Survivor"
 	{
 		"Center"
 		{
@@ -2759,7 +2759,7 @@
 		}
 	}
 
-	"Z5,Survivor,Alive"
+	"Z5,Survivor"
 	{
 		"Center"
 		{
@@ -2808,7 +2808,7 @@
 		}
 	}
 
-	"Z6,Survivor,Alive"
+	"Z6,Survivor"
 	{
 		"Center"
 		{
@@ -2861,11 +2861,11 @@
 // Character selection
 //--------------------------------------------------------------------------------------------------------------
 
-	"Characters"
+	"Characters,Survivor"
 	{
 		"Center"
 		{
-			"command"	""
+			"command"	"radialmenu none"
 			"text"		""
 		}
 		"North"
@@ -2911,7 +2911,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"Sighs"
+	"Sighs,Survivor"
 	{
 		"Center"
 		{
@@ -2961,7 +2961,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"Events"
+	"Events,Survivor"
 	{
 		"Center"
 		{
@@ -3011,7 +3011,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"Screams"
+	"Screams,Survivor"
 	{
 		"Center"
 		{
@@ -3061,7 +3061,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"Enemies_See"
+	"Enemies_See,Survivor"
 	{
 		"Center"
 		{
@@ -3111,7 +3111,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"Enemies_Hear"
+	"Enemies_Hear,Survivor"
 	{
 		"Center"
 		{
@@ -3159,9 +3159,9 @@
 			"text"		"Hear Charger"
 		}
 	}
-	
+
 	//--------------------------------------------------------------
-	"Enemies_Know"
+	"Enemies_Know,Survivor"
 	{
 		"Center"
 		{
@@ -3211,7 +3211,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"L4D1_1"
+	"L4D1_1,Survivor"
 	{
 		"Center"
 		{
@@ -3261,7 +3261,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"L4D1_2"
+	"L4D1_2,Survivor"
 	{
 		"Center"
 		{
@@ -3311,7 +3311,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"L4D2_1"
+	"L4D2_1,Survivor"
 	{
 		"Center"
 		{
@@ -3361,12 +3361,12 @@
 	}
 
 	//--------------------------------------------------------------
-	"L4D2_2"
+	"L4D2_2,Survivor"
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C13M3Airstrike"
+			"text"		"Woah!"
 		}
 		"North"
 		{
@@ -3380,13 +3380,13 @@
 		}
 		"East"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C6M2_OpenGate1"
+			"text"		"I opened it"
 		}
 		"SouthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C13M3Tanker3"
+			"text"		"Close"
 		}
 		"South"
 		{
@@ -3415,7 +3415,7 @@
 //--------------------------------------------------------------------------------------------------------------
 
 	//--------------------------------------------------------------
-	"My1"
+	"My1,Survivor"
 	{
 		"Center"
 		{
@@ -3465,7 +3465,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"My2"
+	"My2,Survivor"
 	{
 		"Center"
 		{
@@ -3519,7 +3519,7 @@
 //--------------------------------------------------------------------------------------------------------------
 
 	//--------------------------------------------------------------
-	"ZMy1"
+	"ZMy1,Survivor"
 	{
 		"Center"
 		{
@@ -3569,7 +3569,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"ZMy2"
+	"ZMy2,Survivor"
 	{
 		"Center"
 		{
@@ -3619,7 +3619,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"ZMy3"
+	"ZMy3,Survivor"
 	{
 		"Center"
 		{
@@ -3669,7 +3669,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"ZMy4"
+	"ZMy4,Survivor"
 	{
 		"Center"
 		{
@@ -3719,7 +3719,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"FMy1"
+	"FMy1,Survivor"
 	{
 		"Center"
 		{
@@ -3769,7 +3769,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"FMy2"
+	"FMy2,Survivor"
 	{
 		"Center"
 		{
@@ -3819,7 +3819,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"FMy3"
+	"FMy3,Survivor"
 	{
 		"Center"
 		{
@@ -3869,7 +3869,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"FMy4"
+	"FMy4,Survivor"
 	{
 		"Center"
 		{
@@ -3919,7 +3919,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"LMy1"
+	"LMy1,Survivor"
 	{
 		"Center"
 		{
@@ -3969,7 +3969,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"LMy2"
+	"LMy2,Survivor"
 	{
 		"Center"
 		{
@@ -4019,7 +4019,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"LMy3"
+	"LMy3,Survivor"
 	{
 		"Center"
 		{
@@ -4069,7 +4069,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"LMy4"
+	"LMy4,Survivor"
 	{
 		"Center"
 		{
@@ -4119,7 +4119,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"BMy1"
+	"BMy1,Survivor"
 	{
 		"Center"
 		{
@@ -4169,7 +4169,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"BMy2"
+	"BMy2,Survivor"
 	{
 		"Center"
 		{
@@ -4219,7 +4219,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"BMy3"
+	"BMy3,Survivor"
 	{
 		"Center"
 		{
@@ -4269,7 +4269,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"BMy4"
+	"BMy4,Survivor"
 	{
 		"Center"
 		{
@@ -4319,7 +4319,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"RMy1"
+	"RMy1,Survivor"
 	{
 		"Center"
 		{
@@ -4363,13 +4363,13 @@
 		}
 		"NorthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize DLC1_C6M2_SafeRoomConvo21a"
+			"text"		"Zombie apocalypse"
 		}
 	}
 
 	//--------------------------------------------------------------
-	"RMy2"
+	"RMy2,Survivor"
 	{
 		"Center"
 		{
@@ -4419,7 +4419,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"RMy3"
+	"RMy3,Survivor"
 	{
 		"Center"
 		{
@@ -4428,8 +4428,8 @@
 		}
 		"North"
 		{
-			"command"	"vocalize _C3M2Pirogue2"
-			"text"		"You got me"
+			"command"	"vocalize C6M1Intro_07b"
+			"text"		"OKAY!"
 		}
 		"NorthEast"
 		{
@@ -4443,18 +4443,18 @@
 		}
 		"SouthEast"
 		{
-			"command"	"vocalize C2M3SafeIntro006"
-			"text"		"Tunnel of Love Nick"
+			"command"	"vocalize C1M4FinaleStartResponse"
+			"text"		"Gibbs"
 		}
 		"South"
 		{
-			"command"	"vocalize WorldC3M1FerryCrossingL2"
-			"text"		"Chickens?"
+			"command"	"vocalize C6M1Intro_10e"
+			"text"		"THANKS!"
 		}
 		"SouthWest"
 		{
-			"command"	"vocalize C1M2GunRoomDoorResponseGod"
-			"text"		"Okay… God"
+			"command"	""
+			"text"		""
 		}
 		"West"
 		{
@@ -4469,17 +4469,17 @@
 	}
 
 	//--------------------------------------------------------------
-	"RMy4"
+	"RMy4,Survivor"
 	{
 		"Center"
 		{
-			"command"	"vocalize C6M1Intro_10e"
-			"text"		"THANKS!"
+			"command"	""
+			"text"		""
 		}
 		"North"
 		{
-			"command"	"vocalize C6M1Intro_07b"
-			"text"		"OKAY!"
+			"command"	""
+			"text"		""
 		}
 		"NorthEast"
 		{
@@ -4488,8 +4488,8 @@
 		}
 		"East"
 		{
-			"command"	"vocalize C1M4FinaleStartResponse"
-			"text"		"I'll do it"
+			"command"	""
+			"text"		""
 		}
 		"SouthEast"
 		{
@@ -4498,28 +4498,28 @@
 		}
 		"South"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize _C3M2Pirogue2"
+			"text"		"You got me"
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C1M2GunRoomDoorResponseGod"
+			"text"		"Okay… God"
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize WorldC3M1FerryCrossingL2"
+			"text"		"Chickens?"
 		}
 		"NorthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C2M3SafeIntro006"
+			"text"		"Tunnel of Love"
 		}
 	}
 
 	//--------------------------------------------------------------
-	"NMy1"
+	"NMy1,Survivor"
 	{
 		"Center"
 		{
@@ -4569,7 +4569,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"NMy2"
+	"NMy2,Survivor"
 	{
 		"Center"
 		{
@@ -4619,7 +4619,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"NMy3"
+	"NMy3,Survivor"
 	{
 		"Center"
 		{
@@ -4669,7 +4669,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"NMy4"
+	"NMy4,Survivor"
 	{
 		"Center"
 		{
@@ -4719,7 +4719,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"CMy1"
+	"CMy1,Survivor"
 	{
 		"Center"
 		{
@@ -4769,7 +4769,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"CMy2"
+	"CMy2,Survivor"
 	{
 		"Center"
 		{
@@ -4819,7 +4819,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"CMy3"
+	"CMy3,Survivor"
 	{
 		"Center"
 		{
@@ -4869,7 +4869,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"CMy4"
+	"CMy4,Survivor"
 	{
 		"Center"
 		{
@@ -4878,8 +4878,8 @@
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize _C2M4_Ribs"
+			"text"		"Smell that?"
 		}
 		"NorthEast"
 		{
@@ -4919,7 +4919,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"EMy1"
+	"EMy1,Survivor"
 	{
 		"Center"
 		{
@@ -4928,8 +4928,8 @@
 		}
 		"North"
 		{
-			"command"	"vocalize C5M3Bodies02"
-			"text"		"People"
+			"command"	""
+			"text"		""
 		}
 		"NorthEast"
 		{
@@ -4953,28 +4953,28 @@
 		}
 		"SouthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize Player.CoverMeC1R"
+			"text"		"I see"
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize WorldC3M1FerryCrossingM4"
+			"text"		"Fun"
 		}
 		"NorthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize WorldC3M1FerryCrossingM2"
+			"text"		"Remember"
 		}
 	}
 
 	//--------------------------------------------------------------
-	"EMy2"
+	"EMy2,Survivor"
 	{
 		"Center"
 		{
-			"command"	"vocalize C1M2SafeRooma4"
-			"text"		"He is?"
+			"command"	""
+			"text"		""
 		}
 		"North"
 		{
@@ -4983,13 +4983,13 @@
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C1M2SafeRooma4"
+			"text"		"He is?"
 		}
 		"East"
 		{
-			"command"	"vocalize _C3M2Pirogue2"
-			"text"		"Pirogue"
+			"command"	""
+			"text"		""
 		}
 		"SouthEast"
 		{
@@ -4998,28 +4998,28 @@
 		}
 		"South"
 		{
-			"command"	"vocalize WorldC3M1FerryCrossingM4"
-			"text"		"Fun"
+			"command"	""
+			"text"		""
 		}
 		"SouthWest"
 		{
-			"command"	"vocalize WorldC3M1FerryCrossingM2"
-			"text"		"Remember"
+			"command"	""
+			"text"		""
 		}
 		"West"
 		{
-			"command"	"vocalize _C3M2BloodFarmers"
-			"text"		"Kiss"
+			"command"	""
+			"text"		""
 		}
 		"NorthWest"
 		{
-			"command"	"vocalize C13M3Airstrike"
-			"text"		"Woah!"
+			"command"	""
+			"text"		""
 		}
 	}
 
 	//--------------------------------------------------------------
-	"EMy3"
+	"EMy3,Survivor"
 	{
 		"Center"
 		{
@@ -5069,7 +5069,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"EMy4"
+	"EMy4,Survivor"
 	{
 		"Center"
 		{
@@ -5078,8 +5078,8 @@
 		}
 		"North"
 		{
-			"command"	"vocalize Player.CoverMeC1R"
-			"text"		"I see"
+			"command"	""
+			"text"		""
 		}
 		"NorthEast"
 		{
@@ -5108,13 +5108,13 @@
 		}
 		"West"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize _C3M2Pirogue2"
+			"text"		"Pirogue"
 		}
 		"NorthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize _C3M2BloodFarmers"
+			"text"		"Kiss"
 		}
 	}
 
