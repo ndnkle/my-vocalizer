@@ -3365,13 +3365,13 @@
 	{
 		"Center"
 		{
-			"command"	"vocalize C13M3Airstrike"
-			"text"		"Woah!"
+			"command"	"vocalize C6M2_OpenGate1"
+			"text"		"I opened it"
 		}
 		"North"
 		{
-			"command"	"vocalize C3M4GateBlow01"
-			"text"		"Gate Blow"
+			"command"	"vocalize C13M3Tanker3"
+			"text"		"Close"
 		}
 		"NorthEast"
 		{
@@ -3380,13 +3380,13 @@
 		}
 		"East"
 		{
-			"command"	"vocalize C6M2_OpenGate1"
-			"text"		"I opened it"
+			"command"	"vocalize C3M4GateBlow01"
+			"text"		"Gate Blow"
 		}
 		"SouthEast"
 		{
-			"command"	"vocalize C13M3Tanker3"
-			"text"		"Close"
+			"command"	"vocalize C13M3Airstrike"
+			"text"		"Woah!"
 		}
 		"South"
 		{
@@ -4593,8 +4593,8 @@
 		}
 		"SouthEast"
 		{
-			"command"	"vocalize C6M2_OpenGate1"
-			"text"		"I hit it!"
+			"command"	""
+			"text"		""
 		}
 		"South"
 		{
