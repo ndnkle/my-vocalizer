@@ -101,7 +101,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"Orders,Zombie,Alive"
+	"Orders,Zombie"
 	{
 		"Center"
 		{
@@ -111,7 +111,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"QA,Zombie,Alive"
+	"QA,Zombie"
 	{
 		"Center"
 		{
@@ -121,7 +121,7 @@
 	}
 
 	//--------------------------------------------------------------
-	"Alerts,Zombie,Alive"
+	"Alerts,Zombie"
 	{
 		"Center"
 		{
@@ -477,6 +477,104 @@
 		}
 	}
 
+	"C8,Survivor"
+	{
+		"Center"
+		{
+			"command"	"vocalize iMT_Ride"
+			"text"		"Ride"
+		}
+		"North"
+		{
+			"command"	"vocalize iMT_Dreaming"
+			"text"		"Dreaming"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize iMT_Pancakes"
+			"text"		"Pancakes"
+		}
+		"East"
+		{
+			"command"	"vocalize iMT_Hungry"
+			"text"		"Hungry"
+		}
+		"SouthEast"
+		{
+			"command"	"vocalize iMT_Apocalypse"
+			"text"		"Apocalypse"
+		}
+		"South"
+		{
+			"command"	"vocalize iMT_Neighborhood"
+			"text"		"Neighborhood"
+		}
+		"SouthWest"
+		{
+			"command"	"vocalize iMT_Hosanna"
+			"text"		"Hosanna"
+		}
+		"West"
+		{
+			"command"	"vocalize iMT_Pray"
+			"text"		"Pray"
+		}
+		"NorthWest"
+		{
+			"command"	"vocalize iMT_Teaching"
+			"text"		"Teaching"
+		}
+	}
+
+	"C9,Survivor"
+	{
+		"Center"
+		{
+			"command"	"vocalize iMT_Fair"
+			"text"		"Fair"
+		}
+		"North"
+		{
+			"command"	"vocalize iMT_Killing"
+			"text"		"Killing"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize iMT_Swallow"
+			"text"		"Swallow"
+		}
+		"East"
+		{
+			"command"	"vocalize iMT_LouisRules"
+			"text"		"Louis"
+		}
+		"SouthEast"
+		{
+			"command"	"vocalize iMT_Chicken"
+			"text"		"Chicken"
+		}
+		"South"
+		{
+			"command"	"vocalize iMT_LeaveEllis"
+			"text"		"Leave Ellis"
+		}
+		"SouthWest"
+		{
+			"command"	"vocalize iMT_Swamp"
+			"text"		"Swamp"
+		}
+		"West"
+		{
+			"command"	"vocalize iMT_Night"
+			"text"		"Night"
+		}
+		"NorthWest"
+		{
+			"command"	"vocalize iMT_GetBusy"
+			"text"		"Get busy"
+		}
+	}
+
 //--------------------------------------------------------------------------------------------------------------
 // Nick
 //--------------------------------------------------------------------------------------------------------------
@@ -598,8 +696,8 @@
 		}
 		"East"
 		{
-			"command"	"vocalize c6m3_outroL4D1011a"
-			"text"		"Fish"
+			"command"	"vocalize C1M1Crumbs"
+			"text"		"Crumbs"
 		}
 		"SouthEast"
 		{
@@ -824,6 +922,104 @@
 		}
 	}
 
+	"N8,Survivor"
+	{
+		"Center"
+		{
+			"command"	"vocalize iMT_Quiet"
+			"text"		"Quiet"
+		}
+		"North"
+		{
+			"command"	"vocalize iMT_HavingFun"
+			"text"		"Having fun"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize iMT_Fantasy"
+			"text"		"Fantasy"
+		}
+		"East"
+		{
+			"command"	"vocalize iMT_Angel"
+			"text"		"Angel"
+		}
+		"SouthEast"
+		{
+			"command"	"vocalize iMT_ShitAir"
+			"text"		"Shit air"
+		}
+		"South"
+		{
+			"command"	"vocalize iMT_Honeymoon"
+			"text"		"Honeymoon"
+		}
+		"SouthWest"
+		{
+			"command"	"vocalize iMT_Tricked"
+			"text"		"Tricked"
+		}
+		"West"
+		{
+			"command"	"vocalize iMT_Hippie"
+			"text"		"Hippie"
+		}
+		"NorthWest"
+		{
+			"command"	"vocalize iMT_NotDie"
+			"text"		"Not die"
+		}
+	}
+
+	"N9,Survivor"
+	{
+		"Center"
+		{
+			"command"	"vocalize iMT_Game"
+			"text"		"Game"
+		}
+		"North"
+		{
+			"command"	"vocalize iMT_Depressing"
+			"text"		"Depressing"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize iMT_Attractive"
+			"text"		"Attractive"
+		}
+		"East"
+		{
+			"command"	"vocalize iMT_Fish"
+			"text"		"Fish"
+		}
+		"SouthEast"
+		{
+			"command"	"vocalize iMT_LazyAss"
+			"text"		"Lazy ass"
+		}
+		"South"
+		{
+			"command"	"vocalize iMT_GetRoom"
+			"text"		"Get a room"
+		}
+		"SouthWest"
+		{
+			"command"	"vocalize iMT_ScrewYou"
+			"text"		"Screw you"
+		}
+		"West"
+		{
+			"command"	"vocalize iMT_Test"
+			"text"		"Test"
+		}
+		"NorthWest"
+		{
+			"command"	"vocalize iMT_Sevensome"
+			"text"		"Sevensome"
+		}
+	}
+
 //--------------------------------------------------------------------------------------------------------------
 // Ellis
 //--------------------------------------------------------------------------------------------------------------
@@ -847,7 +1043,7 @@
 		}
 		"East"
 		{
-			"command"	"vocalize C1M3SafeRoom2d"
+			"command"	"vocalize C1M3SafeRoom2e"
 			"text"		"Amen"
 		}
 		"SouthEast"
@@ -1171,6 +1367,104 @@
 		}
 	}
 
+	"E8,Survivor"
+	{
+		"Center"
+		{
+			"command"	"vocalize iMT_EllisStories"
+			"text"		"Story"
+		}
+		"North"
+		{
+			"command"	"vocalize iMT_Singing"
+			"text"		"Singing"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize iMT_AllAboard"
+			"text"		"Aboard"
+		}
+		"East"
+		{
+			"command"	"vocalize iMT_SayingZoey"
+			"text"		"Zoey"
+		}
+		"SouthEast"
+		{
+			"command"	"vocalize iMT_Marriage"
+			"text"		"Marriage"
+		}
+		"South"
+		{
+			"command"	"vocalize iMT_TeamFortress2"
+			"text"		"Team Fortress 2"
+		}
+		"SouthWest"
+		{
+			"command"	"vocalize iMT_Tattoos"
+			"text"		"Tattoos"
+		}
+		"West"
+		{
+			"command"	"vocalize iMT_Candy"
+			"text"		"Candy"
+		}
+		"NorthWest"
+		{
+			"command"	"vocalize iMT_CaCaw"
+			"text"		"Ca caw"
+		}
+	}
+
+	"E9,Survivor"
+	{
+		"Center"
+		{
+			"command"	"vocalize iMT_Madam"
+			"text"		"Ma'am"
+		}
+		"North"
+		{
+			"command"	"vocalize iMT_Biscuit"
+			"text"		"Biscuit"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize iMT_GotYou"
+			"text"		"Got you"
+		}
+		"East"
+		{
+			"command"	"vocalize iMT_Dog"
+			"text"		"Dogs"
+		}
+		"SouthEast"
+		{
+			"command"	"vocalize iMT_InLove"
+			"text"		"In love"
+		}
+		"South"
+		{
+			"command"	"vocalize iMT_FeelHer"
+			"text"		"Feel her"
+		}
+		"SouthWest"
+		{
+			"command"	"vocalize iMT_InHonor"
+			"text"		"In honor"
+		}
+		"West"
+		{
+			"command"	"vocalize iMT_Break"
+			"text"		"Break"
+		}
+		"NorthWest"
+		{
+			"command"	"vocalize iMT_LoveYou"
+			"text"		"Love you"
+		}
+	}
+
 //--------------------------------------------------------------------------------------------------------------
 // Rochelle
 //--------------------------------------------------------------------------------------------------------------
@@ -1194,7 +1488,7 @@
 		}
 		"East"
 		{
-			"command"	"vocalize C1M3SafeRoom2d"
+			"command"	"vocalize C1M3SafeRoom2e"
 			"text"		"Amen"
 		}
 		"SouthEast"
@@ -1204,7 +1498,7 @@
 		}
 		"South"
 		{
-			"command"	"vocalize _C4M5_FinaleStart01"
+			"command"	"vocalize _C4M5_BoatComing01"
 			"text"		"Virgil"
 		}
 		"SouthWest"
@@ -1515,6 +1809,104 @@
 		{
 			"command"	"vocalize C6M1Intro_24b"
 			"text"		"Aliens"
+		}
+	}
+
+	"R8,Survivor"
+	{
+		"Center"
+		{
+			"command"	"vocalize iMT_Tits"
+			"text"		"Tits"
+		}
+		"North"
+		{
+			"command"	"vocalize iMT_NoNoNo"
+			"text"		"No no no"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize iMT_Charming"
+			"text"		"Charming"
+		}
+		"East"
+		{
+			"command"	"vocalize iMT_Wedding"
+			"text"		"Wedding"
+		}
+		"SouthEast"
+		{
+			"command"	"vocalize iMT_NickOCD"
+			"text"		"Nick's OCD"
+		}
+		"South"
+		{
+			"command"	"vocalize iMT_LoveGuns"
+			"text"		"Love guns"
+		}
+		"SouthWest"
+		{
+			"command"	"vocalize iMT_NoSex"
+			"text"		"No sex"
+		}
+		"West"
+		{
+			"command"	"vocalize iMT_Popcorn"
+			"text"		"Popcorn"
+		}
+		"NorthWest"
+		{
+			"command"	"vocalize iMT_Kitchen"
+			"text"		"Kitchen"
+		}
+	}
+
+	"R9,Survivor"
+	{
+		"Center"
+		{
+			"command"	"vocalize iMT_Aye"
+			"text"		"Aye"
+		}
+		"North"
+		{
+			"command"	"vocalize iMT_Stomach"
+			"text"		"Stomach"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize iMT_Something"
+			"text"		"Something"
+		}
+		"East"
+		{
+			"command"	"vocalize iMT_Turd"
+			"text"		"Turd"
+		}
+		"SouthEast"
+		{
+			"command"	"vocalize iMT_NewVoices"
+			"text"		"New voices"
+		}
+		"South"
+		{
+			"command"	"vocalize iMT_WhereFrom"
+			"text"		"Where from?"
+		}
+		"SouthWest"
+		{
+			"command"	"vocalize iMT_Learning"
+			"text"		"Learning"
+		}
+		"West"
+		{
+			"command"	"vocalize iMT_Hate"
+			"text"		"Hate"
+		}
+		"NorthWest"
+		{
+			"command"	"vocalize iMT_Bothering"
+			"text"		"Bothering"
 		}
 	}
 
@@ -1865,6 +2257,104 @@
 		}
 	}
 
+	"F8,Survivor"
+	{
+		"Center"
+		{
+			"command"	"vocalize iMT_Hate"
+			"text"		"Hate"
+		}
+		"North"
+		{
+			"command"	"vocalize iMT_Waterworks"
+			"text"		"Waterworks"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize iMT_FrozenBeard"
+			"text"		"Frozen"
+		}
+		"East"
+		{
+			"command"	"vocalize iMT_ImACop"
+			"text"		"Cop"
+		}
+		"SouthEast"
+		{
+			"command"	"vocalize iMT_Brave"
+			"text"		"Brave"
+		}
+		"South"
+		{
+			"command"	"vocalize iMT_GodIsDead"
+			"text"		"God's dead"
+		}
+		"SouthWest"
+		{
+			"command"	"vocalize iMT_Hersch"
+			"text"		"Hersch"
+		}
+		"West"
+		{
+			"command"	"vocalize iMT_Dog"
+			"text"		"Dog"
+		}
+		"NorthWest"
+		{
+			"command"	"vocalize iMT_Predict"
+			"text"		"Predict"
+		}
+	}
+
+	"F9,Survivor"
+	{
+		"Center"
+		{
+			"command"	"vocalize iMT_WomanOfTaste"
+			"text"		"Woman"
+		}
+		"North"
+		{
+			"command"	"vocalize iMT_Recycle"
+			"text"		"Recycle"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize iMT_HateToo"
+			"text"		"Hate too"
+		}
+		"East"
+		{
+			"command"	"vocalize iMT_Hero"
+			"text"		"Hero"
+		}
+		"SouthEast"
+		{
+			"command"	"vocalize iMT_YourName"
+			"text"		"Your name"
+		}
+		"South"
+		{
+			"command"	"vocalize iMT_LoveRo"
+			"text"		"Love Ro"
+		}
+		"SouthWest"
+		{
+			"command"	"vocalize iMT_ShotHim"
+			"text"		"Shot him"
+		}
+		"West"
+		{
+			"command"	"vocalize iMT_Slow"
+			"text"		"Slow"
+		}
+		"NorthWest"
+		{
+			"command"	"vocalize iMT_ThisFar"
+			"text"		"This far"
+		}
+	}
+
 //--------------------------------------------------------------------------------------------------------------
 // Louis
 //--------------------------------------------------------------------------------------------------------------
@@ -2209,6 +2699,104 @@
 		{
 			"command"	"vocalize C14M2NoteLighthouse2"
 			"text"		"Negative"
+		}
+	}
+
+	"L8,Survivor"
+	{
+		"Center"
+		{
+			"command"	"vocalize iMT_TankFactory"
+			"text"		"Joke"
+		}
+		"North"
+		{
+			"command"	"vocalize iMT_GordonFreeman"
+			"text"		"Freeman"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize iMT_Hero"
+			"text"		"Abused"
+		}
+		"East"
+		{
+			"command"	"vocalize iMT_Belch"
+			"text"		"Belch"
+		}
+		"SouthEast"
+		{
+			"command"	"vocalize iMT_Apocalypse"
+			"text"		"Apocalypse"
+		}
+		"South"
+		{
+			"command"	"vocalize iMT_CounterStrike"
+			"text"		"Counter-Strike"
+		}
+		"SouthWest"
+		{
+			"command"	"vocalize iMT_CubScouts"
+			"text"		"Cub Scouts"
+		}
+		"West"
+		{
+			"command"	"vocalize iMT_Alley"
+			"text"		"Alley"
+		}
+		"NorthWest"
+		{
+			"command"	"vocalize iMT_Recycle"
+			"text"		"Recycle"
+		}
+	}
+
+	"L9,Survivor"
+	{
+		"Center"
+		{
+			"command"	"vocalize iMT_Introduction"
+			"text"		"Hi"
+		}
+		"North"
+		{
+			"command"	"vocalize iMT_SeeingMore"
+			"text"		"Seeing more"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize iMT_Believing"
+			"text"		"Believing"
+		}
+		"East"
+		{
+			"command"	"vocalize iMT_IT"
+			"text"		"I.T."
+		}
+		"SouthEast"
+		{
+			"command"	"vocalize iMT_MadeIt"
+			"text"		"Made it"
+		}
+		"South"
+		{
+			"command"	"vocalize iMT_RifleRange"
+			"text"		"Rifle range"
+		}
+		"SouthWest"
+		{
+			"command"	"vocalize iMT_ShotHim"
+			"text"		"Shot him"
+		}
+		"West"
+		{
+			"command"	"vocalize iMT_New"
+			"text"		"New"
+		}
+		"NorthWest"
+		{
+			"command"	"vocalize iMT_BackToNormal"
+			"text"		"Normal"
 		}
 	}
 
@@ -2559,6 +3147,104 @@
 		}
 	}
 
+	"B8,Survivor"
+	{
+		"Center"
+		{
+			"command"	"vocalize iMT_Cold"
+			"text"		"Cold"
+		}
+		"North"
+		{
+			"command"	"vocalize iMT_10Miles"
+			"text"		"10 miles"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize iMT_GoodEnough"
+			"text"		"Good enough"
+		}
+		"East"
+		{
+			"command"	"vocalize iMT_Stink"
+			"text"		"Stink"
+		}
+		"SouthEast"
+		{
+			"command"	"vocalize iMT_GoodRun"
+			"text"		"Good run"
+		}
+		"South"
+		{
+			"command"	"vocalize iMT_ShoeLeather"
+			"text"		"Shoe leather"
+		}
+		"SouthWest"
+		{
+			"command"	"vocalize iMT_JobDone"
+			"text"		"Job done"
+		}
+		"West"
+		{
+			"command"	"vocalize iMT_Woods"
+			"text"		"Woods"
+		}
+		"NorthWest"
+		{
+			"command"	"vocalize iMT_LastFight"
+			"text"		"Get some"
+		}
+	}
+
+	"B9,Survivor"
+	{
+		"Center"
+		{
+			"command"	"vocalize iMT_Mad"
+			"text"		"Mad"
+		}
+		"North"
+		{
+			"command"	"vocalize iMT_Hallelujah"
+			"text"		"Hallelujah"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize iMT_Lonely"
+			"text"		"Lonely"
+		}
+		"East"
+		{
+			"command"	"vocalize iMT_Home"
+			"text"		"Home"
+		}
+		"SouthEast"
+		{
+			"command"	"vocalize iMT_FirstStep"
+			"text"		"First step"
+		}
+		"South"
+		{
+			"command"	"vocalize iMT_KnowingLouis"
+			"text"		"Knowing Louis"
+		}
+		"SouthWest"
+		{
+			"command"	"vocalize iMT_BigMouth"
+			"text"		"Big mouth"
+		}
+		"West"
+		{
+			"command"	"vocalize iMT_Phone"
+			"text"		"Phone"
+		}
+		"NorthWest"
+		{
+			"command"	"vocalize iMT_Family"
+			"text"		"Family"
+		}
+	}
+
 //--------------------------------------------------------------------------------------------------------------
 // Zoey
 //--------------------------------------------------------------------------------------------------------------
@@ -2857,6 +3543,153 @@
 		}
 	}
 
+	"Z7,Survivor"
+	{
+		"Center"
+		{
+			"command"	"vocalize iMT_Yoink"
+			"text"		"Yoink"
+		}
+		"North"
+		{
+			"command"	"vocalize iMT_NervousHumming"
+			"text"		"Humming"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize iMT_5000Lawyers"
+			"text"		"5000 lawyers"
+		}
+		"East"
+		{
+			"command"	"vocalize iMT_GodDamnYou"
+			"text"		"Maniacs"
+		}
+		"SouthEast"
+		{
+			"command"	"vocalize iMT_SoylentGreen"
+			"text"		"Soylent green"
+		}
+		"South"
+		{
+			"command"	"vocalize iMT_PilotLicense"
+			"text"		"License"
+		}
+		"SouthWest"
+		{
+			"command"	"vocalize iMT_Chickenshits"
+			"text"		"Chickenshits"
+		}
+		"West"
+		{
+			"command"	"vocalize iMT_ProclaimLiberty"
+			"text"		"Liberty"
+		}
+		"NorthWest"
+		{
+			"command"	"vocalize iMT_SexyBrunette"
+			"text"		"Sexy brunette"
+		}
+	}
+
+	"Z8,Survivor"
+	{
+		"Center"
+		{
+			"command"	"vocalize iMT_GodIsDead"
+			"text"		"God"
+		}
+		"North"
+		{
+			"command"	"vocalize iMT_MetalSupply"
+			"text"		"Metal supply"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize iMT_Really"
+			"text"		"You kidding"
+		}
+		"East"
+		{
+			"command"	"vocalize iMT_Parking"
+			"text"		"Parking"
+		}
+		"SouthEast"
+		{
+			"command"	"vocalize iMT_CopyPaper"
+			"text"		"Copy paper"
+		}
+		"South"
+		{
+			"command"	"vocalize iMT_PassingGas"
+			"text"		"Passing gas"
+		}
+		"SouthWest"
+		{
+			"command"	"vocalize iMT_SnowCold"
+			"text"		"Snow/cold"
+		}
+		"West"
+		{
+			"command"	"vocalize iMT_Shoes"
+			"text"		"Shoes"
+		}
+		"NorthWest"
+		{
+			"command"	"vocalize iMT_LatestIssue"
+			"text"		"Latest issue"
+		}
+	}
+
+	"Z9,Survivor"
+	{
+		"Center"
+		{
+			"command"	"vocalize iMT_Greeting"
+			"text"		"Hey"
+		}
+		"North"
+		{
+			"command"	"vocalize iMT_NiceCar"
+			"text"		"Nice car"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize iMT_MyBuddyEllis"
+			"text"		"Buddy Ellis"
+		}
+		"East"
+		{
+			"command"	"vocalize iMT_Morons"
+			"text"		"Morons"
+		}
+		"SouthEast"
+		{
+			"command"	"vocalize iMT_MissEllis"
+			"text"		"Miss Ellis"
+		}
+		"South"
+		{
+			"command"	"vocalize iMT_CarCalling"
+			"text"		"Car calling"
+		}
+		"SouthWest"
+		{
+			"command"	"vocalize iMT_ComeBack"
+			"text"		"Come back"
+		}
+		"West"
+		{
+			"command"	"vocalize iMT_Steal"
+			"text"		"Steal"
+		}
+		"NorthWest"
+		{
+			"command"	"vocalize iMT_LastWoman"
+			"text"		"Last woman"
+		}
+	}
+
 //--------------------------------------------------------------------------------------------------------------
 // Character selection
 //--------------------------------------------------------------------------------------------------------------
@@ -2865,47 +3698,47 @@
 	{
 		"Center"
 		{
-			"command"	"radialmenu none"
+			"command"	""
 			"text"		""
 		}
 		"North"
 		{
-			"command"	"alias +ch1 +mouse_menu Z1; alias +ch2 +mouse_menu Z2; alias +ch3 +mouse_menu Z3; alias +ch4 +mouse_menu Z4; alias +ch5 +mouse_menu Z5; alias +ch6 +mouse_menu Z6; alias +ch7 +mouse_menu Z7; ZMy; ZAdm;"
+			"command"	"Z; ZMy; ZAdm"
 			"text"		"Zoey"
 		}
 		"NorthEast"
 		{
-			"command"	"alias +ch1 +mouse_menu E1; alias +ch2 +mouse_menu E2; alias +ch3 +mouse_menu E3; alias +ch4 +mouse_menu E4; alias +ch5 +mouse_menu E5; alias +ch6 +mouse_menu E6; alias +ch7 +mouse_menu E7; EMy; EAdm;"
-			"text"		"Ellis"
+			"command"	"C; CMy; CAdm"
+			"text"		"Coach"
 		}
 		"East"
 		{
-			"command"	"alias +ch1 +mouse_menu C1; alias +ch2 +mouse_menu C2; alias +ch3 +mouse_menu C3; alias +ch4 +mouse_menu C4; alias +ch5 +mouse_menu C5; alias +ch6 +mouse_menu C6; alias +ch7 +mouse_menu C7; CMy; CAdm;"
-			"text"		"Coach"
+			"command"	"N; NMy; NAdm"
+			"text"		"Nick"
 		}
 		"SouthEast"
 		{
-			"command"	"alias +ch1 +mouse_menu N1; alias +ch2 +mouse_menu N2; alias +ch3 +mouse_menu N3; alias +ch4 +mouse_menu N4; alias +ch5 +mouse_menu N5; alias +ch6 +mouse_menu N6; alias +ch7 +mouse_menu N7; NMy; NAdm;"
-			"text"		"Nick"
+			"command"	"E; EMy; EAdm"
+			"text"		"Ellis"
 		}
 		"South"
 		{
-			"command"	"alias +ch1 +mouse_menu R1; alias +ch2 +mouse_menu R2; alias +ch3 +mouse_menu R3; alias +ch4 +mouse_menu R4; alias +ch5 +mouse_menu R5; alias +ch6 +mouse_menu R6; alias +ch7 +mouse_menu R7; RMy; RAdm;"
+			"command"	"R; RMy; RAdm"
 			"text"		"Rochelle"
 		}
 		"SouthWest"
 		{
-			"command"	"alias +ch1 +mouse_menu B1; alias +ch2 +mouse_menu B2; alias +ch3 +mouse_menu B3; alias +ch4 +mouse_menu B4; alias +ch5 +mouse_menu B5; alias +ch6 +mouse_menu B6; alias +ch7 +mouse_menu B7; BMy; BAdm;"
-			"text"		"Bill"
+			"command"	"L; LMy; LAdm"
+			"text"		"Louis"
 		}
 		"West"
 		{
-			"command"	"alias +ch1 +mouse_menu L1; alias +ch2 +mouse_menu L2; alias +ch3 +mouse_menu L3; alias +ch4 +mouse_menu L4; alias +ch5 +mouse_menu L5; alias +ch6 +mouse_menu L6; alias +ch7 +mouse_menu L7; LMy; LAdm;"
-			"text"		"Louis"
+			"command"	"B; BMy; BAdm"
+			"text"		"Bill"
 		}
 		"NorthWest"
 		{
-			"command"	"alias +ch1 +mouse_menu F1; alias +ch2 +mouse_menu F2; alias +ch3 +mouse_menu F3; alias +ch4 +mouse_menu F4; alias +ch5 +mouse_menu F5; alias +ch6 +mouse_menu F6; alias +ch7 +mouse_menu F7; FMy; FAdm;"
+			"command"	"F; FMy; FAdm"
 			"text"		"Francis"
 		}
 	}
