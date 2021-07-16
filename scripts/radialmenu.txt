@@ -5358,8 +5358,8 @@
 		}
 		"NorthWest"
 		{
-			"command"	""
-			"text"		""
+			"command"	"vocalize C1M2SafeRoomb1"
+			"text"		"Show"
 		}
 	}
 
@@ -5989,13 +5989,13 @@
 		}
 		"SouthWest"
 		{
-			"command"	"sm_spawnlight 0"
-			"text"		"Light unbr"
+			"command"	"sm_grabprop"
+			"text"		"Grab last"
 		}
 		"West"
 		{
-			"command"	"sm_spawnlight 1"
-			"text"		"Light br"
+			"command"	"sm_grablook"
+			"text"		"Grab look"
 		}
 		"NorthWest"
 		{
@@ -7615,8 +7615,8 @@
 		}
 		"West"
 		{
-			"command"	"sm_vocalize @me scenes/Gambler/WorldC1M1B121.vcd"
-			"text"		"Call 911"
+			"command"	"sm_vocalize @me scenes/Gambler/WorldMisc11.vcd"
+			"text"		"Smell"
 		}
 		"NorthWest"
 		{
@@ -7629,8 +7629,8 @@
 	{
 		"Center"
 		{
-			"command"	"sm_vocalize @me scenes/Gambler/WorldMisc11.vcd"
-			"text"		"Smell"
+			"command"	""
+			"text"		""
 		}
 		"North"
 		{
@@ -7678,8 +7678,8 @@
 	{
 		"Center"
 		{
-			"command"	"sm_vocalize @me scenes/Gambler/worldc1m2b01.vcd"
-			"text"		"I like"
+			"command"	"sm_vocalize @me scenes/Gambler/WorldC1M4B16.vcd"
+			"text"		"How big"
 		}
 		"North"
 		{
@@ -7713,8 +7713,8 @@
 		}
 		"West"
 		{
-			"command"	"sm_vocalize @me scenes/Gambler/WorldC1M4B16.vcd"
-			"text"		"How big"
+			"command"	"sm_vocalize @me scenes/Gambler/worldc1m2b01.vcd"
+			"text"		"I like"
 		}
 		"NorthWest"
 		{
@@ -7825,8 +7825,8 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Gambler/WorldC1M1B121.vcd"
+			"text"		"Call 911"
 		}
 		"North"
 		{
