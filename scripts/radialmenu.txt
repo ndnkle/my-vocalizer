@@ -6992,8 +6992,8 @@
 	{
 		"Center"
 		{
-			"command"	"sm_vocalize @me scenes/NamVet/GettingRevived11.vcd"
-			"text"		"Who?"
+			"command"	"sm_vocalize @me scenes/NamVet/WatchOutBehind01.vcd"
+			"text"		"Behind"
 		}
 		"North"
 		{
@@ -7041,8 +7041,8 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/NamVet/GettingRevived11.vcd"
+			"text"		"Who?"
 		}
 		"North"
 		{
@@ -7580,8 +7580,8 @@
 	{
 		"Center"
 		{
-			"command"	"sm_vocalize @me scenes/Gambler/DLC1_C6M2_MidnightRiders04.vcd"
-			"text"		"Dreaming"
+			"command"	"sm_vocalize @me scenes/Gambler/WatchOutBehind04.vcd"
+			"text"		"Behind"
 		}
 		"North"
 		{
@@ -7595,8 +7595,8 @@
 		}
 		"East"
 		{
-			"command"	"sm_vocalize @me scenes/Gambler/DLC1_C6M3_FinaleL4D1Items06.vcd"
-			"text"		"Thanks, babe!"
+			"command"	"sm_vocalize @me scenes/Gambler/DLC1_C6M2_MidnightRiders04.vcd"
+			"text"		"Dreaming"
 		}
 		"SouthEast"
 		{
@@ -7629,13 +7629,13 @@
 	{
 		"Center"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Gambler/DLC1_C6M3_FinaleL4D1Items06.vcd"
+			"text"		"Thanks, babe!"
 		}
 		"North"
 		{
-			"command"	"sm_vocalize @me scenes/Gambler/WitchGettingAngryEllis01.vcd"
-			"text"		"Ellis witch"
+			"command"	"sm_vocalize @me scenes/Gambler/AlertGiveItem01.vcd"
+			"text"		"To give"
 		}
 		"NorthEast"
 		{
@@ -7791,8 +7791,8 @@
 		}
 		"East"
 		{
-			"command"	"sm_vocalize @me scenes/Gambler/AlertGiveItem01.vcd"
-			"text"		"To give"
+			"command"	""
+			"text"		""
 		}
 		"SouthEast"
 		{
@@ -7825,18 +7825,18 @@
 	{
 		"Center"
 		{
-			"command"	"sm_vocalize @me scenes/Gambler/WorldC1M1B121.vcd"
-			"text"		"Call 911"
+			"command"	""
+			"text"		""
 		}
 		"North"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Gambler/WorldC1M1B121.vcd"
+			"text"		"Call 911"
 		}
 		"NorthEast"
 		{
-			"command"	""
-			"text"		""
+			"command"	"sm_vocalize @me scenes/Gambler/WitchGettingAngryEllis01.vcd"
+			"text"		"Ellis witch"
 		}
 		"East"
 		{
